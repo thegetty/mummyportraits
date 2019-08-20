@@ -9,8 +9,8 @@
 # Title & Description
 # ------------------------------------------------------------------------------
 
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Mummy Portraits of Roman Egypt
+subtitle: Emerging Research from the APPEAR Project
 reading_line:
 short_title:
 
@@ -44,15 +44,15 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
-    type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: http://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    pic: contributors/judith-keller.jpg
+  - id:
+    type:
+    first_name:
+    last_name:
+    title:
+    affiliation:
+    bio:
+    url:
+    pic:
   - id:
     type:
     first_name:
@@ -114,22 +114,22 @@ resource_link:
 
 subject:
   - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
+    name:
+    identifer:
   - type: getty
-    name: Dorothea Lange
-    identifier: "http://vocab.getty.edu/ulan/500007674"
-  - type: keyword
-    name: photography
+    name:
+    identifier:
+  - type:
+    name:
+  - type:
+    name:
+    identifier:
   - type: getty
-    name: Walker Evans
-    identifier: "http://vocab.getty.edu/ulan/500012076"
+    name:
+    identifier:
   - type: getty
-    name: black-and-white photography
-    identifier: "http://vocab.getty.edu/aat/300162056"
-  - type: getty
-    name: despression (economic concept)
-    identifier: "http://vocab.getty.edu/aat/300410245"
+    name:
+    identifier: 
 
 # ------------------------------------------------------------------------------
 # Revision History
