@@ -1,90 +1,847 @@
 figure_list:
-  - id: "dog1"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "dog2"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935. "
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-6"
-    label: "Figure 6"
-    src: figures/evans-washroom.jpg
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-7"
-    label: "Figure 7"
-    src: figures/evans-child.jpg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-8"
-    label: "Figure 8"
-    src: figures/evans-refugee.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "evans-video"
-    src: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "photo-podcast"
-    media_id: 336879231
-    media_type: soundcloud
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-  - id: "mother"
-    src: figures/mother.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "mother-b"
-    src: figures/mother-b.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "mother-c"
-    src: figures/mother-c.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "pickers"
-    src: figures/pickers.jpg
-    caption: "Dorothea Lange, *Pea Pickers, Nipomo, California*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "duo"
-    src: figures/duo.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "family"
-    src: figures/family.jpg
-    caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
-    credit: The J. Paul Getty Museum, Los Angeles
 
+  - id: "fig_1_1"
+    src: figures/fig_1_1.jpg
+    alt: ""
+    caption: "Mummy Portrait of a Man Wearing a Laurel Wreath, Romano-Egyptian, early to mid-second century AD. Lime (linden) wood, beeswax, pigments, gold, textile, and natural resin, 41.9 x 24.1 cm (16 1/2 x 9 1/2 in.). Art Institute of Chicago, Gift of Emily Crane Chadbourne, 1922.4799"
+    credit: ""
+
+  - id: "fig_1_2"
+    src: figures/fig_1_2.jpg
+    alt: ""
+    caption: "Mummy Portrait of a Man Wearing an Ivy Wreath, Romano-Egyptian, early to mid-second century AD. Lime (linden) wood, beeswax, pigments, gold, textile, and natural resin, 39.4 x 22 cm (15 1/2 x 8 5/8 in.). Art Institute of Chicago, Gift of Emily Crane Chadbourne, 1922.4798"
+    credit: ""
+
+  - id: "fig_1_3"
+    src: figures/fig_1_3.jpg
+    alt: ""
+    caption: "Raking light detail of fig. 1.1, showing impasto and tool marks."
+    credit: ""
+
+  - id: "fig_1_4"
+    src: figures/fig_1_4.jpg
+    alt: ""
+    caption: "Detail of figure 1.2, showing the use of *tratteggio* around the eyes and the bridge of the nose."
+    credit: ""
+
+  - id: "fig_1_5"
+    src: figures/fig_1_5.jpg
+    alt: ""
+    caption: "Infrared spectrum, black paint sample #1 from the hair of the portrait shown in fig. 1.2, exhibiting characteristic peaks for beeswax (BW) and cellulose nitrate (CN)."
+    credit: ""
+
+  - id: "fig_1_6"
+    src: figures/fig_1_6.jpg
+    alt: ""
+    caption: "Total ion chromatogram (pyrolysis gas chromatography mass spectrometry), dark brown paint sample #2 from the eyelid of the portrait shown in fig. 1.2, exhibiting characteristic marker compounds for beeswax (FA = fatty acid methyl ester, OH-FA = hydroxy fatty acid methyl ester, FAlc = fatty alcohol methyl ether, HC = hydrocarbon), Pinaceae resin (Pi), shellac (Sh), and protein (Pr)."
+    credit: ""
+
+  - id: "fig_1_7"
+    src: figures/fig_1_7.jpg
+    alt: ""
+    caption: "Detail of fig. 1.2, showing sample locations corresponding to those described in figs. 1.5 and 1.6."
+    credit: ""
+
+  - id: "fig_2_2"
+    src: figures/fig_2_2.jpg
+    alt: ""
+    caption: "SEM image of an RLS of *Ficus sycomorus*, sycomore fig wood; scale bar is in microns."
+    credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
+
+  - id: "fig_2_3"
+    src: figures/fig_2_3.jpg
+    alt: ""
+    caption: "SEM image of a RLS of *Tilia europaea*, lime wood; scale bar is in microns."
+    credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
+
+  - id: "fig_2_4"
+    src: figures/fig_2_4.jpg
+    alt: ""
+    caption: "SEM image of an RLS of *Cedrus libani*, cedar of Lebanon wood; scale bar is in microns."
+    credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
+
+  - id: "fig_2_5"
+    src: figures/fig_2_5.jpg
+    alt: ""
+    caption: "A *Tilia europaea* tree in the Royal Botanic Gardens at Kew."
+    credit: "Image: © C.R. Cartwright 2012"
+
+  - id: "fig_2_6"
+    src: figures/fig_2_6.jpg
+    alt: ""
+    caption: "Image of a transverse thin section of *Tilia europaea* lime reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
+    credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
+
+  - id: "fig_2_7"
+    src: figures/fig_2_7.jpg
+    alt: ""
+    caption: "Image of a radial longitudinal thin section of *Tilia europaea* lime reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
+    credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
+
+  - id: "fig_2_8"
+    src: figures/fig_2_8.jpg
+    alt: ""
+    caption: "Image of a tangential longitudinal thin section of *Tilia europaea* lime reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
+    credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
+
+  - id: "fig_2_9"
+    src: figures/fig_2_9.jpg
+    alt: ""
+    caption: "Image of a transverse thin section of *Ficus sycomorus* sycomore fig reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
+    credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
+
+  - id: "fig_2_10"
+    src: figures/fig_2_10.jpg
+    alt: ""
+    caption: "Image of a transverse thin section of *Ziziphus spina-christi* sidr reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
+    credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
+
+  - id: "fig_2_11"
+    src: figures/fig_2_11.jpg
+    alt: ""
+    caption: "Image of a transverse thin section of *Tamarix aphylla* tamarisk reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
+    credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
+
+  - id: "fig_3_1"
+    src: figures/fig_3_1.jpg
+    alt: ""
+    caption: "Mummy Portrait of a Woman with Earrings, Romano-Egyptian, ca. AD 130–140. Encaustic on linden wood, 35.3 x 22.5 cm (13 7/8 x 8 7/8 in.). Cambridge, Harvard Art Museums/Arthur M. Sackler Museum, Gift of Dr. Denman W. Ross, 1923.60."
+    credit: "Photo: Imaging Department © President and Fellows of Harvard College"
+
+  - id: "fig_3_2"
+    src: figures/fig_3_2.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_3_3"
+    src: figures/fig_3_3.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_3_4"
+    src: figures/fig_3_4.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_3_5"
+    src: figures/fig_3_5.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_3_6"
+    src: figures/fig_3_6.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_3_7"
+    src: figures/fig_3_7.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_3_8"
+    src: figures/fig_3_8.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_3_9"
+    src: figures/fig_3_9.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_3_10"
+    src: figures/fig_3_10.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_3_11"
+    src: figures/fig_3_11.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_3_12"
+    src: figures/fig_3_12.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_3_13"
+    src: figures/fig_3_13.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_4_2"
+    src: figures/fig_4_2.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_4_3"
+    src: figures/fig_4_3.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_4_4"
+    src: figures/fig_4_4.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_4_5"
+    src: figures/fig_4_5.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_4_6"
+    src: figures/fig_4_6.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_4_7"
+    src: figures/fig_4_7.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_4_9"
+    src: figures/fig_4_9.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_4_10"
+    src: figures/fig_4_10.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_4_11"
+    src: figures/fig_4_11.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_4_13"
+    src: figures/fig_4_13.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_1"
+    src: figures/fig_7_1.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_3"
+    src: figures/fig_7_3.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_4"
+    src: figures/fig_7_4.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_5"
+    src: figures/fig_7_5.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_6a"
+    src: figures/fig_7_6a.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_6b"
+    src: figures/fig_7_6b.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_6c"
+    src: figures/fig_7_6c.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_7"
+    src: figures/fig_7_7.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_8a"
+    src: figures/fig_7_8a.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_8b"
+    src: figures/fig_7_8b.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_8c"
+    src: figures/fig_7_8c.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_9"
+    src: figures/fig_7_9.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_10"
+    src: figures/fig_7_10.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_11"
+    src: figures/fig_7_11.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_12"
+    src: figures/fig_7_12.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_13"
+    src: figures/fig_7_13.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_14"
+    src: figures/fig_7_14.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_15"
+    src: figures/fig_7_15.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_7_16"
+    src: figures/fig_7_16.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_8_1"
+    src: figures/fig_8_1.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_8_2"
+    src: figures/fig_8_2.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_8_3"
+    src: figures/fig_8_3.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_8_4"
+    src: figures/fig_8_4.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_8_5"
+    src: figures/fig_8_5.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_8_6"
+    src: figures/fig_8_6.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_8_8"
+    src: figures/fig_8_8.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_8_9"
+    src: figures/fig_8_9.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_8_10"
+    src: figures/fig_8_10.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_8_11"
+    src: figures/fig_8_11.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_8_12"
+    src: figures/fig_8_12.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_8_13"
+    src: figures/fig_8_13.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_8_14"
+    src: figures/fig_8_14.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_8_15"
+    src: figures/fig_8_15.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_9_1"
+    src: figures/fig_9_1.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_9_2"
+    src: figures/fig_9_2.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_9_3"
+    src: figures/fig_9_3.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_9_4"
+    src: figures/fig_9_4.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_9_5"
+    src: figures/fig_9_5.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_9_6"
+    src: figures/fig_9_6.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_9_7"
+    src: figures/fig_9_7.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_9_8"
+    src: figures/fig_9_8.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_9_9"
+    src: figures/fig_9_9.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_9_10"
+    src: figures/fig_9_10.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_9_11"
+    src: figures/fig_9_11.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_9_12"
+    src: figures/fig_9_12.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_9_13"
+    src: figures/fig_9_13.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_9_14"
+    src: figures/fig_9_14.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_9_15"
+    src: figures/fig_9_15.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_10_1"
+    src: figures/fig_10_1.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_10_2"
+    src: figures/fig_10_2.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_10_3"
+    src: figures/fig_10_3.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_10_4"
+    src: figures/fig_10_4.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_10_5"
+    src: figures/fig_10_5.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_10_6"
+    src: figures/fig_10_6.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_10_7"
+    src: figures/fig_10_7.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_10_8"
+    src: figures/fig_10_8.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_10_9"
+    src: figures/fig_10_9.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_10_10"
+    src: figures/fig_10_10.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_10_11"
+    src: figures/fig_10_11.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_10_12"
+    src: figures/fig_10_12.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_11_1"
+    src: figures/fig_11_1.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_11_2"
+    src: figures/fig_11_2.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_11_3"
+    src: figures/fig_11_3.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_11_4"
+    src: figures/fig_11_4.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_11_5"
+    src: figures/fig_11_5.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_11_6"
+    src: figures/fig_11_6.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_11_7"
+    src: figures/fig_11_7.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_11_8"
+    src: figures/fig_11_8.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_11_9"
+    src: figures/fig_11_9.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_12_1"
+    src: figures/fig_12_1.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_12_2"
+    src: figures/fig_12_2.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_12_3"
+    src: figures/fig_12_3.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_12_4"
+    src: figures/fig_12_4.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_12_5"
+    src: figures/fig_12_5.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_12_6"
+    src: figures/fig_12_6.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_13_1"
+    src: figures/fig_13_1.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_13_2"
+    src: figures/fig_13_2.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_13_3"
+    src: figures/fig_13_3.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_14_1"
+    src: figures/fig_14_1.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_14_2"
+    src: figures/fig_14_2.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_14_3"
+    src: figures/fig_14_3.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_15_1_a"
+    src: figures/fig_15_1_a.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_15_1_b"
+    src: figures/fig_15_1_b.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_15_1_c"
+    src: figures/fig_15_1_c.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_15_2_a"
+    src: figures/fig_15_2_a.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_15_2_b"
+    src: figures/fig_15_2_b.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_15_2_c"
+    src: figures/fig_15_2_c.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_15_2_d"
+    src: figures/fig_15_2_d.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_16_1"
+    src: figures/fig_16_1.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_16_2"
+    src: figures/fig_16_2.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_16_3"
+    src: figures/fig_16_3.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_17_2_a"
+    src: figures/fig_17_2_a.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_17_2_b"
+    src: figures/fig_17_2_b.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_17_3_a"
+    src: figures/fig_17_3_a.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_17_3_b_bottom"
+    src: figures/fig_17_3_b_bottom.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_17_3_b_top"
+    src: figures/fig_17_3_b_top.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_17_4_b"
+    src: figures/fig_17_4_b.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_18_2_a"
+    src: figures/fig_18_2_a.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_18_3"
+    src: figures/fig_18_3.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_18_5_a"
+    src: figures/fig_18_5_a.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "fig_18_5_b"
+    src: figures/fig_18_5_b.jpg
+    alt: ""
+    caption: ""
+    credit: ""
