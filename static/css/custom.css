@@ -1,0 +1,72 @@
+/* Custom cover slideshow animation */
+.quire-cover__overlay {
+  height: calc(95vh - 3rem);
+}
+.quire-cover__overlay img,
+.quire-cover__overlay span {
+  max-height: 100%;
+  width: 100%;
+  object-fit: cover;
+  position:absolute;
+  left:0;
+  transition: opacity 1s ease-in-out;
+  animation-name: FadeInOut;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: 8s;
+}
+.quire-cover__overlay span {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+  bottom: 10%;
+  right: 20px;
+  left: auto;
+  text-align: right;
+}
+@keyframes FadeInOut {
+  0% {
+    opacity:1;
+  }
+  17% {
+    opacity:1;
+  }
+  25% {
+    opacity:0;
+  }
+  92% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+.quire-cover__overlay img:nth-of-type(1),
+.quire-cover__overlay span:nth-of-type(1) {
+  animation-delay: 6s;
+}
+.quire-cover__overlay img:nth-of-type(2),
+.quire-cover__overlay span:nth-of-type(2) {
+  animation-delay: 4s;
+}
+.quire-cover__overlay img:nth-of-type(3),
+.quire-cover__overlay span:nth-of-type(3) {
+  animation-delay: 2s;
+}
+.quire-cover__overlay img:nth-of-type(4),
+.quire-cover__overlay span:nth-of-type(4) {
+  animation-delay: 0;
+}
+.hero-body .container.is-fluid {
+  background-color: #b44a3a;
+}
+.quire-cover__hero .title,
+.quire-cover__hero .contributor {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: normal;
+  letter-spacing: 0;
+}
+.quire-cover__hero .contributor {
+  margin-top: 1.5rem;
+}

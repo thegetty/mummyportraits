@@ -5,5 +5,14 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: pattern-spiral-overlay.png
+image: portrait.jpg 
+slides:
+  - image: portrait.jpg 
+    label: Normal light
+  - image: portrait-ir.jpg
+    label: Infrared
+  - image: portrait-uv.jpg
+    label: Ultraviolet
+  - image: portrait-ir.jpg
+    label: Infrared
 ---
