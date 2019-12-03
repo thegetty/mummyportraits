@@ -244,6 +244,42 @@ figure_list:
     caption: "Detail of fig. 4.6, showing dark- and light-green checkerboard background."
     credit: ""
 
+  - id: "fig_5_1"
+    src: figures/fig_5_1.jpg
+    alt: ""
+    caption: "Visible light image showing the presence of Egyptian blue on the tunic, gems, face, and hair on Fayum Mummy Portrait of a Woman, Romano-Egyptian, second to third century AD. Encaustic on wood panel, 34.6 x 20.3 cm (13 5/8 x 8 in.). Stanford, Iris & B. Gerald Cantor Center for Visual Arts, Stanford Family Collections, JLS.22225."
+    credit: ""
+
+  - id: "fig_5_2"
+    src: figures/fig_5_2.jpg
+    alt: ""
+    caption: "VIL image showing the presence of Egyptian blue on the tunic, gems, face, and hair on Fayum Mummy Portrait of a Woman, Romano-Egyptian, second to third century AD. Encaustic on wood panel, 34.6 x 20.3 cm (13 5/8 x 8 in.). Stanford, Iris & B. Gerald Cantor Center for Visual Arts, Stanford Family Collections, JLS.22225."
+    credit: ""
+
+  - id: "fig_5_6_a"
+    src: figures/fig_5_6_a.jpg
+    alt: ""
+    caption: "Visible light image showing the presence of Egyptian blue in the peacock's feathers and Harpocrates' eyes and headdress on Horus Harpocrates on Peacock, Romano-Egyptian, first century AD or later. Terracotta, H: 17.8 cm (7 in.). Amsterdam, Allard Pierson Museum, APM07232."
+    credit: ""
+
+  - id: "fig_5_6_b"
+    src: figures/fig_5_6_b.jpg
+    alt: ""
+    caption: "VIL image showing the presence of Egyptian blue in the peacock's feathers and Harpocrates' eyes and headdress on Horus Harpocrates on Peacock, Romano-Egyptian, first century AD or later. Terracotta, H: 17.8 cm (7 in.). Amsterdam, Allard Pierson Museum, APM07232."
+    credit: ""
+
+  - id: "fig_5_7_a"
+    src: figures/fig_5_7_a.jpg
+    alt: ""
+    caption: "Visible light and VIL images of a gorgoneion wall-painting at the Allard Pierson Museum showing the presence of Egyptian blue in the flesh tones, eyes, and snakes of the gorgon."
+    credit: ""
+
+  - id: "fig_5_7_b"
+    src: figures/fig_5_7_b.jpg
+    alt: ""
+    caption: ""
+    credit: ""
+
   - id: "fig_4_13"
     src: figures/fig_4_13.jpg
     alt: ""
