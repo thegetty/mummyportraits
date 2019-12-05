@@ -51,6 +51,6 @@
     {{- $.Scratch.Add "letters" $letter -}}
     <dt id="{{ $letter | safeHTMLAttr }}">{{ .display | markdownify }}</dt> 
   {{- end -}}
-  <dd>{{ .definition | markdownify }}</dd>
+  <dd>{{ if $.Site.Params.glossaryTermDivider }}{{ $.Site.Params.glossaryTermDivider }}{{ else }}: {{ end }}{{ .definition | markdownify }}</dd>
 {{- end }}
 </dl>

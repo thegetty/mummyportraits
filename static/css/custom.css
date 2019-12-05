@@ -17,11 +17,6 @@
 .quire-page__content .content dl.quire-glossary dt {
   display: inline;
 }
-.quire-page__content .content dl.quire-glossary dt::after {
-  content: "—";
-  margin: 0 .325rem;
-  font-weight: normal;
-}
 .quire-page__content .content dl.quire-glossary dd {
   display: inline;
 }
