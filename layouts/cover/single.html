@@ -30,11 +30,28 @@ Cover page layout. This controls the home page of the publication.
   {{/* Begin full-page cover section */}}
   {{- if .Params.slides -}}
     <section class="quire-cover__hero hero is-fullheight">
-      <div class="quire-cover__overlay">
-        {{- range .Params.slides -}}
-        {{- $imgPath := printf "%s/%s" ($.Scratch.Get "imageDir") .image -}}
+      <div class="quire-cover__overlay upper-left">
+        {{- range shuffle .Params.slides -}}
+        {{- $imgPath := printf "%s/%s/%s" ($.Scratch.Get "imageDir") "upper-left" .image -}}
         <img src="{{ $imgPath | relURL }}" />
-        <span>{{ .label }}</span>
+        {{- end -}}
+      </div>
+      <div class="quire-cover__overlay upper-right">
+        {{- range shuffle .Params.slides -}}
+        {{- $imgPath := printf "%s/%s/%s" ($.Scratch.Get "imageDir") "upper-right" .image -}}
+        <img src="{{ $imgPath | relURL }}" />
+        {{- end -}}
+      </div>
+      <div class="quire-cover__overlay lower-right">
+        {{- range shuffle .Params.slides -}}
+        {{- $imgPath := printf "%s/%s/%s" ($.Scratch.Get "imageDir") "lower-right" .image -}}
+        <img src="{{ $imgPath | relURL }}" />
+        {{- end -}}
+      </div>
+      <div class="quire-cover__overlay lower-left">
+        {{- range shuffle .Params.slides -}}
+        {{- $imgPath := printf "%s/%s/%s" ($.Scratch.Get "imageDir") "lower-left" .image -}}
+        <img src="{{ $imgPath | relURL }}" />
         {{- end -}}
       </div>
   {{- else -}}

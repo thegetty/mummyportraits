@@ -13,6 +13,8 @@ slides:
     label: Infrared
   - image: portrait-uv.jpg
     label: Ultraviolet
-  - image: portrait-ir.jpg
-    label: Infrared
+  - image: portrait-rk.jpg
+    label: Raking light
+  - image: portrait-xray.jpg
+    label: X-ray
 ---
