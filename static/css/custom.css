@@ -25,3 +25,22 @@
   display: block;
   margin-bottom: 1rem;
 }
+
+/* Custom styling for Tables 6.1 and 6.2 which include images */
+#table_6_1 img:nth-of-type(1),
+#table_6_2 img:nth-of-type(1) {
+  width: 58%;
+  float: right;
+}
+#table_6_1 img:nth-of-type(2),
+#table_6_2 img:nth-of-type(2) {
+  width: 38%;
+}
+#table_6_1 img:nth-of-type(3),
+#table_6_2 img:nth-of-type(3) {
+  width: 38%;
+}
+.quire-figure .q-figure__wrapper > a:hover #table_6_1 img,
+.quire-figure .q-figure__wrapper > a:hover #table_6_2 img {
+  box-shadow: none;
+}

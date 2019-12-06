@@ -1153,3 +1153,17 @@ figure_list:
     alt: ""
     caption: "Visible and UVL images of Portrait of a Man, Romano-Egyptian, AD 140–200. Linden wood and beeswax, 41 x 8 cm (16 1/8 x 3 1/8 in.). Copenhagen, Ny Carlsberg Glyptotek, AEIN 684. The egg coating has a bright bluish-yellow luminescence with a clear demarcation of where the coating ends at the bottom of the panel."
     credit: "Photo: M. L. Sargent"
+    
+  - id: "table_6_1"
+    media_type: table
+    label: Figure 6.1
+    src: tables/6-1.html
+    caption: "Schematic of the experimental setup, including radiation sources and filter(s) combinations, for reflected images: (a) VIS; (b) IRR; (c) UVR; and (d) MBR images."
+    credit: "Portrait: EA74706 © Trustees of the British Museum"
+
+  - id: "table_6_2"
+    media_type: table
+    label: Figure 6.2
+    src: tables/6-2.html
+    caption: "Schematic of the experimental setup, including radiation sources and filter(s) combinations, for luminescence images: (e) UVL; (f) VIL; and (g) VIVL images."
+    credit: "Portrait: EA74706 © Trustees of the British Museum"  
