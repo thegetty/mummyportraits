@@ -1,7 +1,8 @@
 ---
 title: Contributors
-weight: 305
+weight: 320
 type: page
+class: backmatter
 ---
 
 {{< q-contributor range="all" format="bio" >}}
