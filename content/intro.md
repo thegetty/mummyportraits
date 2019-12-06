@@ -3,15 +3,11 @@ title: Introduction
 subtitle:
 weight: 4
 contributor:
-- first_name: Marie
-  last_name: Svoboda
-  bio: "Marie Svoboda is a conservator in the antiquities conservation department at the J. Paul Getty Museum. She received an MA from the art conservation department at the State University of New York, Buffalo, where she majored in artifacts and minored in paintings conservation. Svoboda worked as an assistant conservator of ancient materials at the Museum of Fine Arts, Boston, before joining the Getty. She is actively involved in the planning and installation of special exhibitions and loans, international collaborations, and various in-depth studies on conservation and technical research. A special interest in Romano-Egyptian material culminated in the publication of the book *Herakleides: A Portrait Mummy from Roman Egypt* (Getty Publications, 2011) and sparked the APPEAR project, the international collaboration on the study of ancient panel paintings that resulted in the research presented in this volume."
+- id: msvoboda
+- id: crcartwright
 - first_name: Susan
   last_name: Walker
   bio: "Susan Walker was a museum curator in the British Museum from 1977 to 2004 and the Sackler Keeper of Antiquities in the Ashmolean Museum, Oxford, from 2004 until her retirement in 2014. In 1997 she co-curated with Morris Bierbrier *Ancient Faces: Mummy Portraits from Roman Egypt*, a British Museum exhibition that traveled to Rome and New York; she was sole guest curator for the Metropolitan Museum of Art's presentation and associated publication. Walker is now an emerita fellow of Wolfson College, University of Oxford, and an honorary curator at the Ashmolean, where she is now studying mummy portraits with Jevon Thistlewood. She recently published *Saints and Salvation: The Wilshere Collection of Late Roman Gold-Glass, Sarcophagi and Inscriptions from Rome and Southern Italy* (Ashmolean Museum, 2017)."
-- first_name: Caroline R.
-  last_name: Cartwright
-  bio: "Caroline R. Cartwright is the wood anatomist and a senior scientist in the department of scientific research at the British Museum. Her primary areas of scientific expertise cover the identification and interpretation of organic materials, including wood, charcoal, fibers, and macro-plant remains from all areas and time periods, mainly using scanning electron microscopy. Cartwright has led many teams of environmental scientists on archaeological projects in various parts of the world including the Middle East, Africa, the Caribbean, and Europe; reconstructing past environments, charting vegetation and climate changes, and investigating bioarchaeological evidence from sites and data also form important aspects of her research. Before joining the British Museum, she was a lecturer in archaeological sciences at the Institute of Archaeology, University College London. Cartwright is the author or coauthor of more than 270 publications."
 type: splash
 image:
 ---
