@@ -193,55 +193,71 @@ figure_list:
   - id: "fig_4_2"
     src: figures/fig_4_2.jpg
     alt: ""
+    label: "Figure 4.2"
     caption: "Mummy Shroud with Painted Portrait of a Boy, Romano-Egyptian, AD 150–250. Paint on linen, 62 x 52.5 cm (24 3/8 x 20 11/16 in.). Los Angeles, J. Paul Getty Museum, Gift of Lenore Barozzi, 75.AP.87."
     credit: ""
 
   - id: "fig_4_3"
     src: figures/fig_4_3.jpg
     alt: ""
+    label: "Figure 4.3"
     caption: "Mummy Shroud with Painted Portrait of a Youth, Romano-Egyptian, AD 220–250. Paint on linen, 49.5 x 35.5 cm (19 1/2 x 14 in.). Los Angeles, J. Paul Getty Museum, 79.AP.219."
     credit: ""
 
   - id: "fig_4_4"
     src: figures/fig_4_4.jpg
     alt: ""
+    label: "Figure 4.4"
     caption: "Fragment of a Mummy Shroud with Painted Portrait of a Woman, Romano-Egyptian, late second to third century AD. Paint on linen, H: 28.5 cm (11 1/4 in.). New York, Metropolitan Museum of Art, Museum Accession, X.390."
     credit: ""
 
   - id: "fig_4_5"
     src: figures/fig_4_5.jpg
     alt: ""
+    label: "Figure 4.5"
     caption: "Painted Osiris Mummy Shroud, Romano-Egyptian, ca. AD 125. Paint on linen, 98 x 82 cm (38 5/8 x 32 1/4 in.). New York, Metropolitan Museum of Art, Gift of Mrs. S. W. Straus, 1925, 25.184.20."
     credit: ""
 
   - id: "fig_4_6"
     src: figures/fig_4_6.jpg
     alt: ""
+    label: "Figure 4.6"
     caption: "Fragments of a Painted Mummy Shroud, Ptolemaic or Romano-Egyptian, 304 BC–AD 364. Paint on linen, 25.3 x 18.3 cm (10 x 7 3/16 in.). New York, Metropolitan Museum of Art, Museum Accession, X.491A."
     credit: ""
 
   - id: "fig_4_7"
     src: figures/fig_4_7.jpg
     alt: ""
+    label: "Figure 4.7"
     caption: "Fragments of a Painted Mummy Shroud, Ptolemaic or Romano-Egyptian, 304 BC–AD 364. Paint on linen, 14.8 x 18.8 cm (5 13/16 x 7 3/8 in.). New York, Metropolitan Museum of Art, Museum Accession, X.491B."
     credit: ""
 
   - id: "fig_4_9"
     src: figures/fig_4_9.jpg
     alt: ""
+    label: "Figure 4.11"
     caption: "Fragment of a Painted Mummy Shroud, Ptolemaic or Romano-Egyptian, first century BC–first century AD. Paint on linen, 36.8 x 31 cm (14 1/2 x 12 3/16 in.). New York, Metropolitan Museum of Art, Purchase, Fletcher Fund and The Guide Foundation Inc. Gift, 1966, 66.99.141."
     credit: ""
 
   - id: "fig_4_10"
     src: figures/fig_4_10.jpg
     alt: ""
+    label: "Figure 4.9"
     caption: "Detail of fig. 4.3, showing overlap of yellow and blue in drapery."
     credit: ""
 
   - id: "fig_4_11"
     src: figures/fig_4_11.jpg
     alt: ""
+    label: "Figure 4.10"
     caption: "Detail of fig. 4.6, showing dark- and light-green checkerboard background."
+    credit: ""
+
+  - id: "fig_4_13"
+    src: figures/fig_4_13.jpg
+    alt: ""
+    label: "Figure 4.13"
+    caption: "Detail of fig. 4.2, showing wreath painted with vergaut mixture."
     credit: ""
 
   - id: "fig_5_1"
@@ -271,20 +287,191 @@ figure_list:
   - id: "fig_5_7_a"
     src: figures/fig_5_7_a.jpg
     alt: ""
+    label: "Visible light"
     caption: "Visible light and VIL images of a gorgoneion wall-painting at the Allard Pierson Museum showing the presence of Egyptian blue in the flesh tones, eyes, and snakes of the gorgon."
     credit: ""
 
   - id: "fig_5_7_b"
     src: figures/fig_5_7_b.jpg
     alt: ""
+    label: "VIL"
     caption: ""
     credit: ""
 
-  - id: "fig_4_13"
-    src: figures/fig_4_13.jpg
+  - id: "fig_6_3"
+    src: figures/fig_6_.jpg
     alt: ""
-    caption: "Detail of fig. 4.2, showing wreath painted with vergaut mixture."
-    credit: ""
+    label: "Figure 6.3"
+    caption: "Workflow for assessing the presence of a selection of key pigments in the BM portrait collection by examining the response in the VIL, UVL, IRRFC, and UVRFC images."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_4"
+    src: figures/fig_6_4.jpg
+    alt: ""
+    label: "Figure 6.4"
+    caption: "Bar charts, showing the number of portraits exhibiting the identified uses of the pigments: (a) Egyptian blue; (b) pink lake; (c) carbon black; (d) ochres; and (e) lead white in the BM portrait collection (dark gray denotes portraits in encaustic; light gray, portraits in tempera)."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_5_a"
+    src: figures/fig_6_5_a.jpg
+    alt: ""
+    label: "Figure 6.5a"
+    caption: "VIS and VIL images showing Egyptian blue used as a blue pigment. Portrait: EA65346."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_5_b"
+    src: figures/fig_6_5_b.jpg
+    alt: ""
+    label: "Figure 6.5b"
+    caption: "VIS and VIL images showing Egyptian blue used in mixtures with pink lake. Portrait: EA74717."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_5_c_1"
+    src: figures/fig_6_5_c_1.jpg
+    alt: ""
+    label: "Figure 6.5c-1"
+    caption: "VIS and VIL images showing Egyptian blue used in skin tones. Portrait: EA74716."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_5_c_2"
+    src: figures/fig_6_5_c_2.jpg
+    alt: ""
+    label: "Figure 6.5c-2"
+    caption: "VIS and VIL images showing Egyptian blue used in skin tones. Portrait: EA74718."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_5_d"
+    src: figures/fig_6_5_d.jpg
+    alt: ""
+    label: "Figure 6.5d"
+    caption: "VIS and VIL images showing Egyptian blue used as a highlight. Portrait: EA29972."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_6_a"
+    src: figures/fig_6_6_a.jpg
+    alt: ""
+    label: "Figure 6.6a"
+    caption: "VIS and UVL images showing pink lake used as a pink pigment. Portrait: EA74713."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_6_b"
+    src: figures/fig_6_6_b.jpg
+    alt: ""
+    label: "Figure 6.6b"
+    caption: "VIS and UVL images showing pink lake used in mixtures to produce dark red. Portrait: EA65344."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_6_c_1"
+    src: figures/fig_6_6_c_1.jpg
+    alt: ""
+    label: "Figure 6.6c-1"
+    caption: "VIS and UVL images showing pink lake used in mixtures to produce skin tones. Portrait: EA63394."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_6_c_2"
+    src: figures/fig_6_6_c_2.jpg
+    alt: ""
+    label: "Figure 6.6c-2"
+    caption: "VIS and UVL images showing pink lake used in mixtures to produce skin tones. Portrait: EA6713."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_6_d"
+    src: figures/fig_6_6_d.jpg
+    alt: ""
+    label: "Figure 6.6d"
+    caption: "VIS and UVL images showing pink lake used in mixtures to produce highlights. Portrait: EA5619."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_7_a"
+    src: figures/fig_6_7_a.jpg
+    alt: ""
+    label: "Figure 6.7a"
+    caption: "VIS and IRRFC images showing carbon black used as a black pigment. Portrait: EA74711."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_7_b"
+    src: figures/fig_6_7_b.jpg
+    alt: ""
+    label: "Figure 6.7b"
+    caption: "VIS and IRRFC images showing carbon black used in mixtures to produce gray tones and evoke shadows. Portrait: EA74704."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_7_c"
+    src: figures/fig_6_7_c.jpg
+    alt: ""
+    label: "Figure 6.7c"
+    caption: "IS and IRRFC images showing a case in which visually dark materials are IR transparent and hence not carbon based. Portrait: EA74709."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_8_a"
+    src: figures/fig_6_8_a.jpg
+    alt: ""
+    label: "Figure 6.8a"
+    caption: "VIS and UVRFC images showing ochres used as yellow pigment. Portrait: EA74716."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_8_b"
+    src: figures/fig_6_8_b.jpg
+    alt: ""
+    label: "Figure 6.8b"
+    caption: "VIS and UVRFC images showing ochres used as red pigment. Portrait: EA63395."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_8_c"
+    src: figures/fig_6_8_c.jpg
+    alt: ""
+    label: "Figure 6.8c"
+    caption: "VIS and UVRFC images showing ochres used in mixtures to produce various shades for the depiction of skin tones. Portrait: EA74714."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_9_a"
+    src: figures/fig_6_9_a.jpg
+    alt: ""
+    label: "Figure 6.9a"
+    caption: "VIS and IRRFC images showing indigo used as a blue pigment. Portrait: EA65343."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_9_b"
+    src: figures/fig_6_9_b.jpg
+    alt: ""
+    label: "Figure 6.9b"
+    caption: "VIS and IRRFC images showing indigo used in a mixture to produce a green pigment in the beads of the necklaces. Portrait: EA74831."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_9_c"
+    src: figures/fig_6_9_c.jpg
+    alt: ""
+    label: "Figure 6.9c"
+    caption: "VIS and IRRFC images showing indigo used in mixtures to produce purple-toned pigments for the garment and beads of the lower necklace. Portrait: EA74706."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_9_d"
+    src: figures/fig_6_9_d.jpg
+    alt: ""
+    label: "Figure 6.9d"
+    caption: "VIVL and MBR images showing the distribution of pink lake and indigo pigments in the garment and necklace beads. Portrait: EA74706."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_10_a"
+    src: figures/fig_6_10_a.jpg
+    alt: ""
+    label: "Figure 6.10a"
+    caption: "VIS and IRRFC images showing the use of copper-based inorganic pigments to depict green gemstones. Portrait: EA63395."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_10_b"
+    src: figures/fig_6_10_b.jpg
+    alt: ""
+    label: "Figure 6.10b"
+    caption: "VIS and IRRFC images showing the use of copper-based organometallic pigments to depict green gemstones. Portrait: EA74706."
+    credit: "© Trustees of the British Museum"
+
+  - id: "fig_6_10_c"
+    src: figures/fig_6_10_c.jpg
+    alt: ""
+    label: "Figure 6.10c"
+    caption: "VIS and IRRFC images showing the use of green earth pigments to depict green gemstones. Portrait: EA63394."
+    credit: "© Trustees of the British Museum"
 
   - id: "fig_7_1"
     src: figures/fig_7_1.jpg
@@ -314,7 +501,7 @@ figure_list:
     src: figures/fig_7_6a.jpg
     alt: ""
     label: "Normal light"
-    caption: "Details of the *clavus* on fig. 7.1. Left to right: normal light, UVF illustrating the red lake pigment’s characteristic pinkish-orange fluorescence, and MBR illustrating indigo’s bright response. The brightness of the MBR image has been enhanced for legibility."
+    caption: "Details of the *clavus* on fig. 7.1. Normal light, UVF, MBR illustrating the red lake pigment’s characteristic pinkish-orange fluorescence, and MBR illustrating indigo’s bright response. The brightness of the MBR image has been enhanced for legibility."
     credit: ""
 
   - id: "fig_7_6b"
@@ -340,18 +527,21 @@ figure_list:
   - id: "fig_7_8a"
     src: figures/fig_7_8a.jpg
     alt: ""
-    caption: "Details of fig. 7.7. Left to right: normal light, UVF, MBR showing the bright responses of indigo on the painted purple cartonnage and of the resin associated with the mummy wrappings. The brightness of the MBR image has been enhanced for legibility."
+    caption: "Details of fig. 7.7. Normal light, UVF, MBR showing the bright responses of indigo on the painted purple cartonnage and of the resin associated with the mummy wrappings. The brightness of the MBR image has been enhanced for legibility."
+    label: "Normal light"
     credit: ""
 
   - id: "fig_7_8b"
     src: figures/fig_7_8b.jpg
     alt: ""
+    label: "UVF"
     caption: ""
     credit: ""
 
   - id: "fig_7_8c"
     src: figures/fig_7_8c.jpg
     alt: ""
+    label: "MBR"
     caption: ""
     credit: ""
 
@@ -784,7 +974,7 @@ figure_list:
   - id: "fig_15_1_a"
     src: figures/fig_15_1_a.jpg
     alt: ""
-    label: "a. UVF"
+    label: "UVF"
     caption: "Portrait of a Lady, Romano-Egyptian, AD 117–138. er-Rubayat. Encaustic on wood, 40 x 20 cm (15 3/4 x 7 7/8 in.). Vienna, Kunsthistorisches Museum, Antikensammlung, X 297.
 
               a.  UVF
@@ -797,21 +987,21 @@ figure_list:
   - id: "fig_15_1_b"
     src: figures/fig_15_1_b.jpg
     alt: ""
-    label: "b. VIS"
+    label: "VIS"
     caption: ""
     credit: ""
 
   - id: "fig_15_1_c"
     src: figures/fig_15_1_c.jpg
     alt: ""
-    label: "c. VIL"
+    label: "VIL"
     caption: ""
     credit: ""
 
   - id: "fig_15_2_a"
     src: figures/fig_15_2_a.jpg
     alt: ""
-    label: "a. UVF"
+    label: "UVF"
     caption: "Portrait of a Young Man with Wreath, Romano-Egyptian, AD 125–150. er-Rubayat. Tempera on wood, 32.5 x 18 cm (12 13/16 x 7 1/16 in.). Vienna, Kunsthistorisches Museum, Antikensammlung, X 432.
 
               a.  UVF
@@ -826,21 +1016,21 @@ figure_list:
   - id: "fig_15_2_b"
     src: figures/fig_15_2_b.jpg
     alt: ""
-    label: "b. VIS"
+    label: "VIS"
     caption: ""
     credit: ""
 
   - id: "fig_15_2_c"
     src: figures/fig_15_2_c.jpg
     alt: ""
-    label: "c. NIR"
+    label: "NIR"
     caption: ""
     credit: ""
 
   - id: "fig_15_2_d"
     src: figures/fig_15_2_d.jpg
     alt: ""
-    label: "d. IRRFC"
+    label: "IRRFC"
     caption: ""
     credit: ""
 
@@ -907,7 +1097,22 @@ figure_list:
   - id: "fig_18_2_a"
     src: figures/fig_18_2_a.jpg
     alt: ""
+    label: "Figure 18.2a"
     caption: "Portrait of a Woman, Romano-Egyptian, AD 140–160. Linden wood and beeswax, 25 x 11 cm (9 7/8 x 4 5/16 in.). Copenhagen, Ny Carlsberg Glyptotek, AEIN 682."
+    credit: ""
+
+  - id: "fig_18_2_b_1"
+    src: figures/fig_18_2_b_1.jpg
+    alt: ""
+    label: "Figure 18.2b Wax analysis"
+    caption: "The GC/MS chromatograms show a sample containing aged beeswax, soaps, and oil. The top chromatogram presents the wax analysis; the bottom chromatogram displays the oil analysis of the same sample."
+    credit: ""
+
+  - id: "fig_18_2_b_2"
+    src: figures/fig_18_2_b_2.jpg
+    alt: ""
+    label: "Figure 18.2b Oil analysis"
+    caption: ""
     credit: ""
 
   - id: "fig_18_3"

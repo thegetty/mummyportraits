@@ -11,7 +11,7 @@ contributor:
   bio: "Susan Walker was a museum curator in the British Museum from 1977 to 2004 and the Sackler Keeper of Antiquities in the Ashmolean Museum, Oxford, from 2004 until her retirement in 2014. In 1997 she co-curated with Morris Bierbrier *Ancient Faces: Mummy Portraits from Roman Egypt*, a British Museum exhibition that traveled to Rome and New York; she was sole guest curator for the Metropolitan Museum of Art's presentation and associated publication. Walker is now an emerita fellow of Wolfson College, University of Oxford, and an honorary curator at the Ashmolean, where she is now studying mummy portraits with Jevon Thistlewood. She recently published *Saints and Salvation: The Wilshere Collection of Late Roman Gold-Glass, Sarcophagi and Inscriptions from Rome and Southern Italy* (Ashmolean Museum, 2017)."
 - first_name: Caroline R.
   last_name: Cartwright
-  bio: "Caroline Cartwright is the wood anatomist and a senior scientist in the department of scientific research at the British Museum. Her primary areas of scientific expertise cover the identification and interpretation of organic materials, including wood, charcoal, fibers, and macro-plant remains from all areas and time periods, mainly using scanning electron microscopy. Cartwright has led many teams of environmental scientists on archaeological projects in various parts of the world including the Middle East, Africa, the Caribbean, and Europe; reconstructing past environments, charting vegetation and climate changes, and investigating bioarchaeological evidence from sites and data also form important aspects of her research. Before joining the British Museum, she was a lecturer in archaeological sciences at the Institute of Archaeology, University College London. Cartwright is the author or coauthor of more than 270 publications."
+  bio: "Caroline R. Cartwright is the wood anatomist and a senior scientist in the department of scientific research at the British Museum. Her primary areas of scientific expertise cover the identification and interpretation of organic materials, including wood, charcoal, fibers, and macro-plant remains from all areas and time periods, mainly using scanning electron microscopy. Cartwright has led many teams of environmental scientists on archaeological projects in various parts of the world including the Middle East, Africa, the Caribbean, and Europe; reconstructing past environments, charting vegetation and climate changes, and investigating bioarchaeological evidence from sites and data also form important aspects of her research. Before joining the British Museum, she was a lecturer in archaeological sciences at the Institute of Archaeology, University College London. Cartwright is the author or coauthor of more than 270 publications."
 type: splash
 image:
 ---
@@ -61,25 +61,10 @@ Finally, the extremely complex issue of binding media is addressed by the Getty 
 Within these proceedings, eighteen contributions to the APPEAR conference focus on the identity, source, use, and function of the ancient artists’ painting methods. Additionally, the exploration of how these artifacts were acquired, manufactured, imported, identified, and reused lay a foundation for ongoing collective studies. This collaborative working approach reveals the broad scope of information possible in the study of ancient painting. Questions still to be answered as well as new directions of research and technological advances will continue to make the APPEAR project a valuable scholarly resource and a conduit for the exchange of future discoveries in the study of ancient art.
 
 
+---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Acknowledgments
+## Acknowledgments
 
 The APPEAR conference could not have happened without the generous support of James Cuno and the Getty Trust, whose encouragement and funding, respectively, provided the foundation on which the project was able to develop and grow; its sustained progression is credited to the wonderful project participants, the forty-two institutions and their teams who joined the APPEAR project. Through their gracious collaboration, they continue to support the mission of expanding our understanding of the materials and technology used for ancient panel painting and have contributed immeasurably to APPEAR's development and success. Additional praise is due to the many presenters at the conference and the authors within this volume, who have shared their research as well as enthusiasm and passion for the subject; we express our sincere gratitude and appreciation for your participation.
 
