@@ -3,210 +3,219 @@ figure_list:
   - id: "fig_1_1"
     src: figures/fig_1_1.jpg
     alt: ""
-    label: "Figure 1.1"
+    label: "Figure 1.1."
     caption: "Mummy Portrait of a Man Wearing a Laurel Wreath, Romano-Egyptian, early to mid-second century AD. Lime (linden) wood, beeswax, pigments, gold, textile, and natural resin, 41.9 x 24.1 cm (16 1/2 x 9 1/2 in.). Art Institute of Chicago, Gift of Emily Crane Chadbourne, 1922.4799."
     credit: ""
 
   - id: "fig_1_2"
     src: figures/fig_1_2.jpg
     alt: ""
-    label: "Figure 1.2"
+    label: "Figure 1.2."
     caption: "Mummy Portrait of a Man Wearing an Ivy Wreath, Romano-Egyptian, early to mid-second century AD. Lime (linden) wood, beeswax, pigments, gold, textile, and natural resin, 39.4 x 22 cm (15 1/2 x 8 5/8 in.). Art Institute of Chicago, Gift of Emily Crane Chadbourne, 1922.4798."
     credit: ""
 
   - id: "fig_1_3"
     src: figures/fig_1_3.jpg
     alt: ""
-    label: "Figure 1.3"
+    label: "Figure 1.3."
     caption: "Raking light detail of fig. 1.1, showing impasto and tool marks."
     credit: ""
 
   - id: "fig_1_4"
     src: figures/fig_1_4.jpg
     alt: ""
-    label: "Figure 1.4"
+    label: "Figure 1.4."
     caption: "Detail of figure 1.2, showing the use of *tratteggio* around the eyes and the bridge of the nose."
     credit: ""
 
   - id: "fig_1_5"
     src: figures/fig_1_5.jpg
     alt: ""
-    label: "Figure 1.5"
+    label: "Figure 1.5."
     caption: "Infrared spectrum, black paint sample #1 from the hair of the portrait shown in fig. 1.2, exhibiting characteristic peaks for beeswax (BW) and cellulose nitrate (CN)."
     credit: ""
 
   - id: "fig_1_6"
     src: figures/fig_1_6.jpg
     alt: ""
-    label: "Figure 1.6"
+    label: "Figure 1.6."
     caption: "Total ion chromatogram (pyrolysis gas chromatography mass spectrometry), dark brown paint sample #2 from the eyelid of the portrait shown in fig. 1.2, exhibiting characteristic marker compounds for beeswax (FA = fatty acid methyl ester, OH-FA = hydroxy fatty acid methyl ester, FAlc = fatty alcohol methyl ether, HC = hydrocarbon), Pinaceae resin (Pi), shellac (Sh), and protein (Pr)."
     credit: ""
 
   - id: "fig_1_7"
     src: figures/fig_1_7.jpg
     alt: ""
-    label: "Figure 1.7"
+    label: "Figure 1.7."
     caption: "Detail of fig. 1.2, showing sample locations corresponding to those described in figs. 1.5 and 1.6."
     credit: ""
 
   - id: "fig_2_2"
     src: figures/fig_2_2.jpg
     alt: ""
-    label: "Figure 2.2"
+    label: "Figure 2.2."
     caption: "SEM image of an RLS of *Ficus sycomorus*, sycomore fig wood; scale bar is in microns."
     credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
 
   - id: "fig_2_3"
     src: figures/fig_2_3.jpg
     alt: ""
-    label: "Figure 2.3"
+    label: "Figure 2.3."
     caption: "SEM image of a RLS of *Tilia europaea*, lime wood; scale bar is in microns."
     credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
 
   - id: "fig_2_4"
     src: figures/fig_2_4.jpg
     alt: ""
-    label: "Figure 2.4"
+    label: "Figure 2.4."
     caption: "SEM image of an RLS of *Cedrus libani*, cedar of Lebanon wood; scale bar is in microns."
     credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
 
   - id: "fig_2_5"
     src: figures/fig_2_5.jpg
     alt: ""
-    label: "Figure 2.5"
+    label: "Figure 2.5."
     caption: "A *Tilia europaea* tree in the Royal Botanic Gardens at Kew."
     credit: "Image: © C.R. Cartwright 2012"
 
   - id: "fig_2_6"
     src: figures/fig_2_6.jpg
     alt: ""
-    label: "Figure 2.6"
+    label: "Figure 2.6."
     caption: "Image of a transverse thin section of *Tilia europaea* lime reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
     credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
 
   - id: "fig_2_7"
     src: figures/fig_2_7.jpg
     alt: ""
-    label: "Figure 2.7"
+    label: "Figure 2.7."
     caption: "Image of a radial longitudinal thin section of *Tilia europaea* lime reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
     credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
 
   - id: "fig_2_8"
     src: figures/fig_2_8.jpg
     alt: ""
-    label: "Figure 2.8"
+    label: "Figure 2.8."
     caption: "Image of a tangential longitudinal thin section of *Tilia europaea* lime reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
     credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
 
   - id: "fig_2_9"
     src: figures/fig_2_9.jpg
     alt: ""
-    label: "Figure 2.9"
+    label: "Figure 2.9."
     caption: "Image of a transverse thin section of *Ficus sycomorus* sycomore fig reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
     credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
 
   - id: "fig_2_10"
     src: figures/fig_2_10.jpg
     alt: ""
-    label: "Figure 2.10"
+    label: "Figure 2.10."
     caption: "Image of a transverse thin section of *Ziziphus spina-christi* sidr reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
     credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
 
   - id: "fig_2_11"
     src: figures/fig_2_11.jpg
     alt: ""
-    label: "Figure 2.11"
+    label: "Figure 2.11."
     caption: "Image of a transverse thin section of *Tamarix aphylla* tamarisk reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
     credit: "Image: C.R. Cartwright. © The Trustees of the British Museum"
 
   - id: "fig_3_1"
     src: figures/fig_3_1.jpg
     alt: ""
-    label: "Figure 3.1"
+    label: "Figure 3.1."
     caption: "Mummy Portrait of a Woman with Earrings, Romano-Egyptian, ca. AD 130–140. Encaustic on linden wood, 35.3 x 22.5 cm (13 7/8 x 8 7/8 in.). Cambridge, Harvard Art Museums/Arthur M. Sackler Museum, Gift of Dr. Denman W. Ross, 1923.60."
     credit: "Photo: Imaging Department © President and Fellows of Harvard College"
 
   - id: "fig_3_2"
     src: figures/fig_3_2.jpg
     alt: ""
-    label: "Figure 3.2"
+    label: "Figure 3.2."
     caption: "Mummy Portrait of a Bearded Man, Romano-Egyptian, ca. AD 170–180. Encaustic on wood, 40.5 x 20 cm (15 15/16 x 7 7/8 in.). Baltimore, The Walters Art Museum, Acquired by Henry Walters, 1912, 32.6."
     credit: "Photo: The Walters Art Museum, Baltimore"
 
   - id: "fig_3_3"
     src: figures/fig_3_3.jpg
     alt: ""
-    label: "Figure 3.3"
+    label: "Figure 3.3."
     caption: "*Rubia tinctorum* roots (left) and rhizomes (right) before washing."
     credit: "Source: Ashley Walker, http://www.naturesrainbow.co.uk/tag/rubia-tinctorum/ (photo used with permission)"
 
   - id: "fig_3_4"
     src: figures/fig_3_4.jpg
     alt: ""
-    
+    label: "Figure 3.4."
     caption: "*Rubia tinctorum* roots (left) and rhizomes (right) after washing and gentle brushing."
     credit: "Source: Ashley Walker, http://www.naturesrainbow.co.uk/tag/rubia-tinctorum/ (photo used with permission)"
 
   - id: "fig_3_5"
     src: figures/fig_3_5.jpg
     alt: ""
+    label: "Figure 3.5."
     caption: "Structures (and molecular weights) of some common hydroxyanthraquinones and glucosides found in madder roots."
     credit: ""
 
   - id: "fig_3_6"
     src: figures/fig_3_6.jpg
     alt: ""
+    label: "Figure 3.6."
     caption: "Detail of cross section from purple drapery in portrait shown in fig. 3.1. Back-scattered electron photomicrograph taken in a scanning electron microscope: L = lake particles, G = gypsum particles. Red square denotes region whose SEM/EDS spectrum is shown in fig. 3.7."
     credit: "Sample of fig. 3.1 courtesy of Katherine Eremin and Georgina Raynor"
 
   - id: "fig_3_7"
     src: figures/fig_3_7.jpg
     alt: ""
+    label: "Figure 3.7."
     caption: "Energy-dispersive X-ray spectrum (SEM/EDS) from lake particle in upper middle of fig. 3.6; area analyzed is indicated by a solid red square in fig. 3.6."
     credit: ""
 
   - id: "fig_3_8"
     src: figures/fig_3_8.jpg
     alt: ""
+    label: "Figure 3.8."
     caption: "View of top of a small chip of pink paint from a mummy portrait, Romano-Egyptian, AD 100–200. Media not identified, 65 x 12.2 cm (25 9/16 x 4 13/16 in.). Copenhagen, Ny Carlsberg Glyptotek, ÆIN 686-687. Sample courtesy of Lin Rosa Spaabæk; back-scattered electron image taken in a scanning electron microscope."
     credit: ""
 
   - id: "fig_3_9"
     src: figures/fig_3_9.jpg
     alt: ""
+    label: "Figure 3.9."
     caption: "Funerary Shroud and Mask, ca. mid-third century AD. Excavated at Thebes, Deir el-Bahari, by Edouard Naville in 1897. Water-soluble medium on linen and stucco. H: 93.5 cm (36 13/16 in.). Boston, Museum of Fine Arts, Egypt Exploration Fund by subscription, 97.1100."
     credit: "Photo: Jessica Arista"
 
   - id: "fig_3_10"
     src: figures/fig_3_10.jpg
     alt: ""
+    label: "Figure 3.10."
     caption: "UVL image of mummy shroud in fig. 3.9."
     credit: "Photo: Jessica Arista"
 
   - id: "fig_3_11"
     src: figures/fig_3_11.jpg
     alt: ""
+    label: "Figure 3.11."
     caption: "Fluorescence excitation and emission spectra from pink *clavus* of mummy shroud in fig. 3.9; analysis carried out noninvasively using a Cary Eclipse fluorescence spectrophotometer with an external fiber-optic probe."
     credit: ""
 
   - id: "fig_3_12"
     src: figures/fig_3_12.jpg
     alt: ""
+    label: "Figure 3.12."
     caption: "FORS from pink *clavus* of mummy shroud in fig. 3.9; analysis carried out noninvasively using an Ocean Optics FLAME visible-near infrared (400–1000 nm) spectrometer."
     credit: ""
 
   - id: "fig_3_13"
     src: figures/fig_3_13.jpg
     alt: ""
+    label: "Figure 3.13."
     caption: "Details of extracted ion chromatograms from LC/MS analyses of reference pigments and samples from mummy portraits. All analyses carried out using electrospray ionization (ESI) in negative polarity.
 
-             (A) “Rose pink” dry pigment, manufactured by Weber; Museum of Fine Arts, Boston, Forbes Collection 16
+              (A) “Rose pink” dry pigment, manufactured by Weber; Museum of Fine Arts, Boston, Forbes Collection 16
 
-             (B) and (C) “Rose foncé” dry pigment, manufactured by Newman, Museum of Fine Arts, Boston, Forbes Collection 15
+              (B) and (C) “Rose foncé” dry pigment, manufactured by Newman, Museum of Fine Arts, Boston, Forbes Collection 15
 
-             (D) purplish pink paint from drapery in Mummy Portrait, Romano-Egyptian, AD 100–200. Media not identified, 50.2 x 22.4 cm (19 3/4 x 8 13/16 in.). Copenhagen, Ny Carlsberg Glyptotek, ÆIN 685
+              (D) purplish pink paint from drapery in Mummy Portrait, Romano-Egyptian, AD 100–200. Media not identified, 50.2 x 22.4 cm (19 3/4 x 8 13/16 in.). Copenhagen, Ny Carlsberg Glyptotek, ÆIN 685
 
-             (E) purple paint from drapery on portrait in fig. 3.1
+              (E) purple paint from drapery on portrait in fig. 3.1
 
               Samples prepared by reacting with approximately 5-percent boron trifluoride in methanol. Vertical scales adjusted individually; actual peak heights are indicated. Compounds plotted: alizarin (m/z 239), purpurin (m/z 255), methyl ester of pseudopurpurin (m/z 313). Instrumental conditions were different for (E), which resulted in shifted retention times."
     credit: ""
@@ -214,334 +223,364 @@ figure_list:
   - id: "fig_4_2"
     src: figures/fig_4_2.jpg
     alt: ""
-    label: "Figure 4.2"
+    label: "Figure 4.2."
     caption: "Mummy Shroud with Painted Portrait of a Boy, Romano-Egyptian, AD 150–250. Paint on linen, 62 x 52.5 cm (24 3/8 x 20 11/16 in.). Los Angeles, J. Paul Getty Museum, Gift of Lenore Barozzi, 75.AP.87."
     credit: ""
 
   - id: "fig_4_3"
     src: figures/fig_4_3.jpg
     alt: ""
-    label: "Figure 4.3"
+    label: "Figure 4.3."
     caption: "Mummy Shroud with Painted Portrait of a Youth, Romano-Egyptian, AD 220–250. Paint on linen, 49.5 x 35.5 cm (19 1/2 x 14 in.). Los Angeles, J. Paul Getty Museum, 79.AP.219."
     credit: ""
 
   - id: "fig_4_4"
     src: figures/fig_4_4.jpg
     alt: ""
-    label: "Figure 4.4"
+    label: "Figure 4.4."
     caption: "Fragment of a Mummy Shroud with Painted Portrait of a Woman, Romano-Egyptian, late second to third century AD. Paint on linen, H: 28.5 cm (11 1/4 in.). New York, Metropolitan Museum of Art, Museum Accession, X.390."
     credit: ""
 
   - id: "fig_4_5"
     src: figures/fig_4_5.jpg
     alt: ""
-    label: "Figure 4.5"
+    label: "Figure 4.5."
     caption: "Painted Osiris Mummy Shroud, Romano-Egyptian, ca. AD 125. Paint on linen, 98 x 82 cm (38 5/8 x 32 1/4 in.). New York, Metropolitan Museum of Art, Gift of Mrs. S. W. Straus, 1925, 25.184.20."
     credit: ""
 
   - id: "fig_4_6"
     src: figures/fig_4_6.jpg
     alt: ""
-    label: "Figure 4.6"
+    label: "Figure 4.6."
     caption: "Fragments of a Painted Mummy Shroud, Ptolemaic or Romano-Egyptian, 304 BC–AD 364. Paint on linen, 25.3 x 18.3 cm (10 x 7 3/16 in.). New York, Metropolitan Museum of Art, Museum Accession, X.491A."
     credit: ""
 
   - id: "fig_4_7"
     src: figures/fig_4_7.jpg
     alt: ""
-    label: "Figure 4.7"
+    label: "Figure 4.7."
     caption: "Fragments of a Painted Mummy Shroud, Ptolemaic or Romano-Egyptian, 304 BC–AD 364. Paint on linen, 14.8 x 18.8 cm (5 13/16 x 7 3/8 in.). New York, Metropolitan Museum of Art, Museum Accession, X.491B."
     credit: ""
 
   - id: "fig_4_9"
     src: figures/fig_4_9.jpg
     alt: ""
-    label: "Figure 4.11"
+    label: "Figure 4.11."
     caption: "Fragment of a Painted Mummy Shroud, Ptolemaic or Romano-Egyptian, first century BC–first century AD. Paint on linen, 36.8 x 31 cm (14 1/2 x 12 3/16 in.). New York, Metropolitan Museum of Art, Purchase, Fletcher Fund and The Guide Foundation Inc. Gift, 1966, 66.99.141."
     credit: ""
 
   - id: "fig_4_10"
     src: figures/fig_4_10.jpg
     alt: ""
-    label: "Figure 4.9"
+    label: "Figure 4.9."
     caption: "Detail of fig. 4.3, showing overlap of yellow and blue in drapery."
     credit: ""
 
   - id: "fig_4_11"
     src: figures/fig_4_11.jpg
     alt: ""
-    label: "Figure 4.10"
+    label: "Figure 4.10."
     caption: "Detail of fig. 4.6, showing dark- and light-green checkerboard background."
+    credit: ""
+
+  - id: "fig_4_12"
+    label: "Figure 4.12."
+    src: figures/fig_4_12.png
+    alt:
+    caption: "Confirmed characterizations of green pigments on Egyptian artifacts."
     credit: ""
 
   - id: "fig_4_13"
     src: figures/fig_4_13.jpg
     alt: ""
-    label: "Figure 4.13"
+    label: "Figure 4.13."
     caption: "Detail of fig. 4.2, showing wreath painted with vergaut mixture."
     credit: ""
 
   - id: "fig_5_1"
     src: figures/fig_5_1.jpg
     alt: ""
+    label: "Figure 5.1."
     caption: "Visible light image showing the presence of Egyptian blue on the tunic, gems, face, and hair on Fayum Mummy Portrait of a Woman, Romano-Egyptian, second to third century AD. Encaustic on wood panel, 34.6 x 20.3 cm (13 5/8 x 8 in.). Stanford, Iris & B. Gerald Cantor Center for Visual Arts, Stanford Family Collections, JLS.22225."
     credit: ""
 
   - id: "fig_5_2"
     src: figures/fig_5_2.jpg
     alt: ""
+    label: "Figure 5.2."
     caption: "VIL image showing the presence of Egyptian blue on the tunic, gems, face, and hair on Fayum Mummy Portrait of a Woman, Romano-Egyptian, second to third century AD. Encaustic on wood panel, 34.6 x 20.3 cm (13 5/8 x 8 in.). Stanford, Iris & B. Gerald Cantor Center for Visual Arts, Stanford Family Collections, JLS.22225."
+    credit: ""
+
+  - id: "fig_5_3"
+    label: "Figure 5.3."
+    src: figures/fig_5_3.png
+    alt:
+    caption: "Egyptian blue in the APPEAR database."
+    credit: ""
+
+  - id: "fig_5_4"
+    label: "Figure 5.4."
+    src: figures/fig_5_4.png
+    alt: ""
+    caption: "Blue pigments and paint binders in the mummy portraits."
     credit: ""
 
   - id: "fig_5_6_a"
     src: figures/fig_5_6_a.jpg
     alt: ""
+    label: "Figure 5.6a."
     caption: "Visible light image showing the presence of Egyptian blue in the peacock's feathers and Harpocrates' eyes and headdress on Horus Harpocrates on Peacock, Romano-Egyptian, first century AD or later. Terracotta, H: 17.8 cm (7 in.). Amsterdam, Allard Pierson Museum, APM07232."
     credit: ""
 
   - id: "fig_5_6_b"
     src: figures/fig_5_6_b.jpg
     alt: ""
+    label: "Figure 5.6b."
     caption: "VIL image showing the presence of Egyptian blue in the peacock's feathers and Harpocrates' eyes and headdress on Horus Harpocrates on Peacock, Romano-Egyptian, first century AD or later. Terracotta, H: 17.8 cm (7 in.). Amsterdam, Allard Pierson Museum, APM07232."
     credit: ""
 
   - id: "fig_5_7_a"
     src: figures/fig_5_7_a.jpg
     alt: ""
-    label: "Visible light"
+    label: "Figure 5.7a. Visible light"
     caption: "Visible light and VIL images of a gorgoneion wall-painting at the Allard Pierson Museum showing the presence of Egyptian blue in the flesh tones, eyes, and snakes of the gorgon."
     credit: ""
 
   - id: "fig_5_7_b"
     src: figures/fig_5_7_b.jpg
     alt: ""
-    label: "VIL"
+    label: "Figure 5.7b. VIL"
     caption: ""
     credit: ""
 
   - id: "fig_6_3"
     src: figures/fig_6_.jpg
     alt: ""
-    label: "Figure 6.3"
+    label: "Figure 6.3."
     caption: "Workflow for assessing the presence of a selection of key pigments in the BM portrait collection by examining the response in the VIL, UVL, IRRFC, and UVRFC images."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_4"
     src: figures/fig_6_4.jpg
     alt: ""
-    label: "Figure 6.4"
+    label: "Figure 6.4."
     caption: "Bar charts, showing the number of portraits exhibiting the identified uses of the pigments: (a) Egyptian blue; (b) pink lake; (c) carbon black; (d) ochres; and (e) lead white in the BM portrait collection (dark gray denotes portraits in encaustic; light gray, portraits in tempera)."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_5_a"
     src: figures/fig_6_5_a.jpg
     alt: ""
-    label: "Figure 6.5a"
-    caption: "VIS and VIL images showing Egyptian blue used as a blue pigment. Portrait: EA65346."
+    label: "Figure 6.5a."
+    caption: "VIS and VIL images showing Egyptian blue used as a blue pigment. Portrait: EA65346"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_5_b"
     src: figures/fig_6_5_b.jpg
     alt: ""
-    label: "Figure 6.5b"
-    caption: "VIS and VIL images showing Egyptian blue used in mixtures with pink lake. Portrait: EA74717."
+    label: "Figure 6.5b."
+    caption: "VIS and VIL images showing Egyptian blue used in mixtures with pink lake. Portrait: EA74717"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_5_c_1"
     src: figures/fig_6_5_c_1.jpg
     alt: ""
-    label: "Figure 6.5c-1"
-    caption: "VIS and VIL images showing Egyptian blue used in skin tones. Portrait: EA74716."
+    label: "Figure 6.5c-1."
+    caption: "VIS and VIL images showing Egyptian blue used in skin tones. Portrait: EA74716"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_5_c_2"
     src: figures/fig_6_5_c_2.jpg
     alt: ""
-    label: "Figure 6.5c-2"
-    caption: "VIS and VIL images showing Egyptian blue used in skin tones. Portrait: EA74718."
+    label: "Figure 6.5c-2."
+    caption: "VIS and VIL images showing Egyptian blue used in skin tones. Portrait: EA74718"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_5_d"
     src: figures/fig_6_5_d.jpg
     alt: ""
-    label: "Figure 6.5d"
+    label: "Figure 6.5d."
     caption: "VIS and VIL images showing Egyptian blue used as a highlight. Portrait: EA29972."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_6_a"
     src: figures/fig_6_6_a.jpg
     alt: ""
-    label: "Figure 6.6a"
-    caption: "VIS and UVL images showing pink lake used as a pink pigment. Portrait: EA74713."
+    label: "Figure 6.6a."
+    caption: "VIS and UVL images showing pink lake used as a pink pigment. Portrait: EA74713"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_6_b"
     src: figures/fig_6_6_b.jpg
     alt: ""
-    label: "Figure 6.6b"
+    label: "Figure 6.6b."
     caption: "VIS and UVL images showing pink lake used in mixtures to produce dark red. Portrait: EA65344."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_6_c_1"
     src: figures/fig_6_6_c_1.jpg
     alt: ""
-    label: "Figure 6.6c-1"
-    caption: "VIS and UVL images showing pink lake used in mixtures to produce skin tones. Portrait: EA63394."
+    label: "Figure 6.6c-1."
+    caption: "VIS and UVL images showing pink lake used in mixtures to produce skin tones. Portrait: EA63394"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_6_c_2"
     src: figures/fig_6_6_c_2.jpg
     alt: ""
-    label: "Figure 6.6c-2"
-    caption: "VIS and UVL images showing pink lake used in mixtures to produce skin tones. Portrait: EA6713."
+    label: "Figure 6.6c-2."
+    caption: "VIS and UVL images showing pink lake used in mixtures to produce skin tones. Portrait: EA6713"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_6_d"
     src: figures/fig_6_6_d.jpg
     alt: ""
-    label: "Figure 6.6d"
-    caption: "VIS and UVL images showing pink lake used in mixtures to produce highlights. Portrait: EA5619."
+    label: "Figure 6.6d."
+    caption: "VIS and UVL images showing pink lake used in mixtures to produce highlights. Portrait: EA5619"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_7_a"
     src: figures/fig_6_7_a.jpg
     alt: ""
-    label: "Figure 6.7a"
-    caption: "VIS and IRRFC images showing carbon black used as a black pigment. Portrait: EA74711."
+    label: "Figure 6.7a."
+    caption: "VIS and IRRFC images showing carbon black used as a black pigment. Portrait: EA74711"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_7_b"
     src: figures/fig_6_7_b.jpg
     alt: ""
-    label: "Figure 6.7b"
-    caption: "VIS and IRRFC images showing carbon black used in mixtures to produce gray tones and evoke shadows. Portrait: EA74704."
+    label: "Figure 6.7b."
+    caption: "VIS and IRRFC images showing carbon black used in mixtures to produce gray tones and evoke shadows. Portrait: EA74704"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_7_c"
     src: figures/fig_6_7_c.jpg
     alt: ""
-    label: "Figure 6.7c"
-    caption: "IS and IRRFC images showing a case in which visually dark materials are IR transparent and hence not carbon based. Portrait: EA74709."
+    label: "Figure 6.7c."
+    caption: "IS and IRRFC images showing a case in which visually dark materials are IR transparent and hence not carbon based. Portrait: EA74709"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_8_a"
     src: figures/fig_6_8_a.jpg
     alt: ""
-    label: "Figure 6.8a"
-    caption: "VIS and UVRFC images showing ochres used as yellow pigment. Portrait: EA74716."
+    label: "Figure 6.8a."
+    caption: "VIS and UVRFC images showing ochres used as yellow pigment. Portrait: EA74716"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_8_b"
     src: figures/fig_6_8_b.jpg
     alt: ""
-    label: "Figure 6.8b"
-    caption: "VIS and UVRFC images showing ochres used as red pigment. Portrait: EA63395."
+    label: "Figure 6.8b."
+    caption: "VIS and UVRFC images showing ochres used as red pigment. Portrait: EA63395"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_8_c"
     src: figures/fig_6_8_c.jpg
     alt: ""
-    label: "Figure 6.8c"
-    caption: "VIS and UVRFC images showing ochres used in mixtures to produce various shades for the depiction of skin tones. Portrait: EA74714."
+    label: "Figure 6.8c."
+    caption: "VIS and UVRFC images showing ochres used in mixtures to produce various shades for the depiction of skin tones. Portrait: EA74714"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_9_a"
     src: figures/fig_6_9_a.jpg
     alt: ""
-    label: "Figure 6.9a"
-    caption: "VIS and IRRFC images showing indigo used as a blue pigment. Portrait: EA65343."
+    label: "Figure 6.9a."
+    caption: "VIS and IRRFC images showing indigo used as a blue pigment. Portrait: EA65343"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_9_b"
     src: figures/fig_6_9_b.jpg
     alt: ""
-    label: "Figure 6.9b"
-    caption: "VIS and IRRFC images showing indigo used in a mixture to produce a green pigment in the beads of the necklaces. Portrait: EA74831."
+    label: "Figure 6.9b."
+    caption: "VIS and IRRFC images showing indigo used in a mixture to produce a green pigment in the beads of the necklaces. Portrait: EA74831"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_9_c"
     src: figures/fig_6_9_c.jpg
     alt: ""
-    label: "Figure 6.9c"
-    caption: "VIS and IRRFC images showing indigo used in mixtures to produce purple-toned pigments for the garment and beads of the lower necklace. Portrait: EA74706."
+    label: "Figure 6.9c."
+    caption: "VIS and IRRFC images showing indigo used in mixtures to produce purple-toned pigments for the garment and beads of the lower necklace. Portrait: EA74706"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_9_d"
     src: figures/fig_6_9_d.jpg
     alt: ""
-    label: "Figure 6.9d"
-    caption: "VIVL and MBR images showing the distribution of pink lake and indigo pigments in the garment and necklace beads. Portrait: EA74706."
+    label: "Figure 6.9d."
+    caption: "VIVL and MBR images showing the distribution of pink lake and indigo pigments in the garment and necklace beads. Portrait: EA74706"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_10_a"
     src: figures/fig_6_10_a.jpg
     alt: ""
-    label: "Figure 6.10a"
-    caption: "VIS and IRRFC images showing the use of copper-based inorganic pigments to depict green gemstones. Portrait: EA63395."
+    label: "Figure 6.10a."
+    caption: "VIS and IRRFC images showing the use of copper-based inorganic pigments to depict green gemstones. Portrait: EA63395"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_10_b"
     src: figures/fig_6_10_b.jpg
     alt: ""
-    label: "Figure 6.10b"
-    caption: "VIS and IRRFC images showing the use of copper-based organometallic pigments to depict green gemstones. Portrait: EA74706."
+    label: "Figure 6.10b."
+    caption: "VIS and IRRFC images showing the use of copper-based organometallic pigments to depict green gemstones. Portrait: EA74706"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_10_c"
     src: figures/fig_6_10_c.jpg
     alt: ""
-    label: "Figure 6.10c"
-    caption: "VIS and IRRFC images showing the use of green earth pigments to depict green gemstones. Portrait: EA63394."
+    label: "Figure 6.10c."
+    caption: "VIS and IRRFC images showing the use of green earth pigments to depict green gemstones. Portrait: EA63394"
     credit: "© Trustees of the British Museum"
 
   - id: "fig_7_1"
     src: figures/fig_7_1.jpg
     alt: ""
+    label: "Figure 7.1."
     caption: "*Noblewoman*, Romano-Egyptian, ca. AD 150. Encaustic on wood, 44 x 28.7 cm (17 5/16 x 11 5/16 in.). Brooklyn Museum, Gift of the Ernest Erickson Foundation, Inc., 86.226.18. Next to portrait are the Spectralon 99% reflectance standard, X-Rite ColorChecker Passport, and unbound indigo pigment sample."
     credit: ""
 
   - id: "fig_7_3"
     src: figures/fig_7_3.jpg
     alt: ""
+    label: "Figure 7.3."
     caption: "Paint-out boards made using indigo and red ochre, unprepared (left) and prepared (right), with reflectance and color standards, and pigment and binder references."
     credit: ""
 
   - id: "fig_7_4"
     src: figures/fig_7_4.jpg
     alt: ""
+    label: "Figure 7.4."
     caption: "Transmission curves for the MidOpt BP660 (dashed line) and BP735 (dotted line) filters overlaid with a FORS spectrum for indigo in cow hide glue (solid line)."
     credit: ""
 
   - id: "fig_7_5"
     src: figures/fig_7_5.jpg
     alt: ""
+    label: "Figure 7.5."
     caption: "*Boy with a Floral Garland in His Hair*, Romano-Egyptian, ca. AD 200–230. Er-Rubiyat. Tempera on *Tilia europea* panel, 29.9 x 19.8 cm (11 3/4 x 7 13/16 in.). Brooklyn Museum, Charles Edwin Wilbour Fund, 41.848."
     credit: ""
 
   - id: "fig_7_6a"
     src: figures/fig_7_6a.jpg
     alt: ""
-    label: "Normal light"
+    label: "Figure 7.6a. Normal light"
     caption: "Details of the *clavus* on fig. 7.1. Normal light, UVF, MBR illustrating the red lake pigment’s characteristic pinkish-orange fluorescence, and MBR illustrating indigo’s bright response. The brightness of the MBR image has been enhanced for legibility."
     credit: ""
 
   - id: "fig_7_6b"
     src: figures/fig_7_6b.jpg
     alt: ""
-    label: "UVF"
+    label: "Figure 7.6b. UVF"
     caption: ""
     credit: ""
 
   - id: "fig_7_6c"
     src: figures/fig_7_6c.jpg
     alt: ""
-    label: "MBR"
+    label: "Figure 7.6c. MBR"
     caption: ""
     credit: ""
 
   - id: "fig_7_7"
     src: figures/fig_7_7.jpg
     alt: ""
+    label: "Figure 7.7."
     caption: "*Mummy Portrait of a Man*, Romano-Egyptian, ca. AD 120–130. Encaustic on wood, gold leaf, 43.8 x 19.7 (17 1/4 x 7 3/4 in.). Brooklyn Museum, Charles Edwin Wilbour Fund, 40.386."
     credit: ""
 
@@ -549,248 +588,286 @@ figure_list:
     src: figures/fig_7_8a.jpg
     alt: ""
     caption: "Details of fig. 7.7. Normal light, UVF, MBR showing the bright responses of indigo on the painted purple cartonnage and of the resin associated with the mummy wrappings. The brightness of the MBR image has been enhanced for legibility."
-    label: "Normal light"
+    label: "Figure 7.8a. Normal light"
     credit: ""
 
   - id: "fig_7_8b"
     src: figures/fig_7_8b.jpg
     alt: ""
-    label: "UVF"
+    label: "Figure 7.8b. UVF"
     caption: ""
     credit: ""
 
   - id: "fig_7_8c"
     src: figures/fig_7_8c.jpg
     alt: ""
-    label: "MBR"
+    label: "Figure 7.8c. MBR"
     caption: ""
     credit: ""
 
   - id: "fig_7_9"
     src: figures/fig_7_9.jpg
     alt: ""
+    label: "Figure 7.9."
     caption: "*Portrait of a Young Person*, Romano-Egyptian, ca. AD 200–230. Tempera on wood, 28.4 x 15.7 cm (11 3/16 x 6 3/16 in.). Brooklyn Museum, Charles Edwin Wilbour Fund, 54.197."
     credit: ""
 
   - id: "fig_7_10"
     src: figures/fig_7_10.jpg
     alt: ""
+    label: "Figure 7.10."
     caption: "MBR detail of fig. 7.5, showing the bright response of indigo in the floral garland as well as the less pronounced responses of red ochre and of the panel wood exposed by paint loss. The brightness of the MBR image has been enhanced for legibility."
     credit: ""
 
   - id: "fig_7_11"
     src: figures/fig_7_11.jpg
     alt: ""
+    label: "Figure 7.11."
     caption: "FORS spectra of wood (dot-dash line), resin (dotted line), and red ochre (dashed line), overlaid with an indigo spectrum (solid line)."
     credit: ""
 
   - id: "fig_7_12"
     src: figures/fig_7_12.jpg
     alt: ""
+    label: "Figure 7.12."
     caption: "MBR of the paint-out boards made using indigo and red ochre pigments."
     credit: ""
 
   - id: "fig_7_13"
     src: figures/fig_7_13.jpg
     alt: ""
+    label: "Figure 7.13."
     caption: "UVF detail of fig. 7.5, showing the characteristic pinkish-orange fluorescence of the red lake pigment in contrast to the nonfluorescent red ochre."
     credit: ""
 
   - id: "fig_7_14"
     src: figures/fig_7_14.jpg
     alt: ""
+    label: "Figure 7.14."
     caption: "FCUV detail of fig. 7.5, showing the blue-violet color of the red lake pigment in contrast to the dark purple color of the red ochre."
     credit: ""
 
   - id: "fig_7_15"
     src: figures/fig_7_15.jpg
     alt: ""
+    label: "Figure 7.15."
     caption: "UVF detail of fig. 7.1, illustrating the characteristic fluorescence of the red lake pigment in the highlights in the hair."
     credit: ""
 
   - id: "fig_7_16"
     src: figures/fig_7_16.jpg
     alt: ""
+    label: "Figure 7.16."
     caption: "FCUV detail of fig. 7.1, showing the blue-green color in the highlights, corroborating the identification of indigo."
     credit: ""
 
   - id: "fig_8_1"
     src: figures/fig_8_1.jpg
     alt: ""
+    label: "Figure 8.1."
     caption: "Portrait of a Young Man, Romano-Egyptian, ca. AD 100. Encaustic on wooden panel, 25 x 18 cm (9 7/8 x 7 1/8 in.). Philadelphia, University of Pennsylvania Museum of Archaeology and Anthropology, Purchased from Theodor Graf, 1894, E16213."
     credit: "Image Credit: E. Mayberger and M. Gleeson"
 
   - id: "fig_8_2"
     src: figures/fig_8_2.jpg
     alt: ""
+    label: "Figure 8.2."
     caption: "VIVL image of fig. 8.1. Camera: Canon EOS D5 Mark III (unmodified); SPEX Mini CrimeScope® MCS-400 (535 nm); Tiffen 23A red filter (grayscale)."
     credit: "Image Credit: E. Mayberger and M. Gleeson"
 
   - id: "fig_8_3"
     src: figures/fig_8_3.jpg
     alt: ""
+    label: "Figure 8.3."
     caption: "Mummy Shroud with Painted Portrait of a Boy, Romano-Egyptian, AD 72–213. Tempera on linen, 62 × 52.5 cm (24 7/16 x 20 11/16 in.). Los Angeles, J. Paul Getty Museum, Gift of Lenore Barozzi, 75.AP.87."
     credit: "Image Credit: J. Paul Getty Museum"
 
   - id: "fig_8_4"
     src: figures/fig_8_4.jpg
     alt: ""
+    label: "Figure 8.4."
     caption: "VIVL image of fig. 8.3. Camera: Nikon D90 (modified); SPEX Mini CrimeScope® MCS-400 (555 nm); PECA 916 and red long pass filters (grayscale)."
     credit: "Image Credit: M. Svoboda"
 
   - id: "fig_8_5"
     src: figures/fig_8_5.jpg
     alt: ""
+    label: "Figure 8.5."
     caption: "Funerary Portrait of a Young Man, Romano-Egyptian, early third century AD. Tempera on wooden panel, 31 x 16.5 cm (12 3/16 x 6 1/2 in.). Boston, Museum of Fine Arts, Abbott Lawrence Fund, 59.340."
     credit: "Image Credit: E. Mayberger and J. Arista"
 
   - id: "fig_8_6"
     src: figures/fig_8_6.jpg
     alt: ""
+    label: "Figure 8.6."
     caption: "VIVL image of fig. 8.5. Camera: Canon EOS D5 Mark III (unmodified); SPEX Mini CrimeScope® MCS-400 (535 nm); B+W UV-IR-Cut (486 MRC) and Tiffen 23A red filters (grayscale)."
     credit: "Image Credit: E. Mayberger and J. Arista"
 
   - id: "fig_8_8"
     src: figures/fig_8_8.jpg
     alt: ""
+    label: "Figure 8.8."
     caption: "VIVL image of fig. 8.1. Camera: Nikon D5200 (modified); SPEX Mini CrimeScope® MCS-400 (535 nm); Tiffen 23A red filter."
     credit: "Image Credit: E. Mayberger and M. Gleeson"
 
   - id: "fig_8_9"
     src: figures/fig_8_9.jpg
     alt: ""
+    label: "Figure 8.9."
     caption: "VIVL image of fig. 8.1. Camera: Canon EOS D5 Mark III (unmodified); American DJ–brand 64 LED Pro (blue light); Lee no. 16 filter."
     credit: "Image Credit: E. Mayberger and M. Gleeson"
 
   - id: "fig_8_10"
     src: figures/fig_8_10.jpg
     alt: ""
+    label: "Figure 8.10."
     caption: "VIVL image of fig. 8.1 (detail). Camera: Canon EOS D5 Mark III (unmodified); SPEX Mini CrimeScope® MCS-400 (535 nm); Tiffen 23A red filter (grayscale)."
     credit: "Image Credit: E. Mayberger and M. Gleeson"
 
   - id: "fig_8_11"
     src: figures/fig_8_11.jpg
     alt: ""
+    label: "Figure 8.11."
     caption: "VIVL image of fig. 8.1 (detail). Camera: Canon EOS D5 Mark III (unmodified); American DJ–brand 64 LED Pro (blue light); Lee no. 16 filter."
     credit: "Image Credit: E. Mayberger and M. Gleeson"
 
   - id: "fig_8_12"
     src: figures/fig_8_12.jpg
     alt: ""
+    label: "Figure 8.12."
     caption: "VIVL image of fig. 8.1 (detail). Camera: Canon EOS D5 Mark III (unmodified); Speedlite 580 EX II flash; XNite 525 nm bandpass and XNite 625 nm bandpass filters."
     credit: "Image Credit: E. Mayberger and M. Gleeson"
 
   - id: "fig_8_13"
     src: figures/fig_8_13.jpg
     alt: ""
+    label: "Figure 8.13."
     caption: "VIVL image of fig. 8.1 (detail). Camera: Canon EOS D5 Mark III (unmodified); American DJ–brand 64 LED Pro (green light); XNite 625 nm bandpass filter."
     credit: "Image Credit: E. Mayberger and M. Gleeson"
 
   - id: "fig_8_14"
     src: figures/fig_8_14.jpg
     alt: ""
+    label: "Figure 8.14."
     caption: "Getty Eyes Mock-up Board, created by E. Adamian."
     credit: "Image Credit: E. Mayberger and M. Gleeson"
 
   - id: "fig_8_15"
     src: figures/fig_8_15.jpg
     alt: ""
+    label: "Figure 8.15."
     caption: "VIVL image of Getty Eyes Mock-up Board. Camera: Canon EOS D5 Mark III (unmodified); SPEX Mini CrimeScope® MCS-400 (535 nm); Tiffen 23A red filter."
     credit: "Image Credit: E. Mayberger and M. Gleeson"
 
   - id: "fig_9_1"
     src: figures/fig_9_1.jpg
     alt: ""
+    label: "Figure 9.1."
     caption: "Heron and Lycurgus, Romano-Egyptian, late second century AD. Tempera on wood, with frame: 33.3 x 29.1 cm (13 1/8 x 11 7/16 in.); without frame: 24.2 x 19.4 cm (9 1/2 x 7 5/8 in.). Brussels, Musées royaux d’Art et d’Histoire, E 7409."
     credit: ""
 
   - id: "fig_9_2"
     src: figures/fig_9_2.jpg
     alt: ""
+    label: "Figure 9.2."
     caption: "The God Heron, Romano-Egyptian, late second to third century AD. Tempera on wood, with frame: 58.1 x 48.7 cm (22 7/8 x 19 3/16 in.); without frame: 52.4 x 42.5 cm (20 5/8 x 16 3/4 in). Providence, Museum of Art, Rhode Island School of Design, Museum Works of Art Fund, 59.030."
     credit: ""
 
   - id: "fig_9_3"
     src: figures/fig_9_3.jpg
     alt: ""
+    label: "Figure 9.3."
     caption: "Portrait of a Woman, Romano-Egyptian, ca. AD 50–70. Excavated by Sir William Flinders Petrie at Hawara in 1888. Tempera on wood with twisted rope for hanging, with frame: 45.5 x 41 cm (17 15/16 x 16 1/8 in.); without frame: 25.9 x 20.4 cm (10 3/16 x 8 1/16 in.) London, The British Museum, 1889,1018.1."
     credit: ""
 
   - id: "fig_9_4"
     src: figures/fig_9_4.jpg
     alt: ""
+    label: "Figure 9.4."
     caption: "Detail of fig. 9.2, showing wane edge and tool marks."
     credit: "Photo by I. Neuman"
 
   - id: "fig_9_5"
     src: figures/fig_9_5.jpg
     alt: ""
+    label: "Figure 9.5."
     caption: "Detail of upper proper left corner of fig. 9.2, showing raised peg and Egyptian blue."
     credit: "Photo by I. Neuman"
 
   - id: "fig_9_6"
     src: figures/fig_9_6.jpg
     alt: ""
+    label: "Figure 9.6."
     caption: "Detail of upper proper right corner of fig. 9.2, showing two pegs."
     credit: "Photo by I. Neuman"
 
   - id: "fig_9_7"
     src: figures/fig_9_7.jpg
     alt: ""
+    label: "Figure 9.7."
     caption: "Detail of fig. 9.2, showing the central peg along the top frame member."
     credit: "Photo by I. Neuman"
 
   - id: "fig_9_8"
     src: figures/fig_9_8.jpg
     alt: ""
+    label: "Figure 9.8."
     caption: "VIL image of fig. 9.2, showing Egyptian blue."
     credit: "Photo by J. Arista"
 
   - id: "fig_9_9"
     src: figures/fig_9_9.jpg
     alt: ""
+    label: "Figure 9.9."
     caption: "CT scan of fig. 9.2, showing the book-matching arrangement."
     credit: "Image by S. Collins"
 
   - id: "fig_9_10"
     src: figures/fig_9_10.jpg
     alt: ""
+    label: "Figure 9.10."
     caption: "3-D volume rendering of fig. 9.2, showing perimeter voids."
     credit: "Image by S. Collins"
 
   - id: "fig_9_11"
     src: figures/fig_9_11.jpg
     alt: ""
+    label: "Figure 9.11."
     caption: "XRF sample sites of fig. 9.2."
     credit: "Diagram by C. Cooper"
 
   - id: "fig_9_12"
     src: figures/fig_9_12.jpg
     alt: ""
+    label: "Figure 9.12."
     caption: "Detail of fig. 9.3, showing double groove."
     credit: "Photo by I. Neuman"
 
   - id: "fig_9_13"
     src: figures/fig_9_13.jpg
     alt: ""
+    label: "Figure 9.13."
     caption: "Hinge, Egyptian, 600–100 BC. Saqqara. Wood. Birmingham, UK: Birmingham Museums and Art Gallery, 1969A547."
     credit: "Photograph courtesy of Birmingham Museums and Art Gallery. Photo © Birmingham Museums Trust"
 
   - id: "fig_9_14"
     src: figures/fig_9_14.jpg
     alt: ""
+    label: "Figure 9.14."
     caption: "Detail of fig. 9.3, showing palm-fiber hanging device."
     credit: "Photo by I. Neuman"
 
   - id: "fig_9_15"
     src: figures/fig_9_15.jpg
     alt: ""
+    label: "Figure 9.15."
     caption: "Color reconstruction of fig. 9.2."
     credit: "Reconstruction by Macy Nobles"
 
   - id: "fig_10_1"
     src: figures/fig_10_1.jpg
     alt: ""
+    label: "Figure 10.1."
     caption: "The division of mummy portraits into ten equally spaced, horizontal bands
 
               Left: Portrait of a Young Man, Romano-Egyptian, AD 193–235. Uncovered at Tanis by Grenfell and Hunt in 1902. Encaustic paint on a limewood panel with traces of linen, 39.2 x 19.1 cm (15 7/16 x 7 1/2 in.). Oxford, Ashmolean Museum of Art & Archaeology, Egypt Exploration Fund, AN1896-1908.E.3755
@@ -801,48 +878,56 @@ figure_list:
   - id: "fig_10_2"
     src: figures/fig_10_2.jpg
     alt: ""
+    label: "Figure 10.2."
     caption: "Chart illustrating the mean normalized standard deviation for radius values of the facial reference points."
     credit: ""
 
   - id: "fig_10_3"
     src: figures/fig_10_3.jpg
     alt: ""
+    label: "Figure 10.3."
     caption: "Average human face compared with that of a mummy portrait."
     credit: ""
 
   - id: "fig_10_4"
     src: figures/fig_10_4.jpg
     alt: ""
+    label: "Figure 10.4."
     caption: "Diagram showing the general proportions of the eyes of mummy portraits."
     credit: ""
 
   - id: "fig_10_5"
     src: figures/fig_10_5.jpg
     alt: ""
+    label: "Figure 10.5."
     caption: "Images of mummy portraits compared with images of real faces, which are tilted forward and backward, and panned left and right."
     credit: ""
 
   - id: "fig_10_6"
     src: figures/fig_10_6.jpg
     alt: ""
+    label: "Figure 10.6."
     caption: "Detail of a portrait of a young girl attached to the Hibbard mummy, or Hawara portrait mummy no. 4, Romano-Egyptian, late ﬁrst to second century BC. Found in Hawara by Petrie in 1911. Encaustic on limewood panel, approx. 19.1 x 11.4 cm (7 1/2 x 4 1/2 in.). Evanston, Garrett-Evangelical Theological Seminary, Gift of Lindia Beekman Hibbard."
     credit: ""
 
   - id: "fig_10_7"
     src: figures/fig_10_7.jpg
     alt: ""
+    label: "Figure 10.7."
     caption: "CT scan through the side of the head of the Hibbard mummy."
     credit: ""
 
   - id: "fig_10_8"
     src: figures/fig_10_8.jpg
     alt: ""
+    label: "Figure 10.8."
     caption: "Drawn face with the principal horizontal lines of a mummy portrait, viewed at different angles."
     credit: ""
 
   - id: "fig_10_9"
     src: figures/fig_10_9.jpg
     alt: ""
+    label: "Figure 10.9."
     caption: "Face on a mummy portrait, with vertical reference lines based on the distance between the eyes.
     Portrait of a Bearded Man, Romano-Egyptian, AD 150–160. Encaustic on limewood panel, 41 x 20.5 cm (16 1/8 x 8 1/16 in.). Oxford, Ashmolean Museum of Art & Archaeology, John Davidson Beazley (ex-MacGregor Collection), AN1922.240."
     credit: ""
@@ -850,36 +935,42 @@ figure_list:
   - id: "fig_10_10"
     src: figures/fig_10_10.jpg
     alt: ""
+    label: "Figure 10.10."
     caption: "Face of a mummy portrait, shown at left in fig. 10.1, with vertical centers of symmetry for the head (yellow, center), nose (red, right) and top of hair (blue, left)."
     credit: ""
 
   - id: "fig_10_11"
     src: figures/fig_10_11.jpg
     alt: ""
+    label: "Figure 10.11."
     caption: "Sarcophagus, Bosporan Kingdom, first century BC. Crimea. Limestone, 81 x 215 cm (31 7/8 x 84 5/8 in.). Saint Petersburg, The State Hermitage Museum, П.1899-81."
     credit: ""
 
   - id: "fig_10_12"
     src: figures/fig_10_12.jpg
     alt: ""
+    label: "Figure 10.12."
     caption: "Copy of a grid depicted on a sarcophagus dating from the first century AD (left) compared with a grid deduced from the mummy portraits (right)."
     credit: ""
 
   - id: "fig_11_1"
     src: figures/fig_11_1.jpg
     alt: ""
+    label: "Figure 11.1."
     caption: "Word cloud of constituents associated with portraits in the APPEAR database, excluding William Flinders Petrie and Theodor Graf."
     credit: ""
 
   - id: "fig_11_2"
     src: figures/fig_11_2.jpg
     alt: ""
+    label: "Figure 11.2."
     caption: "Mummy Portrait of a Woman, Romano-Egyptian, AD 175–200. Tempera on wood, 28.2 × 14.5 cm (11 1/8 × 5 11/16 in.). Los Angeles, J. Paul Getty Museum, 79.AP.129."
     credit: ""
 
   - id: "fig_11_3"
     src: figures/fig_11_3.jpg
     alt: ""
+    label: "Figure 11.3."
     caption: "Mummy Portrait of a Young Woman, Romano-Egyptian, about AD 170–200. Tempera on wood, 34.9 × 21.3 cm (13 3/4 × 8 3/8 in.). Los Angeles, J. Paul Getty Museum, 81.AP.29."
     credit: ""
 
@@ -887,115 +978,133 @@ figure_list:
     src: figures/fig_11_4.jpg
     alt: ""
     caption: ""
+    label: "Figure 11.4."
     caption: "Reverse of fig. 11.3."
     credit: "Photo courtesy of Marie Svoboda"
 
   - id: "fig_11_5"
     src: figures/fig_11_5.jpg
     alt: ""
+    label: "Figure 11.5."
     caption: "Reverse of fig. 11.2."
     credit: "Photo courtesy of Marie Svoboda"
 
   - id: "fig_11_6"
     src: figures/fig_11_6.jpg
     alt: ""
+    label: "Figure 11.6."
     caption: "Reverse showing square stamp in center, Portrait of a Man, Romano-Egyptian, ca. AD 150–160. Probably tempera on wood, 34.3 x 19.7 cm (13 1/2 x 7 3/4 in.). Providence, RISD Museum, Mary B. Jackson Fund, 39.025."
     credit: ""
 
   - id: "fig_11_7"
     src: figures/fig_11_7.jpg
     alt: ""
+    label: "Figure 11.7."
     caption: "Funerary Portrait, Romano-Egyptian, late 3<sup>rd</sup>–4<sup>th</sup> century AD. Tempera on wood, 30.5 x 15.2 cm (12 x 6 in.). Los Angeles County Museum of Art, Gift of Phil Berg Collection, M.71.73.62."
     credit: ""
 
   - id: "fig_11_8"
     src: figures/fig_11_8.jpg
     alt: ""
+    label: "Figure 11.8."
     caption: "Reverse of fig. 11.7."
     credit: "Image performed by Yosi Pozeilov, senior conservation photographer"
 
   - id: "fig_11_9"
     src: figures/fig_11_9.jpg
     alt: ""
+    label: "Figure 11.9."
     caption: "UVR results for fig. 11.7."
     credit: "Image performed by Yosi Pozeilov, senior conservation photographer"
 
   - id: "fig_12_1"
     src: figures/fig_12_1.jpg
     alt: ""
+    label: "Figure 12.1."
     caption: "Mummy Portrait of a Woman, Romano-Egyptian, second quarter of the second century AD. Presumably from er-Rubayat. Encaustic on limewood, 29.5 x 14.1 cm (11 5/8 x 5 9/16 in). Budapest, Museum of Fine Arts, Collection of Classical Antiquities, 8901."
     credit: "Image: © Szépművészeti Múzeum, Budapest. Photo: László Mátyus"
 
   - id: "fig_12_2"
     src: figures/fig_12_2.jpg
     alt: ""
+    label: "Figure 12.2."
     caption: "Mummy Portrait of a Woman, Romano-Egyptian, second half of the second century AD. Presumably from er-Rubayat. Tempera on sycomore fig, 32 x 18.4 cm (12 5/8 x 7 1/4 in). Budapest, Museum of Fine Arts, Collection of Classical Antiquities, 8902."
     credit: "Image: © Szépművészeti Múzeum, Budapest. Photo: László Mátyus"
 
   - id: "fig_12_3"
     src: figures/fig_12_3.jpg
     alt: ""
+    label: "Figure 12.3."
     caption: "Mummy Portrait of a Woman, Romano-Egyptian with modern retouching. Akhmim. Encaustic on limewood, 39.3 x 16.7 cm (15 1/2 x 6 9/16 in). Budapest, Museum of Fine Arts, Collection of Classical Antiquities, 51.343."
     credit: "Image: © Szépművészeti Múzeum, Budapest. Photo: László Mátyus"
 
   - id: "fig_12_4"
     src: figures/fig_12_4.jpg
     alt: ""
+    label: "Figure 12.4."
     caption: "Mummy Portrait of a Man, Romano-Egyptian with modern retouching. Fayum. Encaustic on limewood, 28.5 x 15.6 cm (11 1/4 x 6 1/8 in). Budapest, Museum of Fine Arts, Collection of Classical Antiquities, 51.342."
     credit: "Image: © Szépművészeti Múzeum, Budapest. Photo: László Mátyus"
 
   - id: "fig_12_5"
     src: figures/fig_12_5.jpg
     alt: ""
+    label: "Figure 12.5."
     caption: "Mummy Portrait of a Woman, Romano-Egyptian, first quarter of the second century AD. Fayum. Encaustic on limewood, 36.5 x 12.7 cm (14 3/8 x 5 in). Budapest, Museum of Fine Arts, Collection of Classical Antiquities, 51.344."
     credit: "Image: © Szépművészeti Múzeum, Budapest. Photo: László Mátyus"
 
   - id: "fig_12_6"
     src: figures/fig_12_6.jpg
     alt: ""
+    label: "Figure 12.6."
     caption: "Mummy Portrait of a Woman, Romano-Egyptian, second century AD (?). Presumably from er-Rubayat. Tempera on wood, 32 x 18.4 cm (12 5/8 x 7 1/4 in). Whereabouts unknown."
     credit: "Image: Szépművészeti Múzeum Archives"
 
   - id: "fig_13_1"
     src: figures/fig_13_1.jpg
     alt: ""
+    label: "Figure 13.1."
     caption: "Mummy Portrait of Sarap[i]on, Romano-Egyptian, ca. second century AD. Wood, pigments, wax, and glue, 33.7 x 41.9 cm (13 1/4 x 16 1/2 in.) Atlanta, Michael C. Carlos Museum, Emory University, Mohamed Farid Khamis/Oriental Weavers Fund, 2004.048.001."
     credit: "Photo by Bruce M. White, 2008"
 
   - id: "fig_13_2"
     src: figures/fig_13_2.jpg
     alt: ""
+    label: "Figure 13.2."
     caption: "UVF image of Mummy Portrait of Sarap[i]on."
     credit: "Image courtesy Michael C. Carlos Museum, Emory University"
 
   - id: "fig_13_3"
     src: figures/fig_13_3.jpg
     alt: ""
+    label: "Figure 13.3."
     caption: "Scanning XRF map showing lead on Mummy Portrait of Sarap[i]on. Map obtained on a Horiba XGT-5000 at Georgia Electron Microscopy."
     credit: ""
 
   - id: "fig_14_1"
     src: figures/fig_14_1.jpg
     alt: ""
+    label: "Figure 14.1."
     caption: "Sketch, shown in NIR illumination, with instructions in Greek for completing the portrait, found on the reverse of a nearly effaced portrait, Tebtunis, Egypt, second century AD. Encaustic paint and ink on sycomore fig panel, 34.8 x 22.5 x 1.2 cm (13 11/16 x 8 7/8 x 1/2 in.). Berkeley, University of California, Phoebe A. Hearst Museum of Anthropology, 6-21378a."
     credit: ""
 
   - id: "fig_14_2"
     src: figures/fig_14_2.jpg
     alt: ""
+    label: "Figure 14.2."
     caption: "Mummy Portrait, Romano-Egyptian, second century AD. Attributed to Kerke, Egypt. Glue tempera paint on linden panel, 35 x 19 x 0.3 cm (13 3/4 x 7 1/2 x 1/10 in.). Berkeley, University of California, Phoebe A. Hearst Museum of Anthropology, 5-2327."
     credit: ""
 
   - id: "fig_14_3"
     src: figures/fig_14_3.jpg
     alt: ""
+    label: "Figure 14.3."
     caption: "Mummy Portrait, Romano-Egyptian, second century AD. Tebtunis, Egypt. Encaustic paint on sycomore fig panel, 34.8 x 22.5 x 1.2 cm (13 11/16 x 8 7/8 x 1/2 in.). Berkeley, University of California, Phoebe A. Hearst Museum of Anthropology, 6-21378b."
     credit: ""
 
   - id: "fig_15_1_a"
     src: figures/fig_15_1_a.jpg
     alt: ""
-    label: "UVF"
+    label: "Figure 15.1a. UVF"
     caption: "Portrait of a Lady, Romano-Egyptian, AD 117–138. er-Rubayat. Encaustic on wood, 40 x 20 cm (15 3/4 x 7 7/8 in.). Vienna, Kunsthistorisches Museum, Antikensammlung, X 297.
 
               a.  UVF
@@ -1008,21 +1117,21 @@ figure_list:
   - id: "fig_15_1_b"
     src: figures/fig_15_1_b.jpg
     alt: ""
-    label: "VIS"
+    label: "Figure 15.1b. VIS"
     caption: ""
     credit: ""
 
   - id: "fig_15_1_c"
     src: figures/fig_15_1_c.jpg
     alt: ""
-    label: "VIL"
+    label: "Figure 15.1c. VIL"
     caption: ""
     credit: ""
 
   - id: "fig_15_2_a"
     src: figures/fig_15_2_a.jpg
     alt: ""
-    label: "UVF"
+    label: "Figure 15.2a. UVF"
     caption: "Portrait of a Young Man with Wreath, Romano-Egyptian, AD 125–150. er-Rubayat. Tempera on wood, 32.5 x 18 cm (12 13/16 x 7 1/16 in.). Vienna, Kunsthistorisches Museum, Antikensammlung, X 432.
 
               a.  UVF
@@ -1037,119 +1146,197 @@ figure_list:
   - id: "fig_15_2_b"
     src: figures/fig_15_2_b.jpg
     alt: ""
-    label: "VIS"
+    label: "Figure 15.2b. VIS"
     caption: ""
     credit: ""
 
   - id: "fig_15_2_c"
     src: figures/fig_15_2_c.jpg
     alt: ""
-    label: "NIR"
+    label: "Figure 15.2c. NIR"
     caption: ""
     credit: ""
 
   - id: "fig_15_2_d"
     src: figures/fig_15_2_d.jpg
     alt: ""
-    label: "IRRFC"
+    label: "Figure 15.2d. IRRFC"
     caption: ""
     credit: ""
 
   - id: "fig_16_1"
     src: figures/fig_16_1.jpg
     alt: ""
+    label: "Figure 16.1."
     caption: "Shield Painted with Two Scenes from *The Iliad*, Greco-Roman or Parthian, mid-3rd century AD. Dura-Europos, Syria. Pine planks and pigment. New Haven, Yale University Art Gallery, 1935.551."
     credit: "Photo: Yale University Art Gallery"
 
   - id: "fig_16_2"
     src: figures/fig_16_2.jpg
     alt: ""
+    label: "Figure 16.2."
     caption: "Herbert J. Gute (American, 1908–1977), *Wooden Shield Painted with Scenes from the Trojan War*, commissioned by Yale University, 1935 or 1936. Watercolor on paper, 79.9 x 64.9 cm (31 7/16 x 25 9/16 in.). New Haven, Yale University Art Gallery, 1936.127.26."
     credit: "Photo: Yale University Art Gallery"
 
   - id: "fig_16_3"
     src: figures/fig_16_3.jpg
     alt: ""
+    label: "Figure 16.3."
     caption: "Cross section removed from the edge of a wood slat: in visible light (above) and exhibiting UVF (below)."
     credit: ""
 
   - id: "fig_17_2_a"
     src: figures/fig_17_2_a.jpg
     alt: ""
+    label: "Figure 17.2a."
     caption: "Mummy Portrait, Romano-Egyptian, AD 160–180. Kafr Ammar, Egypt. Wood and animal glue, 31.2 x 18.0 cm (12 1/4 x 7 1/8 in.). London, Petrie Museum of Egyptian Archaeology, University College London, UC 14768."
     credit: ""
 
   - id: "fig_17_2_b"
     src: figures/fig_17_2_b.jpg
     alt: ""
+    label: "Figure 17.2b."
     caption: "The GC/MS chromatogram shows that the amino acids closely match animal glue (99%)."
     credit: ""
 
   - id: "fig_17_3_a"
     src: figures/fig_17_3_a.jpg
     alt: ""
+    label: "Figure 17.3a."
     caption: "Portrait of a Young Man, Romano-Egyptian, AD 140–160. Hawara, Egypt. Wood and beeswax, 39.6 x 27.8 cm (15 5/8 x 10 15/16 in.). London, Petrie Museum of Egyptian Archaeology, University College London, UC 19610."
     credit: ""
 
   - id: "fig_17_3_b_bottom"
     src: figures/fig_17_3_b_bottom.jpg
     alt: ""
+    label: "Figure 17.3b."
     caption: "The bottom chromatogram shows the beeswax compounds identified. When compared with fresh beeswax (top chromatogram), an increase in palmitic acid (C16) and a decrease in hydrocarbons (H) and beeswax esters are evident."
     credit: ""
 
   - id: "fig_17_3_b_top"
     src: figures/fig_17_3_b_top.jpg
     alt: ""
+    label: "Figure 17.3b."
     caption: ""
     credit: ""
 
   - id: "fig_17_4_a"
     src: figures/fig_17_4_a.jpg
     alt: ""
+    label: "Figure 17.4a."
     caption: "Mummy Shroud with Painted Portrait of a Boy, Romano-Egyptian, AD 150–250. Unknown, Egypt. Tempera on linen, 62 x 52.5 cm (24 7/16 x 20 11/16 in.). Los Angeles, J. Paul Getty Museum, Gift of Lenore Barozzi, 75.AP.87."
     credit: ""
 
   - id: "fig_17_4_b"
     src: figures/fig_17_4_b.jpg
     alt: ""
+    label: "Figure 17.4b."
     caption: "Chromatogram of white paint from the background shows the presence of an oxidized oil, based on the detection of azelaic acid, undecanedioic acid (*DC11), dodecanedioic acid (*DC12), and tridecanedioic acid (*DC13). Erucic acid (C22:1) was identified, indicating Brassicaceae oil (mustard or cabbage family)."
     credit: ""
 
   - id: "fig_18_2_a"
     src: figures/fig_18_2_a.jpg
     alt: ""
-    label: "Figure 18.2a"
+    label: "Figure 18.2a."
     caption: "Portrait of a Woman, Romano-Egyptian, AD 140–160. Linden wood and beeswax, 25 x 11 cm (9 7/8 x 4 5/16 in.). Copenhagen, Ny Carlsberg Glyptotek, AEIN 682."
     credit: ""
 
   - id: "fig_18_2_b_1"
     src: figures/fig_18_2_b_1.jpg
     alt: ""
-    label: "Figure 18.2b Wax analysis"
+    label: "Figure 18.2b. Wax analysis"
     caption: "The GC/MS chromatograms show a sample containing aged beeswax, soaps, and oil. The top chromatogram presents the wax analysis; the bottom chromatogram displays the oil analysis of the same sample."
     credit: ""
 
   - id: "fig_18_2_b_2"
     src: figures/fig_18_2_b_2.jpg
     alt: ""
-    label: "Figure 18.2b Oil analysis"
+    label: "Figure 18.2b. Oil analysis"
     caption: ""
     credit: ""
 
   - id: "fig_18_3"
     src: figures/fig_18_3.jpg
     alt: ""
+    label: "Figure 18.3."
     caption: "Photomacrograph (40x) of the thick, transparent top coating on AEIN 681."
     credit: "Photo L. Spaabaek"
 
   - id: "fig_18_5_a"
     src: figures/fig_18_5_a.jpg
     alt: ""
+    label: "Figure 18.5a. Visible light"
     caption: "Visible and UVL images of Portrait of a Man, Romano-Egyptian, AD 140–200. Linden wood and beeswax, 41 x 8 cm (16 1/8 x 3 1/8 in.). Copenhagen, Ny Carlsberg Glyptotek, AEIN 684. The egg coating has a bright bluish-yellow luminescence with a clear demarcation of where the coating ends at the bottom of the panel."
     credit: "Photo: M. L. Sargent"
 
   - id: "fig_18_5_b"
     src: figures/fig_18_5_b.jpg
     alt: ""
+    label: "Figure 18.5b. UVL"
     caption: "Visible and UVL images of Portrait of a Man, Romano-Egyptian, AD 140–200. Linden wood and beeswax, 41 x 8 cm (16 1/8 x 3 1/8 in.). Copenhagen, Ny Carlsberg Glyptotek, AEIN 684. The egg coating has a bright bluish-yellow luminescence with a clear demarcation of where the coating ends at the bottom of the panel."
     credit: "Photo: M. L. Sargent"
+
+  - id: "table_2_1"
+    media_type: table
+    label: "Figure 2.1."
+    src: tables/2-1.html
+    caption: ""
+    credit: ""
+
+  - id: "table_4_1"
+    media_type: table
+    label: Figure 4.1.
+    src: tables/4-1.html
+    caption: "Green pigments characterized on Egyptian artifacts."
+    credit: ""
+
+  - id: "table_4_8"
+    media_type: table
+    label: Figure 4.8.
+    src: tables/4-8.html
+    caption: "Green pigment analysis and imaging of painted mummy shrouds."
+    credit: ""
+
+  - id: "table_5_5"
+    media_type: table
+    label: Figure 5.5.
+    src: tables/5-5.html
+    caption: "Uses of Egyptian blue in the mummy portraits, in order of frequency."
+    credit: ""
+
+  - id: "table_6_1"
+    media_type: table
+    label: Figure 6.1.
+    src: tables/6-1.html
+    caption: "Schematic of the experimental setup, including radiation sources and filter(s) combinations, for reflected images: (a) VIS; (b) IRR; (c) UVR; and (d) MBR images."
+    credit: "Portrait: EA74706 © Trustees of the British Museum"
+
+  - id: "table_6_2"
+    media_type: table
+    label: "Figure 6.2."
+    src: tables/6-2.html
+    caption: "Schematic of the experimental setup, including radiation sources and filter(s) combinations, for luminescence images: (e) UVL; (f) VIL; and (g) VIVL images."
+    credit: "Portrait: EA74706 © Trustees of the British Museum"
+
+  - id: "table_7_2"
+    media_type: table
+    label: "Figure 7.2."
+    src: tables/7-2.html
+    caption: "Camera, filter, and illumination sources used for MBI imaging."
+    credit: ""
+
+  - id: "table_17_1"
+    media_type: table
+    label: "Figure 17.1."
+    src: tables/17-1.html
+    caption: "Figure 17.1. Summary of GC/MS Binding Media Results."
+    credit: ""
+
+  - id: "table_18_1"
+    media_type: table
+    label: Figure 18.1.
+    src: tables/18-1.html
+    caption: "Summary of GC/MS Results of Encaustic Binding Media. Description of the encaustic paint samples that contain beeswax only or beeswax with additional proteins and/or oxidized oil. AEIN 1425 and AEIN 1426 are on a linen support; all others are on wooden panels.
+
+** = Unidentified protein"
+    credit: ""
