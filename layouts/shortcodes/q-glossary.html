@@ -46,11 +46,11 @@
 {{- range .Site.Data.glossary.terms -}}
   {{- $letter := substr .display 0 1 | upper -}}
   {{- if in ($.Scratch.Get "letters") $letter -}}
-    <dt>{{ .display | markdownify }}</dt>
+    <dt>{{ .display | markdownify }}{{ if $.Site.Params.glossaryTermDivider }}{{ $.Site.Params.glossaryTermDivider }}{{ else }}: {{ end }}</dt>
   {{- else -}}
     {{- $.Scratch.Add "letters" $letter -}}
-    <dt id="{{ $letter | safeHTMLAttr }}">{{ .display | markdownify }}</dt> 
+    <dt id="{{ $letter | safeHTMLAttr }}">{{ .display | markdownify }}{{ if $.Site.Params.glossaryTermDivider }}{{ $.Site.Params.glossaryTermDivider }}{{ else }}: {{ end }}</dt> 
   {{- end -}}
-  <dd>{{ if $.Site.Params.glossaryTermDivider }}{{ $.Site.Params.glossaryTermDivider }}{{ else }}: {{ end }}{{ .definition | markdownify }}</dd>
+  <dd>{{ .definition | markdownify }}</dd>
 {{- end }}
 </dl>
