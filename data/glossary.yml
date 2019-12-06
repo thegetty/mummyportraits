@@ -228,59 +228,59 @@ terms:
     display: "Orpiment"
     definition: "an orange-yellow pigment with large particles and a glittering quality used to imitate gold. Sourced from the Red Sea and Asia Minor, orpiment, mentioned by Pliny and Vitruvius and also noted in Egyptian works of the Pharaonic period, was widely traded by the Romans. Chemical formula: Arsenic trisulfide, As<sub>2</sub>S<sub>3</sub>"
 
-  - id: "Panel"
+  - id: "panel"
     display: "Panel"
     definition: "painting supports made from various woods, including, lime, sycomore fig, and cedar of Lebanon, among others. The shape of the upper portion of mummy portrait panels may indicate the cemetery in which the mummy was buried: stepped panels are associated with Antinoöpolis, round-topped panels with Hawara, and angled panels with er-Rubayat."
 
-  - id: "Pallium"
+  - id: "pallium"
     display: "Pallium"
     definition: "a large, draped rectangular cloth, worn as a cloak or mantle with no undergarment, often associated with Greek intellectual activities. To the Romans, the pallium was a distinctly Greek form of dress, and so it was worn only in specific contexts. (See *himation*.)"
 
-  - id: "Pastiche"
+  - id: "pastiche"
     display: "Pastiche"
     definition: "artworks that incorporate several different styles or are composed of parts drawn from a variety of sources (e.g., a complete panel that is made of two or more panels)."
 
-  - id: "Penicillum"
+  - id: "penicillum"
     display: "Penicillum"
     definition: "a paintbrush with bristles made from plant fibers or animal hair."
 
-  - id: "Photometric stereo imaging"
+  - id: "photometric stereo imaging"
     display: "Photometric stereo imaging"
     definition: "a computational imaging technique that separates color from shape data to generate a high-resolution composite image that estimates surface topography."
 
-  - id: "Pigment"
+  - id: "pigment"
     display: "Pigment"
     definition: "a colorant either derived from natural sources—mineral, plant, or insect—or produced synthetically. Typically, pigments are crushed into a fine powder and mixed with a binder, resulting in a suspension that becomes insoluble when dry; a dye produces a lake pigment when attached to an inorganic substrate or mordant."
 
-  - id: "Plant resin"
+  - id: "plant resin"
     display: "Plant resin"
     definition: "a water-insoluble exudate obtained from one of several plants, particularly coniferous trees such as pine, cedar, or fir. Composed of chemical compounds known as terpenes, plant resins are used for the production of varnishes and adhesives and for mummification processes. Many resins have an aromatic quality that also acts as a preservative (biocide)."
 
-  - id: "Polarized light microscopy (PLM)"
+  - id: "PLM"
     display: "Polarized light microscopy (PLM)"
     definition: "optical microscopy that utilizes polarized light to study the structure and composition of materials. Particles (of pigments, for example) may be characterized by their appearance and by observing their isotropic and anisotropic characteristics based on their crystallographic structure."
 
-  - id: "Polychrome"
+  - id: "polychrome"
     display: "Polychrome"
     definition: "the application of multiple colors to an object to produce a decorative effect."
 
-  - id: "Provenance"
+  - id: "provenance"
     display: "Provenance"
     definition: "the ownership history of an artifact."
 
-  - id: "Provenience"
+  - id: "provenience"
     display: "Provenience"
     definition: "the geographic origin of an artifact."
 
-  - id: "Punic wax"
+  - id: "punic wax"
     display: "Punic wax"
     definition: "beeswax prepared in a certain way, as described by both Pliny and Dioscorides. The precise nature and composition of Punic wax has been much debated, with the source texts variously interpreted as describing the preparation of a purified or clarified beeswax, or one that has been partially or completely saponified by the addition of an alkali. In the latter case the product is presumed by some to be water miscible and amenable to application in a cold state."
 
-  - id: "Radiocarbon dating"
+  - id: "radiocarbon dating"
     display: "Radiocarbon dating"
     definition: "a scientific method for dating organic materials or an object containing organic materials."
 
-  - id: "Raking light"
+  - id: "raking light"
     display: "Raking light"
     definition: "illumination of an object by a light source positioned at an oblique angle or almost parallel to the object’s surface. It is used to provide information about the surface topography."
 
@@ -288,31 +288,31 @@ terms:
     display: "Raman spectroscopy"
     definition: "an analytical technique used to observe the vibrational, rotational, and other low-frequency molecular modes of a material. When excited by monochromatic light (visible, near infrared, or near ultraviolet) from a laser beam, the collected inelastic scattered light collected with a spectrometer produces spectra that are specific to the chemical bonds and symmetry of specific molecules. Comparing reference spectral databases allows for the identification of materials."
 
-  - id: "Realgar"
+  - id: "realgar"
     display: "Realgar"
     definition: "closely related to orpiment, a red-orange pigment that was widely traded in the Roman Empire and used throughout ancient Egypt and Mesopotamia. Pararealgar is formed when realgar is exposed to light (degradation); it has the same elemental composition but different crystalline structure. Chemical formula: Arsenic sulfide, As<sub>4</sub>S<sub>4</sub>"
 
-  - id: "Red lead (minium)"
+  - id: "red lead"
     display: "Red lead (minium)"
     definition: "a bright red-orange pigment that was one of the first to be synthetically produced. It is also referred to as *minium*, the naturally occurring pigment named after the river Minius, located in northwest Spain. Chemical formula: Lead (II, IV)-oxide Pb<sub>3</sub>O<sub>4</sub>"
 
-  - id: "Red ochre"
+  - id: "red ochre"
     display: "Red ochre"
     definition: "a brownish-red earth pigment that contains anhydrous iron oxide, or hematite (from the Greek *hema,* meaning “blood”). Used since prehistory as pigments, ochres may vary widely in shades and transparency. Composition: Anhydrous iron (III)-oxide, Fe<sub>2</sub>O<sub>3</sub>"
 
-  - id: "Reflectance transformation imaging (RTI)"
+  - id: "RTI"
     display: "Reflectance transformation imaging (RTI)"
     definition: "a computational imaging technique that reveals surface topography, details, and textures, thus enabling the study of tool and brush marks, etc. RTI produces a polynomial texture map, or pseudo-three-dimensional image, of an object or surface. The light source is positioned at a constant radius from the subject at different angles (i.e., raking light) to create a hemisphere of positions and the image captures acquired from a fixed camera position during each light movement. The final processed file determines all possible light positions within the virtual hemisphere."
 
-  - id: "Reflected near-infrared (NIR) photography"
+  - id: "NIR"
     display: "Reflected near-infrared (NIR) photography"
     definition: "an imaging technique that records radiation responses in the near-infrared region (700–1100 nm), thus capturing the contrast between materials that reflect the infrared and those that absorb it, such as carbon-containing pigments. Because infrared is of longer wavelength than visible light, some low-absorbing materials may also allow the infrared to be transmitted through them, revealing hidden underdrawings, artist’s modifications and methodology, or modern interventions."
 
-  - id: "Sagum"
+  - id: "sagum"
     display: "Sagum"
     definition: "a long, dark-colored (red, blue, or purple) outer cloak worn by Roman soldiers. The sagum was fastened on the shoulder with a fibula (brooch)."
 
-  - id: "Scanning electron microscopy and energy dispersive X-ray spectroscopy (SEM-EDS / EDX)"
+  - id: "SEM-EDS/EDX"
     display: "Scanning electron microscopy and energy dispersive X-ray spectroscopy (SEM-EDS / EDX)"
     definition: "an electron microscope that images the surface of a sample by scanning it with a high-energy beam of electrons. The interaction between the electrons and the constituent atoms at the sample’s surface reveals topography and elemental composition."
 
@@ -320,19 +320,19 @@ terms:
     display: "Severan period (AD 193–235)"
     definition: "an era characterized by, among other things, a fashion for short military beards and hair cropped close to the head for men and center-parted and pulled-back hair for women. These distinctive styles help scholars to propose a rough chronology of Roman portraiture and art, as images with these coiffures appear on dated materials such as coins and busts."
 
-  - id: "Shroud"
+  - id: "shroud"
     display: "Shroud"
     definition: "a cloth used to cover or protect another object. The term is most often used to refer to a cloth that covers or envelops a corpse. Many mummy shrouds were painted before being placed over the mummy’s head or enveloping the entire body."
 
-  - id: "Specular light"
+  - id: "specular light"
     display: "Specular light"
     definition: "light that behaves as in a mirror; that is, a ray of incoming light (incident ray) that strikes a surface and is reflected back in a single outgoing direction."
 
-  - id: "Stucco"
+  - id: "stucco"
     display: "Stucco"
     definition: "a fine plaster made of either gypsum or calcite that is used for coating surfaces or that is molded into decorative shapes. The mixture is applied wet and shaped/molded; it is typically painted after drying. Funerary masks made of stucco are found in Egypt from the First Dynasty to the first century AD."
 
-  - id: "Tempera"
+  - id: "tempera"
     display: "Tempera"
     definition: "in the context of ancient art, this term generally refers to a fast-drying, water-miscible painting medium such as animal glue or plant gum. The term *tempera* originates from the Latin *temperare* (“combining, blending”)."
 
@@ -340,46 +340,46 @@ terms:
     display: "Trajanic period (AD 98–117)"
     definition: "the era that corresponds to the reign of Trajan. This period is exemplified by a distinctive women’s hairstyle consisting of a “nest” of braids placed at the back of the head and rolls of curls arranged into a tall diadem (crown or headpiece) towering over the forehead. These distinguishing styles help scholars to propose a rough chronology of Roman portraiture and art, as images with these coiffures appear on dated materials such as coins and busts."
 
-  - id: "Tunic"
+  - id: "tunic"
     display: "Tunic"
     definition: "See *chiton*."
 
-  - id: "Ultraviolet-induced visible fluorescence (UVF) / UV-visible fluorescence / Ultraviolet-induced visible luminescence (UVL)"
+  - id: "UVF/UVL"
     display: "Ultraviolet-induced visible fluorescence (UVF) / UV-visible fluorescence / Ultraviolet-induced visible luminescence (UVL) (historically UV/VisFL)"
     definition: "an imaging technique and diagnostic examination method, based on characteristic responses of materials to ultraviolet (UV) radiation (185–400 nm) in the form of fluorescence, in which radiant energy in the UV region is absorbed and then reemitted as lower-energy visible light. The fluorescences revealed by the technique are used to assist in the general characterization or differentiation of materials—such as pigments, coatings, binders, and adhesives—and to diagnose the condition of an object (e.g., to detect restorations). The term *luminescence* also encompasses the possibility of a phosphorescent response to UV radiation in which there is a delay in the reemission of the absorbed energy by some materials, so that emission might even continue for a period after the UV excitation source is turned off. Because fluorescence is by far the dominant phenomenon being observed and documented, the term *fluorescence* has historically been used in describing this technique in conservation (as well as in medicine, nondestructive testing, and forensics); however, *luminescence* is an equally appropriate descriptor. "
 
-  - id: "Ultraviolet reflectance or ultraviolet reflected (UVR) imaging / reflected ultraviolet (RUV) imaging"
+  - id: "UVR/RUV"
     display: "Ultraviolet reflectance or ultraviolet reflected (UVR) imaging / reflected ultraviolet (RUV) imaging"
     definition: "an imaging technique that records variations in reflection and absorption of ultraviolet (UV) radiation by the surface of a subject. This imaging technique primarily aids in the characterization or differentiation of materials. Also because UV radiation exhibits very limited surface penetration, the technique can also help in characterizing surface sheen."
 
-  - id: "Umbers (raw and burnt umber)"
+  - id: "umber"
     display: "Umbers (raw and burnt umber)"
     definition: "natural earth pigments containing iron and manganese oxides and hydroxides. Used throughout history as earth tone pigments, umbers range in color from cream to brown, depending on the amount of iron and manganese present. Chemical formula: Iron (III)-oxide, partly hydrated + manganese oxide, Fe<sub>2</sub>O<sub>3</sub> (· H<sub>2</sub>O) + MnO<sub>2</sub> · (n H<sub>2</sub>O)"
 
-  - id: "Visible-induced infrared luminescence / visible-induced luminescence (VIL)"
+  - id: "VIL"
     display: "Visible-induced infrared luminescence / visible-induced luminescence (VIL)"
     definition: "an imaging technique in which visible light is used to induce the emission of infrared radiation (primarily in the near-infrared [NIR] region [700–1100 nm]) by certain materials. It has been used to identify historical blue pigments (principally Egyptian blue, Han blue, and Han purple) as well as many cadmium pigments and some natural dyes. These materials may show a very strong IR emission when excited by visible light. The set-up for this type of imaging requires an excitation source emitting only visible light with no IR component, an imager with sensitivity to NIR (such as an IR-modified digital camera), and a lens filter that absorbs all visible light and transmits NIR. "
 
-  - id: "Visible-induced visible luminescence (VIVL)"
+  - id: "VIVL"
     display: "Visible-induced visible luminescence (VIVL)"
     definition: "a method of recording a photo-induced emission of light in the visible region (500–700 nm) when the object is illuminated within a narrow band of visible light of higher energy (400–500 nm). The technique involves careful control of the spectra of the illuminating excitation source and imager lens filtration to limit the spectrum recorded only to the lower energy band of visible light."
 
-  - id: "Wreath"
+  - id: "wreath"
     display: "Wreath"
     definition: "an assortment of flowers, leaves, fruits, twigs, or other materials constructed to resemble a loop. Typically worn on the head in ceremonial events, wreaths have much history and symbolism associated with them. In the Greco-Roman world, wreaths were used as an adornment that could represent a person’s occupation, rank, achievements, and status."
 
-  - id: "X-radiography"
+  - id: "x-radiography"
     display: "X-radiography"
     definition: "an imaging technique used to reveal the internal structure of an object by using X-rays to record variations in the densities of its constituent materials. X-rays are transmitted, absorbed, or scattered in varying degrees by the materials present; the radiation that passes through the object is then captured on photographic film or a digital receptor placed behind the subject, thereby creating the radiograph. Dense materials and/or those containing elements of high atomic number, such as metal and lead white paint, strongly absorb X-rays and will appear white or light in tone; less dense materials, such as wood or other organic matter, readily transmit radiation and appear dark in the resulting image."
 
-  - id: "X-ray diffraction (XRD)"
+  - id: "XRD"
     display: "X-ray diffraction (XRD)"
     definition: "an analytical method used to examine the crystallographic structure, composition, and physical properties of materials, such as mineral pigments."
 
-  - id: "X-ray fluorescence (XRF) and portable X-ray fluorescence (pXRF) spectroscopy"
+  - id: "XRF/pXRF"
     display: "X-ray fluorescence (XRF) and portable X-ray fluorescence (pXRF) spectroscopy"
     definition: "a technique used for nondestructive elemental analyses of inorganic materials, utilizing a focused beam of X-rays to excite the atoms on the surface of an artwork and measuring the emitted energy. These emissions provide characteristic fingerprints of the elements contained in the sampled area, allowing researchers to formulate hypotheses about the compounds contained therein."
 
-  - id: "Yellow ochre"
+  - id: "yellow ochre"
     display: "Yellow ochre"
     definition: "a naturally occurring mineral consisting of silica and clay. Its yellow color is attributed to the mineral goethite. Found throughout the world, yellow ochre has many shades and hues. Chemical formula: Iron oxyhydroxide, FeO(OH)"
