@@ -1,6 +1,6 @@
 terms:
     
-  - id: "Animal glue"
+  - id: "animal glue"
     display: "Animal glue"
     definition: "a collagen-based adhesive made by boiling animal skin, bones, or tendons in water. The proteinaceous glue is used as a binding medium that is mixed with pigments for painting; it can also be used for sizing or sealing wood, for applying gilding, and for joining or bonding. Glues can be made from many types of animals including cow, rabbit, horse, or fish."
 
@@ -12,75 +12,75 @@ terms:
     display: "Antonine period (AD 138–192)"
     definition: "the era that encompasses the reigns of the emperors Antoninus Pius (AD 138–161), Marcus Aurelius (AD 168–180), and Commodus (AD 180–192). In the Antonine period provincial elite populations flourished. The distinctive, Hellenized hairstyles of members of the imperial court were seen on coins and in widely disseminated portraits, largely of stone and bronze. For women, a bun of braids coiled at the crown of the head and gradually draped to the nape of the neck; men adopted a bearded appearance with long, tousled hair. These closely imitated, specific hairstyles help scholars propose a rough chronology of Roman portraiture and art."
 
-  - id: "Balteus"
+  - id: "balteus"
     display: "Balteus"
     definition: "a sword strap, typically depicted on painted portraits as a diagonal red band, sometimes with gold or silver studs, worn over the tunic. Its presence suggests that the deceased was in the military."
 
-  - id: "Beeswax"
+  - id: "beeswax"
     display: "Beeswax"
     definition: "a natural wax produced by honeybees (*Apis* sp.) that is primarily composed of esters of various fatty acids and long-chain alcohols. Egyptians used beeswax for the mummification process, to retain the permanency of wig curls, in cosmetics, and to create painted portraits (encaustic)."
 
-  - id: "Binding media"
+  - id: "binding media"
     display: "Binding media"
     definition: "an organic material that holds pigments together, enabling them to be applied as a cohesive film. Ancient binding media are based on natural materials, including wax, plant gums, and proteins, such as animal glues. The physical properties of the medium strongly influence the handling and visual characteristics of the paint."
 
-  - id: "Bulla"
+  - id: "bulla"
     display: "Bulla (pl. *bullae*)"
     definition: "a type of amulet, similar to a locket, worn around the neck of a boy. An indication of free birth, a bulla was used for protection as well as an official status symbol."
 
-  - id: "Calcium carbonate"
+  - id: "calcium carbonate"
     display: "Calcium carbonate (chalk, lime, calcite)"
     definition: "a chemical compound used to create a stable white pigment with limited hiding power (opacity); this pigment is used to make grounds (preparation layers) for painting. Chemical formula: CaCO<sub>3</sub>"
 
-  - id: "Carbon black"
+  - id: "carbon black"
     display: "Carbon black"
     definition: "a pigment made by charring wood or other organic materials in a reducing environment (a restricted air supply). It is also known as vine black (charred, desiccated grape vines and stems) or lamp black (soot collected from oil lamps). Infrared imaging can be used to reveal artists’ sketches and underdrawings made in carbon black that may not otherwise be visible beneath the painted layer, due to the pigment’s tendency to absorb infrared radiation."
 
-  - id: "Cauterium (cautarium)"
+  - id: "cauterium"
     display: "Cauterium (cautarium)"
     definition: "similar to a spatula or a palette knife, a metal tool that, after being heated, was used to blend the wax colors in encaustic painting."
 
-  - id: "Cestrum"
+  - id: "cestrum"
     display: "Cestrum"
     definition: "a pointed graver, possibly metal, used for adding incised details in encaustic. The cestrum would have been heated and used to draw into wax."
 
-  - id: "Chiton (tunic)"
+  - id: "chiton"
     display: "Chiton (tunic)"
     definition: " a simple garment that covered the upper body, starting at the shoulders and ending at a length somewhere between the hips and the ankles. The English word *chiton* originates from the Latin *chiton*, which means “mollusk”, that, in turn, is derived from the Greek word *khitōn*, meaning “tunic”. The tunic was a basic garment worn by both men and women in ancient Rome. Citizens and noncitizens alike wore chitons (usually white for men and red for women). Citizens might wear a chiton under the toga, especially on formal occasions. The length of the garment and the presence or lack of stripes (*clavi*), as well as their width and ornamentation, indicated the wearer’s status in Roman society."
 
-  - id: "Cinnabar"
+  - id: "cinnabar"
     display: "Cinnabar"
     definition: "an orange-red pigment with excellent hiding power (opacity) and good permanence. It has been used from antiquity to the present. Chemical formula: Mercuric sulfide, HgS"
 
-  - id: "Clavus (pl. *clavi*)"
+  - id: "clavus"
     display: "Clavus (pl. *clavi*)"
     definition: "a vertical stripe or ribbonlike ornament, placed in pairs, that adorned the shoulders of a tunic. In the Roman period some *clavi* of specific width and/or color distinguished members of particular rank or status (e.g., senators or equestrians); in Egypt the *clavus* was used to denote Roman citizenship."
 
-  - id: "Consolidate"
+  - id: "consolidate"
     display: "Consolidate"
     definition: "to strengthen or stabilize a material by adding another impregnating material, such as an adhesive (consolidant). For example: *The paint on the surface was consolidated using gelatin.*"
 
-  - id: "Earth pigments"
+  - id: "earth pigments"
     display: "Earth pigments"
     definition: "naturally occurring minerals that contain metal oxides, principally iron and manganese, and that have been used since prehistoric times as pigments. The primary types are ochre, sienna, and umber."
 
-  - id: "Egyptian blue (cuprorivaite)"
+  - id: "Egyptian blue"
     display: "Egyptian blue (cuprorivaite)"
     definition: "a pigment that was manufactured and used by Egyptians possibly as early as 3100 BC. Considered to be the first synthetic pigment, Egyptian blue was made by mixing a calcium and copper compound with silica/quartz and a flux; heating the mixture to a very high temperature (900°C); and then grinding the glassy product to a powder. Chemical formula: Calcium copper silicate, CaCuSi<sub>4</sub>O<sub>10</sub> or CaOCuO(SiO<sub>2</sub>)<sub>4</sub>"
 
-  - id: "El-Hibeh (el Hiba)"
+  - id: "el-Hibeh"
     display: "El-Hibeh (el Hiba)"
     definition: "an archaeological site on the east bank of the Nile, south of Cairo. Remains at the site date from the late Pharaonic, Greco-Roman, Coptic, and early Islamic periods—approximately 1100 BC to roughly AD 700."
 
-  - id: "ELISA (enzyme-linked immunosorbent assay)"
+  - id: "ELISA"
     display: "ELISA (enzyme-linked immunosorbent assay)"
     definition: "an analytical technique that employs antibodies to identify proteins in binding media such as animal glue, egg, and milk, as well as polysaccharides in plant gums. ELISA can also characterize the biological source of the protein (e.g., rabbit-skin glue vs. fish glue)."
 
-  - id: "Encaustic"
+  - id: "encaustic"
     display: "Encaustic"
     definition: "A wax-based painting technique. From the Greek word *enkaustikos* (“burned in”), the term in its most literal sense refers to the use of molten beeswax combined with pigments; once solidified, the paint can be further manipulated by the use of heated tools. The term is often used in a more general sense to describe any painting technique in which wax is the major component of the medium."
 
-  - id: "er-Rubayat (er Rubayyat, er Rubiyat, er Rubayet, el Rubiyat)"
+  - id: "er-Rubayat"
     display: "er-Rubayat (er Rubayyat, er Rubiyat, er Rubayet, el Rubiyat)"
     definition: "an archaeological site on the west bank of the Nile within the Fayum basin, also known as the cemetery near ancient Philadelphia. This location is where many portraits acquired by the Viennese art dealer Theodor Graf were found."
 
@@ -88,59 +88,59 @@ terms:
     display: "Flavian period (AD 69–96)"
     definition: "the era that encompasses the reigns of Vespasian (AD 69–79) and his sons Titus (AD 79–81) and Domitian (AD 81–96). Although Vespasian encouraged a return to traditional Roman values of austere modesty, the rule of Domitian saw new levels of extravagance, especially in the dress and coiffure of imperial women. As imperial fashions became known through the dissemination of coins and sculptured busts and statues, the elaborate hairstyles were imitated, with tiers of curls requiring hairpieces to achieve the required height and mitered shape above the brow; men copied the look of balding emperors Vespasian and Titus."
 
-  - id: "False-color infrared (FCIR) / infrared-reflected false color (IRRFC)"
+  - id: "FCIR"
     display: "False-color infrared (FCIR) / infrared-reflected false color (IRRFC)"
     definition: "images created through digital post-processing by combining visible and near-infrared images. The false colors produced can help in characterizing materials or in distinguishing between visually similar substances."
 
-  - id: "False-color ultraviolet (FCUV) / ultraviolet-reflected false color (UVRFC)"
+  - id: "FCUV"
     display: "False-color ultraviolet (FCUV) / ultraviolet-reflected false color (UVRFC)"
     definition: "images created through digital post-processing by combining visible and ultraviolet reflectance (UVR) images. The false colors produced can help in characterizing materials or in distinguishing between visually similar substances."
 
-  - id: "Fayum (Faiyum, El Faiyûm, Al-Fayoum, Fayyum)"
+  - id: "Fayum"
     display: "Fayum (Faiyum, El Faiyûm, Al-Fayoum, Fayyum)"
     definition: "a fertile desert basin immediately to the west of the Nile River, south of Cairo. Roman mummies were discovered there in several ancient cemeteries and archaeological sites, including Hawara and er-Rubayat. The Fayum was a very prosperous region and a vibrant cultural center during the Greco-Roman and Roman periods."
 
-  - id: "Fiber optics reflectance spectroscopy (FORS)"
+  - id: "FORS"
     display: "Fiber optics reflectance spectroscopy (FORS)"
     definition: "an analytical technique for identifying pigments and dyestuffs. This technique uses two fiber optics: one to expose the sample to light and the other to collect a diagnostic reflectance spectrum."
 
-  - id: "Fibula"
+  - id: "fibula"
     display: "Fibula"
     definition: "a decorative pin or brooch, usually made of metal such as bronze, silver, or gold, used to gather and secure the folds of a garment."
 
-  - id: "Fourier transform infrared spectroscopy (FTIR)"
+  - id: "FTIR"
     display: "Fourier transform infrared spectroscopy (FTIR)"
     definition: "an analytical method used for the characterization and identification of organic and some inorganic materials, based on the excitation of specific vibrational modes of functional groups in the infrared region."
 
-  - id: "Galena"
+  - id: "galena"
     display: "Galena"
     definition: "a natural mineral form of lead sulfide used as a gray/black pigment and as a cosmetic in antiquity. Chemical formula: PbS"
 
-  - id: "Garland"
+  - id: "garland"
     display: "Garland"
     definition: "a floral necklace used in religious rituals and for festive occasions. The Egyptians placed garlands on their mummies as a sign of celebration in entering the afterlife; this practice developed at the beginning of the New Kingdom and continued into the Roman period. The rose was specifically associated with the goddess Isis."
 
-  - id: "Gas chromatography/mass spectrometry (GC/MS)"
+  - id: "GC/MS"
     display: "Gas chromatography/mass spectrometry (GC/MS)"
     definition: "an analytical technique used for the precise identification of organic binding materials such as oils, waxes, resins, and gums. The instrument separates complex mixtures of organic compounds using a capillary column housed in a temperature-controlled oven and, in combination with the mass spectrometer, can facilitate identification and quantitation of the various components."
 
-  - id: "Gilding"
+  - id: "gilding"
     display: "Gilding"
     definition: "a term that describes the various decorative techniques for applying a very thin layer of gold leaf or gold powder to a solid surface such as wood, stone, or metal to give the appearance of being made of solid gold. Gold leaf, typically between 18 and 22 karats, is hammered into extremely thin sheets (leaves), or ground into a powder, and then applied with an adhesive."
 
-  - id: "Green earth (terre verte)"
+  - id: "green earth"
     display: "Green earth (terre verte)"
     definition: "a naturally occurring aluminosilicate mineral pigment sourced in the Mediterranean region. Natural green earth contains the minerals glauconite and celadonite. Chemical formula: K[(Al,Fe<sub>3</sub>),(Fe<sub>2</sub>,Mg&#93;(AlSi<sub>3</sub>,Si<sub>4</sub>)O<sub>10</sub>(OH)<sub>2</sub>"
 
-  - id: "Ground (preparation layer)"
+  - id: "ground"
     display: "Ground (preparation layer)"
     definition: "a primary layer applied to a substrate to form a smooth surface on which to paint. Typically, ground layers were composed of a white material such as gypsum, although they can range in color and composition."
 
-  - id: "Gum"
+  - id: "gum"
     display: "Gum"
     definition: "a water-soluble, polysaccharide exudate obtained from various woody plants or other natural sources and used as a binder for pigments. Gum arabic was the most commonly used plant binder in antiquity."
 
-  - id: "Gypsum (calcium sulfate dihydrate)"
+  - id: "gypsum"
     display: "Gypsum (calcium sulfate dihydrate)"
     definition: "a soft sulfate-based mineral found in nature. Often mixed with water to form plaster, it is used in the preparation of substrates, such as wood panels for painting. Also used as a white pigment, gypsum was identified in Tutankhamen’s paint box. Chemical formula: CaSO<sub>4</sub>·2H<sub>2</sub>O"
 
@@ -152,7 +152,7 @@ terms:
     display: "Hawara"
     definition: "a Roman site in Egypt located in the Fayum basin. The necropolis at this site is well known for the systematic and well-documented excavations by British Egyptologist Sir Flinders Petrie."
 
-  - id: "Himation"
+  - id: "himation"
     display: "Himation (*pallium* in Latin)"
     definition: "a mantle worn by both men and women in the Greek world. It consisted of a square piece of cloth worn over the shoulder (typically the left), with the excess cloth draped over to the opposite shoulder. (See *pallium*.)"
 
@@ -160,7 +160,7 @@ terms:
     display: "Horus lock"
     definition: "a distinctive Egyptian hairstyle depicted on the gods Horus/Harpocrates and also worn by children (typically male) and sometimes by adult males. It appears as a single lock of hair (a sign of youth) on the right side of the head, above the ear."
 
-  - id: "Hyperspectral imaging"
+  - id: "hyperspectral imaging"
     display: "Hyperspectral imaging"
     definition: "a scanning technique that records and processes hundreds of images of the same spatial area at a series of different wavelengths across the electromagnetic spectrum. Spectral data obtained for each pixel in the area can help detect or characterize materials present. "
 
