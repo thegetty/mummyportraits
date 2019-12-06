@@ -39,3 +39,10 @@
     margin: 0;
   }
 }
+
+/* Utility class to remove elements in pdf */
+@media print {
+  .remove-from-pdf {
+    display: none !important;
+  }
+}
