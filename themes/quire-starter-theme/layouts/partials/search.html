@@ -8,7 +8,7 @@
 <div id="js-search"
      class="quire-search"
      aria-expanded="false"
-     data-search-index='{{ ref . "search-index.md" }}' >
+     data-search-index='{{ ref . "/search-index.md" }}'>
   <div class="quire-search__close-button">
     <button class="button is-medium" onclick="toggleSearch()">
       {{- partial "icon.html" (dict "type" "close" "description" "Close search window") -}}
@@ -22,7 +22,7 @@
           <div class='input-bar'>
             <input id="js-search-input"
                  class="input is-large"
-                 name=""
+                 name="search"
                  type="text"
                  placeholder="Search this publication" 
                  value=""

@@ -44,3 +44,24 @@
 .quire-figure .q-figure__wrapper > a:hover #table_6_2 img {
   box-shadow: none;
 }
+
+/* To make Biblio, Glossary and Contributors two-column */
+@media print {
+  .quire-page--backmatter .quire-page__content {
+    -moz-column-count: 2;
+    column-count: 2;
+    -moz-column-fill: balance;
+    column-fill: balance;
+    -moz-column-gap: .1875in;
+    column-gap: .1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+}
+
+/* Utility class to remove elements in pdf */
+@media print {
+  .remove-from-pdf {
+    display: none !important;
+  }
+}
