@@ -65,3 +65,28 @@
     display: none !important;
   }
 }
+
+/* Formatting key in table 17.1*/
+.quire-page__content .content ol, .quire-page__content .content dl {
+    text-align: left;
+}
+
+.quire-page__content .container .content dl dt {
+    float: left;
+    margin-right: .5em
+}
+
+/*Formatting key in table 18.1*/
+.quire-page__content .content dl {
+  text-align: left;
+  margin-top: 1em;
+}
+
+.quire-page__content .container .content dl dt {
+    float: left;
+    margin-right: .5em
+}
+
+.tableshading {
+  background-color: #e6e6e6
+}
