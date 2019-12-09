@@ -1300,9 +1300,9 @@ figure_list:
   - id: "table_4_9"
     media_type: table
     label: Figure 4.9.
-    src: tables/4-8.html
+    src: tables/4-9.html
     caption: "Green pigment analysis and imaging of painted mummy shrouds."
-    credit: ""
+    credit: "" 
 
   - id: "table_5_5"
     media_type: table
