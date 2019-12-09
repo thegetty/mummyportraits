@@ -90,3 +90,19 @@
 .tableshading {
   background-color: #e6e6e6
 }
+.content table td.vertical-align-middle {
+  vertical-align: middle;
+}
+
+/* Adjust appearance of footnote numbers for table 4.9 */
+.quire-page__content .content table .footnote-ref a {
+  font-size: 1em;
+  font-weight: normal;
+}
+
+/* Improve table styling */
+.quire-page__content .container .content table tbody th, 
+.quire-page__content .container .content table tbody td {
+  border-left-width: 0;
+  border-right-width: 0;
+}
