@@ -354,7 +354,7 @@ figure_list:
     credit: ""
 
   - id: "fig_6_3"
-    src: figures/fig_6_.jpg
+    src: figures/fig_6_3.jpg
     alt: ""
     label: "Figure 6.3."
     caption: "Workflow for assessing the presence of a selection of key pigments in the BM portrait collection by examining the response in the VIL, UVL, IRRFC, and UVRFC images."
@@ -702,6 +702,13 @@ figure_list:
     label: "Figure 8.6."
     caption: "VIVL image of fig. 8.5. Camera: Canon EOS D5 Mark III (unmodified); SPEX Mini CrimeScope® MCS-400 (535 nm); B+W UV-IR-Cut (486 MRC) and Tiffen 23A red filters (grayscale)."
     credit: "Image Credit: E. Mayberger and J. Arista"
+
+  - id: "fig_8_7"
+    src: figures/fig_8_7.jpg
+    alt: ""
+    label: "Figure 8.7."
+    caption: "Fluorescence of Madder-Type Pigments, MFA."
+    credit: "Image Credit: R. Newman (spectra) and J. Artista (annotations)"
 
   - id: "fig_8_8"
     src: figures/fig_8_8.jpg
