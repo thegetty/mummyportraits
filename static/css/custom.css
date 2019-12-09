@@ -106,3 +106,10 @@
   border-left-width: 0;
   border-right-width: 0;
 }
+
+/* Utility class to expand images across columns */
+@media print {
+  .quire-figure.pdf-two-column {
+    column-span: all;
+  }
+}
