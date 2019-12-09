@@ -262,24 +262,24 @@ figure_list:
     caption: "Fragments of a Painted Mummy Shroud, Ptolemaic or Romano-Egyptian, 304 BC–AD 364. Paint on linen, 14.8 x 18.8 cm (5 13/16 x 7 3/8 in.). New York, Metropolitan Museum of Art, Museum Accession, X.491B."
     credit: ""
 
-  - id: "fig_4_9"
+  - id: "fig_4_8"
     src: figures/fig_4_9.jpg
     alt: ""
-    label: "Figure 4.11."
+    label: "Figure 4.8."
     caption: "Fragment of a Painted Mummy Shroud, Ptolemaic or Romano-Egyptian, first century BC–first century AD. Paint on linen, 36.8 x 31 cm (14 1/2 x 12 3/16 in.). New York, Metropolitan Museum of Art, Purchase, Fletcher Fund and The Guide Foundation Inc. Gift, 1966, 66.99.141."
     credit: ""
 
   - id: "fig_4_10"
     src: figures/fig_4_10.jpg
     alt: ""
-    label: "Figure 4.9."
+    label: "Figure 4.10."
     caption: "Detail of fig. 4.3, showing overlap of yellow and blue in drapery."
     credit: ""
 
   - id: "fig_4_11"
     src: figures/fig_4_11.jpg
     alt: ""
-    label: "Figure 4.10."
+    label: "Figure 4.11."
     caption: "Detail of fig. 4.6, showing dark- and light-green checkerboard background."
     credit: ""
 
@@ -1290,9 +1290,9 @@ figure_list:
     caption: "Green pigments characterized on Egyptian artifacts."
     credit: ""
 
-  - id: "table_4_8"
+  - id: "table_4_9"
     media_type: table
-    label: Figure 4.8.
+    label: Figure 4.9.
     src: tables/4-8.html
     caption: "Green pigment analysis and imaging of painted mummy shrouds."
     credit: ""
@@ -1336,7 +1336,5 @@ figure_list:
     media_type: table
     label: Figure 18.1.
     src: tables/18-1.html
-    caption: "Summary of GC/MS Results of Encaustic Binding Media. Description of the encaustic paint samples that contain beeswax only or beeswax with additional proteins and/or oxidized oil. AEIN 1425 and AEIN 1426 are on a linen support; all others are on wooden panels.
-
-** = Unidentified protein"
+    caption: "Summary of GC/MS Results of Encaustic Binding Media. Description of the encaustic paint samples that contain beeswax only or beeswax with additional proteins and/or oxidized oil. AEIN 1425 and AEIN 1426 are on a linen support; all others are on wooden panels."
     credit: ""
