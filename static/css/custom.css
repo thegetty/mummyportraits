@@ -319,4 +319,9 @@
   border-right-width: 0;
 }
 
+/* MISC
+============================================================================= */
 
+.quire-contributors-list.bio #Timothy-Potts {
+  display: none;
+}
