@@ -1,119 +1,6 @@
-.content ul.quire-glossary__key {
-  margin-left: 0;
-  text-align: center;
-  display: table;
-  margin-bottom: 2rem;
-}
-.quire-page__content .container .content ul.quire-glossary__key li::before {
-  content: "";
-}
-.quire-page__content .container .content ul.quire-glossary__key li {
-  margin: .5rem .75rem;
-  display: inline-block;
-}
-.quire-page__content .content dl.quire-glossary {
-  margin: 2rem 0;
-}
-.quire-page__content .content dl.quire-glossary dt {
-  display: inline;
-}
-.quire-page__content .content dl.quire-glossary dd {
-  display: inline;
-}
-.quire-page__content .content dl.quire-glossary dd::after {
-  content: " ";
-  display: block;
-  margin-bottom: 1rem;
-}
+/* COVER
+============================================================================= */
 
-/* Custom styling for Tables 6.1 and 6.2 which include images */
-#table_6_1 img:nth-of-type(1),
-#table_6_2 img:nth-of-type(1) {
-  width: 58%;
-  float: right;
-}
-#table_6_1 img:nth-of-type(2),
-#table_6_2 img:nth-of-type(2) {
-  width: 38%;
-}
-#table_6_1 img:nth-of-type(3),
-#table_6_2 img:nth-of-type(3) {
-  width: 38%;
-}
-.quire-figure .q-figure__wrapper > a:hover #table_6_1 img,
-.quire-figure .q-figure__wrapper > a:hover #table_6_2 img {
-  box-shadow: none;
-}
-
-/* To make Biblio, Glossary and Contributors two-column */
-@media print {
-  .quire-page--backmatter .quire-page__content {
-    -moz-column-count: 2;
-    column-count: 2;
-    -moz-column-fill: balance;
-    column-fill: balance;
-    -moz-column-gap: .1875in;
-    column-gap: .1875in;
-    max-width: 100%;
-    margin: 0;
-  }
-}
-
-/* Utility class to remove elements in pdf */
-@media print {
-  .remove-from-pdf {
-    display: none !important;
-  }
-}
-
-/* Formatting key in table 17.1*/
-.quire-page__content .content ol, .quire-page__content .content dl {
-    text-align: left;
-}
-
-.quire-page__content .container .content dl dt {
-    float: left;
-    margin-right: .5em
-}
-
-/*Formatting key in table 18.1*/
-.quire-page__content .content dl {
-  text-align: left;
-  margin-top: 1em;
-}
-
-.quire-page__content .container .content dl dt {
-    float: left;
-    margin-right: .5em
-}
-
-.tableshading {
-  background-color: #e6e6e6
-}
-.content table td.vertical-align-middle {
-  vertical-align: middle;
-}
-
-/* Adjust appearance of footnote numbers for table 4.9 */
-.quire-page__content .content table .footnote-ref a {
-  font-size: 1em;
-  font-weight: normal;
-}
-
-/* Improve table styling */
-.quire-page__content .container .content table tbody th, 
-.quire-page__content .container .content table tbody td {
-  border-left-width: 0;
-  border-right-width: 0;
-}
-
-/* Utility class to expand images across columns */
-@media print {
-  .quire-figure.pdf-two-column {
-    column-span: all;
-  }
-}
-  
 /* Custom cover slideshow animation */
 .quire-cover__overlay {
   height: calc((95vh - 3rem) * .5);
@@ -238,3 +125,123 @@
 .quire-cover__hero .contributor {
   margin-top: 1.5rem;
 }
+
+/* GLOSSARY
+============================================================================= */
+.content ul.quire-glossary__key {
+  margin-left: 0;
+  text-align: center;
+  display: table;
+  margin-bottom: 2rem;
+}
+.quire-page__content .container .content ul.quire-glossary__key li::before {
+  content: "";
+}
+.quire-page__content .container .content ul.quire-glossary__key li {
+  margin: .5rem .75rem;
+  display: inline-block;
+}
+.quire-page__content .content dl.quire-glossary {
+  margin: 2rem 0;
+}
+.quire-page__content .content dl.quire-glossary dt {
+  display: inline;
+}
+.quire-page__content .content dl.quire-glossary dd {
+  display: inline;
+}
+.quire-page__content .content dl.quire-glossary dd::after {
+  content: " ";
+  display: block;
+  margin-bottom: 1rem;
+}
+
+
+/* PDF OUTPUT
+============================================================================= */
+@media print {
+  
+  /* To make backmatter (Bibliography, Glossary and Contributors) two-column */
+  .quire-page--backmatter .quire-page__content {
+    -moz-column-count: 2;
+    column-count: 2;
+    -moz-column-fill: balance;
+    column-fill: balance;
+    -moz-column-gap: .1875in;
+    column-gap: .1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+  
+  /* Utility classes */
+  .remove-from-pdf {
+    display: none !important;
+  }
+  .quire-figure.pdf-two-column {
+    column-span: all;
+  }  
+}
+
+/* TABLES 
+============================================================================= */
+
+/* Custom styling for Tables 6.1 and 6.2 which include images */
+#table_6_1 img:nth-of-type(1),
+#table_6_2 img:nth-of-type(1) {
+  width: 58%;
+  float: right;
+}
+#table_6_1 img:nth-of-type(2),
+#table_6_2 img:nth-of-type(2) {
+  width: 38%;
+}
+#table_6_1 img:nth-of-type(3),
+#table_6_2 img:nth-of-type(3) {
+  width: 38%;
+}
+.quire-figure .q-figure__wrapper > a:hover #table_6_1 img,
+.quire-figure .q-figure__wrapper > a:hover #table_6_2 img {
+  box-shadow: none;
+}
+
+/* Formatting key in table 17.1*/
+.quire-page__content .content ol, .quire-page__content .content dl {
+  text-align: left;
+}
+.quire-page__content .container .content dl dt {
+  float: left;
+  margin-right: .5em
+}
+
+/*Formatting key in table 18.1*/
+.quire-page__content .content dl {
+  text-align: left;
+  margin-top: 1em;
+}
+.quire-page__content .container .content dl dt {
+  float: left;
+  margin-right: .5em
+}
+
+.tableshading {
+  background-color: #e6e6e6
+}
+
+.content table td.vertical-align-middle {
+  vertical-align: middle;
+}
+
+/* Adjust appearance of footnote numbers for table 4.9 */
+.quire-page__content .content table .footnote-ref a {
+  font-size: 1em;
+  font-weight: normal;
+}
+
+/* Improve table styling */
+.quire-page__content .container .content table tbody th, 
+.quire-page__content .container .content table tbody td {
+  border-left-width: 0;
+  border-right-width: 0;
+}
+
+
