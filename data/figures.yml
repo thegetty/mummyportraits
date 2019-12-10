@@ -207,17 +207,18 @@ figure_list:
     src: figures/fig_3_13.jpg
     alt: ""
     label: "Figure 3.13"
-    caption: "Details of extracted ion chromatograms from LC/MS analyses of reference pigments and samples from mummy portraits. All analyses carried out using electrospray ionization (ESI) in negative polarity.
+    caption: |
+      Details of extracted ion chromatograms from LC/MS analyses of reference pigments and samples from mummy portraits. All analyses carried out using electrospray ionization (ESI) in negative polarity.
 
-              (A) “Rose pink” dry pigment, manufactured by Weber; Museum of Fine Arts, Boston, Forbes Collection 16
+        - (A) “Rose pink” dry pigment, manufactured by Weber; Museum of Fine Arts, Boston, Forbes Collection 16
 
-              (B) and &#40;C) “Rose foncé” dry pigment, manufactured by Newman, Museum of Fine Arts, Boston, Forbes Collection 15
+        - (B) and &#40;C) “Rose foncé” dry pigment, manufactured by Newman, Museum of Fine Arts, Boston, Forbes Collection 15
 
-              (D) purplish pink paint from drapery in Mummy Portrait, Romano-Egyptian, AD 100–200. Media not identified, 50.2 x 22.4 cm (19 3/4 x 8 13/16 in.). Copenhagen, Ny Carlsberg Glyptotek, ÆIN 685
+        - (D) purplish pink paint from drapery in Mummy Portrait, Romano-Egyptian, AD 100–200. Media not identified, 50.2 x 22.4 cm (19 3/4 x 8 13/16 in.). Copenhagen, Ny Carlsberg Glyptotek, ÆIN 685
 
-              (E) purple paint from drapery on portrait in fig. 3.1
+        - (E) purple paint from drapery on portrait in fig. 3.1
 
-              Samples prepared by reacting with approximately 5-percent boron trifluoride in methanol. Vertical scales adjusted individually; actual peak heights are indicated. Compounds plotted: alizarin (m/z 239), purpurin (m/z 255), methyl ester of pseudopurpurin (m/z 313). Instrumental conditions were different for (E), which resulted in shifted retention times."
+      Samples prepared by reacting with approximately 5-percent boron trifluoride in methanol. Vertical scales adjusted individually; actual peak heights are indicated. Compounds plotted: alizarin (m/z 239), purpurin (m/z 255), methyl ester of pseudopurpurin (m/z 313). Instrumental conditions were different for (E), which resulted in shifted retention times.
     credit: ""
 
   - id: "fig_4_2"
@@ -1350,5 +1351,5 @@ figure_list:
     media_type: table
     label: "Figure 18.1"
     src: tables/18-1.html
-    caption: "Summary of GC/MS Results of Encaustic Binding Media. Description of the encaustic paint samples that contain beeswax only or beeswax with additional proteins and/or oxidized oil. AEIN 1425 and AEIN 1426 are on a linen support; all others are on wooden panels."
+    caption: "Summary of GC/MS Results of Encaustic Binding Media. Paint samples from encaustic portraits are described by color and location. Beeswax was identified in all paint samples described here. In addition, unknown proteins (protein detected but did not match content in our database), animal glue, oxidized oil, and egg or paraffin coatings were also identified. Samples without additional oils, proteins, and coatings are reported as ND (not detected). AEIN 1425 and AEIN 1426 are on a linen support; all others are on wooden panels."
     credit: ""

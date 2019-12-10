@@ -229,6 +229,31 @@
   }
 }
 
+/* Special for fig 3.13 */
+@media print {
+  .content figure.pdf-side-by-side-caption .quire-figure__image {
+    width: 70%;
+    margin: 0;
+    float: left;
+    margin-right: 1rem;
+  }
+  /* .content figure.pdf-side-by-side-caption .quire-figure__modal {
+    margin-top: 1rem;
+  } */
+  .content figure.pdf-side-by-side-caption .quire-figure__modal .quire-figure__label {
+    display: block;
+    line-height: 1;
+    margin-top: .25rem;
+  }
+  .quire-page__content .container .content figure.pdf-side-by-side-caption ul li:before {
+    font-size: .5rem;
+    margin-top: .25rem;
+  }
+}
+.content figure.pdf-side-by-side-caption .quire-figure__modal {
+  top: .35em;
+}
+
 
 /* FIGURES
 ============================================================================= */
