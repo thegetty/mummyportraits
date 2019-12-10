@@ -211,7 +211,7 @@ figure_list:
 
               (A) “Rose pink” dry pigment, manufactured by Weber; Museum of Fine Arts, Boston, Forbes Collection 16
 
-              (B) and (C) “Rose foncé” dry pigment, manufactured by Newman, Museum of Fine Arts, Boston, Forbes Collection 15
+              (B) and &#40;C) “Rose foncé” dry pigment, manufactured by Newman, Museum of Fine Arts, Boston, Forbes Collection 15
 
               (D) purplish pink paint from drapery in Mummy Portrait, Romano-Egyptian, AD 100–200. Media not identified, 50.2 x 22.4 cm (19 3/4 x 8 13/16 in.). Copenhagen, Ny Carlsberg Glyptotek, ÆIN 685
 
@@ -285,7 +285,7 @@ figure_list:
 
   - id: "fig_4_12"
     label: "Figure 4.12"
-    src: figures/fig_4_12.png
+    src: figures/fig_4_12.jpg
     alt:
     caption: "Confirmed characterizations of green pigments on Egyptian artifacts."
     credit: ""
@@ -313,14 +313,14 @@ figure_list:
 
   - id: "fig_5_3"
     label: "Figure 5.3"
-    src: figures/fig_5_3.png
+    src: figures/fig_5_3.jpg
     alt:
     caption: "Egyptian blue in the APPEAR database."
     credit: ""
 
   - id: "fig_5_4"
     label: "Figure 5.4"
-    src: figures/fig_5_4.png
+    src: figures/fig_5_4.jpg
     alt: ""
     caption: "Blue pigments and paint binders in the mummy portraits."
     credit: ""
@@ -364,7 +364,7 @@ figure_list:
     src: figures/fig_6_4.jpg
     alt: ""
     label: "Figure 6.4"
-    caption: "Bar charts, showing the number of portraits exhibiting the identified uses of the pigments: (a) Egyptian blue; (b) pink lake; (c) carbon black; (d) ochres; and (e) lead white in the BM portrait collection (dark gray denotes portraits in encaustic; light gray, portraits in tempera)."
+    caption: "Bar charts, showing the number of portraits exhibiting the identified uses of the pigments: (a) Egyptian blue; (b) pink lake; &#40;c) carbon black; (d) ochres; and (e) lead white in the BM portrait collection (dark gray denotes portraits in encaustic; light gray, portraits in tempera)."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_5_a"
@@ -1315,7 +1315,7 @@ figure_list:
     media_type: table
     label: "Figure 6.1"
     src: tables/6-1.html
-    caption: "Schematic of the experimental setup, including radiation sources and filter(s) combinations, for reflected images: (a) VIS; (b) IRR; (c) UVR; and (d) MBR images."
+    caption: "Schematic of the experimental setup, including radiation sources and filter(s) combinations, for reflected images: (a) VIS; (b) IRR; &#40;c) UVR; and (d) MBR images."
     credit: "Portrait: EA74706 © Trustees of the British Museum"
 
   - id: "table_6_2"

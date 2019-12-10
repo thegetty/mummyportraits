@@ -203,7 +203,65 @@
   .quire-figure.pdf-two-column {
     column-span: all;
   }  
+  .quire-figure.pdf-page-break-after {
+    page-break-after: always;
+  }
+  .quire-figure.pdf-page-break-before {
+    page-break-before: always;
+  }
+  .quire-figure.pdf-column-break-after {
+    column-break-after: always;
+  }
+  .quire-figure.pdf-90-percent-width {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .quire-figure.pdf-80-percent-width {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .quire-figure.pdf-70-percent-width {
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
+
+
+/* FIGURES
+============================================================================= */
+
+
+/* Override defualt behaviour of images in grids growing to fit available space 
+  on the bottom row of the grid, and makes for better spacing around images */
+.quire-figure--group__row.columns {
+  margin-left: -.5rem;
+  margin-right: -.5rem;
+}
+.quire-figure--group__item {
+  padding: .75rem .5rem;
+}
+.quire-figure--group {
+  max-width: 100%;
+}
+.quire-figure--group .quire-grid--2 {
+  max-width: 50%;
+}
+.quire-figure--group .quire-grid--3 {
+  max-width: 33.33%;
+}
+.quire-figure--group .quire-grid--4 {
+  max-width: 25%;
+}
+.quire-figure--group .quire-grid--5 {
+  max-width: 20%;
+}
+.quire-figure--group .quire-grid--6 {
+  max-width: 16.66%;
+}
+
 
 /* TABLES 
 ============================================================================= */
@@ -235,6 +293,9 @@
 .quire-page__content .container .content .quire-figure__table dl dt {
   float: left;
   margin-right: .5em
+}
+.quire-page__content .container .content .quire-figure__table#table_17_1 dl {
+  column-count: 2;
 }
 
 .tableshading {
