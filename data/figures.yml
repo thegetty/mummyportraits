@@ -1111,7 +1111,7 @@ figure_list:
   - id: "fig_15_1_a"
     src: figures/fig_15_1_a.jpg
     alt: ""
-    label: "Figure 15.1a. UV"
+    label: "a. UV"
     caption: "Portrait of a Lady, Romano-Egyptian, AD 117–138. er-Rubayat. Encaustic on wood, 40 x 20 cm (15 3/4 x 7 7/8 in.). Vienna, Kunsthistorisches Museum, Antikensammlung, X 297.
 
               a.  UVF
@@ -1124,21 +1124,21 @@ figure_list:
   - id: "fig_15_1_b"
     src: figures/fig_15_1_b.jpg
     alt: ""
-    label: "Figure 15.1b. VI"
+    label: "b. VI"
     caption: ""
     credit: ""
 
   - id: "fig_15_1_c"
     src: figures/fig_15_1_c.jpg
     alt: ""
-    label: "Figure 15.1c. VI"
+    label: "c. VI"
     caption: ""
     credit: ""
 
   - id: "fig_15_2_a"
     src: figures/fig_15_2_a.jpg
     alt: ""
-    label: "Figure 15.2a. UV"
+    label: "a. UV"
     caption: "Portrait of a Young Man with Wreath, Romano-Egyptian, AD 125–150. er-Rubayat. Tempera on wood, 32.5 x 18 cm (12 13/16 x 7 1/16 in.). Vienna, Kunsthistorisches Museum, Antikensammlung, X 432.
 
               a.  UVF
@@ -1153,21 +1153,21 @@ figure_list:
   - id: "fig_15_2_b"
     src: figures/fig_15_2_b.jpg
     alt: ""
-    label: "Figure 15.2b. VI"
+    label: "b. VI"
     caption: ""
     credit: ""
 
   - id: "fig_15_2_c"
     src: figures/fig_15_2_c.jpg
     alt: ""
-    label: "Figure 15.2c. NI"
+    label: "c. NI"
     caption: ""
     credit: ""
 
   - id: "fig_15_2_d"
     src: figures/fig_15_2_d.jpg
     alt: ""
-    label: "Figure 15.2d. IRRF"
+    label: "d. IRRF"
     caption: ""
     credit: ""
 
@@ -1247,6 +1247,13 @@ figure_list:
     label: "Figure 18.2a"
     caption: "Portrait of a Woman, Romano-Egyptian, AD 140–160. Linden wood and beeswax, 25 x 11 cm (9 7/8 x 4 5/16 in.). Copenhagen, Ny Carlsberg Glyptotek, AEIN 682."
     credit: ""
+    
+  - id: "fig_18_2_b"
+    src: figures/fig_18_2_b.jpg
+    alt: ""
+    label: "Figure 18.2b"
+    caption: "The GC/MS chromatograms show a sample containing aged beeswax, soaps, and oil. The top chromatogram presents the wax analysis; the bottom chromatogram displays the oil analysis of the same sample."
+    credit: ""  
 
   - id: "fig_18_2_b_1"
     src: figures/fig_18_2_b_1.jpg
