@@ -559,21 +559,21 @@ figure_list:
   - id: "fig_7_6a"
     src: figures/fig_7_6a.jpg
     alt: ""
-    label: "Figure 7.6a. Normal ligh"
+    label: "a. Normal light"
     caption: "Details of the *clavus* on fig. 7.1. Normal light, UVF, MBR illustrating the red lake pigment’s characteristic pinkish-orange fluorescence, and MBR illustrating indigo’s bright response. The brightness of the MBR image has been enhanced for legibility."
     credit: ""
 
   - id: "fig_7_6b"
     src: figures/fig_7_6b.jpg
     alt: ""
-    label: "Figure 7.6b. UV"
+    label: "b. UV"
     caption: ""
     credit: ""
 
   - id: "fig_7_6c"
     src: figures/fig_7_6c.jpg
     alt: ""
-    label: "Figure 7.6c. MB"
+    label: "c. MB"
     caption: ""
     credit: ""
 
@@ -588,20 +588,20 @@ figure_list:
     src: figures/fig_7_8a.jpg
     alt: ""
     caption: "Details of fig. 7.7. Normal light, UVF, MBR showing the bright responses of indigo on the painted purple cartonnage and of the resin associated with the mummy wrappings. The brightness of the MBR image has been enhanced for legibility."
-    label: "Figure 7.8a. Normal ligh"
+    label: "a. Normal light"
     credit: ""
 
   - id: "fig_7_8b"
     src: figures/fig_7_8b.jpg
     alt: ""
-    label: "Figure 7.8b. UV"
+    label: "b. UV"
     caption: ""
     credit: ""
 
   - id: "fig_7_8c"
     src: figures/fig_7_8c.jpg
     alt: ""
-    label: "Figure 7.8c. MB"
+    label: "c. MB"
     caption: ""
     credit: ""
 
@@ -1251,14 +1251,14 @@ figure_list:
   - id: "fig_18_2_b_1"
     src: figures/fig_18_2_b_1.jpg
     alt: ""
-    label: "Figure 18.2b. Wax analysi"
+    label: "Figure 18.2b. Wax analysis"
     caption: "The GC/MS chromatograms show a sample containing aged beeswax, soaps, and oil. The top chromatogram presents the wax analysis; the bottom chromatogram displays the oil analysis of the same sample."
     credit: ""
 
   - id: "fig_18_2_b_2"
     src: figures/fig_18_2_b_2.jpg
     alt: ""
-    label: "Figure 18.2b. Oil analysi"
+    label: "Figure 18.2b. Oil analysis"
     caption: ""
     credit: ""
 
