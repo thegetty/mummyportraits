@@ -1,3 +1,24 @@
+/* MISC
+============================================================================= */
+
+.quire-contributors-list.bio #Timothy-Potts {
+  display: none;
+}
+
+.quire-splash .quire-page__header .hero-body .quire-page__header__title {
+  color: #b44a3a;
+}
+
+.quire-page__content .content .footnote-ref a {
+  font-weight: normal;
+  margin-right: .2em;
+}
+
+.content figure .quire-figure__caption {
+  min-height: 1rem;
+}
+
+
 /* COVER
 ============================================================================= */
 
@@ -292,6 +313,11 @@
 ============================================================================= */
 
 /* general improvments to styling, including to styles for leaflet modal view */
+.quire-page__content .container .content table tbody th, 
+.quire-page__content .container .content table tbody td {
+  border-left-width: 0;
+  border-right-width: 0;
+}
 .quire-figure.table {
   border-top-width: 0;
   padding-top: 0;
@@ -394,22 +420,21 @@
   font-weight: normal;
 }
 
-/* Improve table styling */
 .quire-page__content .container .content table tbody th, 
 .quire-page__content .container .content table tbody td {
   border-left-width: 0;
   border-right-width: 0;
 }
 
-/* MISC
-============================================================================= */
-
-.quire-contributors-list.bio #Timothy-Potts {
-  display: none;
+/* Hide "Expand" labels used in tables */
+@media print {
+  .quire-figure.table .quire-figure__modal {
+    display: none;
+  }
+  .content figure .quire-figure__caption {
+    min-height: 0;
+  }
 }
 
-.quire-splash .quire-page__header .hero-body .quire-page__header__title {
-  color: #b44a3a;
-}
 
 
