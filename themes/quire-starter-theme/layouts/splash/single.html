@@ -19,10 +19,12 @@
           {{- partial "page-title.html" . | markdownify -}}
         </h1>
         {{/* Contributors, if any */}}
+        {{ if ne .Params.contributor_byline false }}
         {{ with .Params.contributor }}
           <div class="quire-page__header__contributor">
             {{ partial "contributor-list.html" (dict "range" . "contributorType" "all" "listType" "list-plus" "Site" $.Site) }}
           </div>
+        {{ end }}
         {{ end }}
       </div>
     </section>
@@ -35,10 +37,12 @@
           {{- partial "page-title.html" . | markdownify -}}
         </h1>
         {{/* Contributors, if any */}}
+        {{ if ne .Params.contributor_byline false }}
         {{ with .Params.contributor }}
           <div class="quire-page__header__contributor">
             {{ partial "contributor-list.html" (dict "range" . "contributorType" "all" "listType" "list-plus" "Site" $.Site) }}
           </div>
+        {{ end }}
         {{ end }}
       </div>
     </section>

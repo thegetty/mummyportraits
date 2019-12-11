@@ -1,7 +1,7 @@
 ---
 title: Introduction
 subtitle:
-weight: 4
+weight: 5
 contributor:
 - id: msvoboda
 - id: crcartwright
@@ -9,6 +9,7 @@ contributor:
   last_name: Walker
   bio: "Susan Walker was a museum curator in the British Museum from 1977 to 2004 and the Sackler Keeper of Antiquities in the Ashmolean Museum, Oxford, from 2004 until her retirement in 2014. In 1997 she co-curated with Morris Bierbrier *Ancient Faces: Mummy Portraits from Roman Egypt*, a British Museum exhibition that traveled to Rome and New York; she was sole guest curator for the Metropolitan Museum of Art's presentation and associated publication. Walker is now an emerita fellow of Wolfson College, University of Oxford, and an honorary curator at the Ashmolean, where she is now studying mummy portraits with Jevon Thistlewood. She recently published *Saints and Salvation: The Wilshere Collection of Late Roman Gold-Glass, Sarcophagi and Inscriptions from Rome and Southern Italy* (Ashmolean Museum, 2017)."
 type: splash
+contributor_byline: false
 class: page-one
 image:
 ---
@@ -75,4 +76,4 @@ It is also with much appreciation that we acknowledge our anonymous peer reviewe
 
 And finally, to you, the reader, for your interest and support of scholarly publications such as this one, thank you.
 
-Marie Svoboda and Caroline R. Cartwright
+{{< q-contributor range="page" format="name" align="right" >}}

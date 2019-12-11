@@ -15,16 +15,17 @@ reading_line:
 short_title:
 
 description:
-  one_line:
-  full: >-
-    Quire is a digital publishing framework built on top of the Hugo static site
-    generator. Generate Web, PDF, and print books (with Epub coming soon) from a single set of text files.
+  one_line: Presenting fascinating new findings on ancient Romano-Egyptian funerary portraits preserved in international collections"
+  full: |
+    Once interred with mummified remains, nearly a thousand funerary portraits from Roman Egypt survive today in museums around the world, bringing viewers face-to-face with people who lived two thousand years ago. Until recently, few of these paintings had undergone in-depth study to determine by whom they were made and how.
+
+    An international collaboration known as APPEAR (Ancient Panel Paintings: Examination, Analysis, and Research) was launched in 2013 to promote the study of these objects and to gather scientific and historical findings into a shared database. The first phase of the project was marked with a two-day conference at the Getty Villa. Conservators, scientists, and curators presented new research on topics such as provenance and collecting, comparisons of works across institutions, and scientific studies of pigments, binders, and supports. The papers and posters from the conference are collected in this publication, which offers the most up-to-date information available about these fascinating remnants of the ancient world..
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2019-03-01 # YYYY-MM-DD
+pub_date: 2020-08-11 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -32,7 +33,7 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
+  - name: J. Paul Getty Museum
     location: Los Angeles
     url:
     logo: logo-getty.png
@@ -60,13 +61,14 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2017 J. Paul Getty Trust
+copyright: © 2020 J. Paul Getty Trust
 
 license:
   name: Creative Commons Attribution 4.0 International License
   abbreviation: CC BY
   url: http://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+  scope: some-exceptions # full | text-only | some-exceptions
+  online_text: "The text of this work and figs. 4.2–3, 4.10, 4.13, 8.3–4, 11.2–5, and 17.4a are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) All other images are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights."
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -129,10 +131,11 @@ subject:
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date:
+  - date: 2020-08-11
     summary:
+      - First edition
 
-repository_url:
+repository_url: https://github.com/thegetty/mummyportraits/
 
 # ------------------------------------------------------------------------------
 # Promo Image

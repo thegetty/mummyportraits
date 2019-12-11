@@ -18,6 +18,10 @@
   min-height: 1rem;
 }
 
+.quire-splash p:first-child:first-letter {
+  margin-right: .5rem; 
+}
+
 
 /* COVER
 ============================================================================= */
@@ -170,6 +174,28 @@
   margin-top: 1.5rem;
 }
 
+
+/* COPYRIGHT PAGE
+============================================================================= */
+
+@media print {
+  #copyright .quire-page.quire-page--frontmatter {
+    page: no-footer;
+  }
+  #copyright .quire-page__header {
+    display: none;
+  }
+  #copyright .quire-page__content {
+    max-width: 90%;
+    height: 100%;
+    margin: 0;
+    text-align: left;
+  }
+  #copyright img {
+    height: .25in;
+  }
+}
+  
 /* GLOSSARY
 ============================================================================= */
 .content ul.quire-glossary__key {
