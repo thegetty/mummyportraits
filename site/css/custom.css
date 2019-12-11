@@ -22,6 +22,16 @@
   margin-right: .5rem; 
 }
 
+@media print {
+  .title-page .title-tp {
+    max-width: 3.75in;
+    float: right;
+  }
+  .title-page .sub-title {
+    clear: both;
+  }
+}
+
 
 /* COVER
 ============================================================================= */
