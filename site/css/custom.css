@@ -1,0 +1,466 @@
+/* MISC
+============================================================================= */
+
+.quire-contributors-list.bio #Timothy-Potts {
+  display: none;
+}
+
+.quire-splash .quire-page__header .hero-body .quire-page__header__title {
+  color: #b44a3a;
+}
+
+.quire-page__content .content .footnote-ref a {
+  font-weight: normal;
+  margin-right: .2em;
+}
+
+.content figure .quire-figure__caption {
+  min-height: 1rem;
+}
+
+.quire-splash p:first-child:first-letter {
+  margin-right: .5rem; 
+}
+
+
+/* COVER
+============================================================================= */
+
+/* Custom cover slideshow animation */
+.quire-cover__overlay {
+  height: calc((95vh - 3rem) * .5);
+  min-height: calc((95vh - 3rem) * .5);
+  width: 50vw;
+}
+.quire-cover__overlay img {
+  max-height: 100%;
+  width: 100%;
+  object-fit: cover;
+  position:absolute;
+  left:0;
+  transition: opacity 1s ease-in-out;
+  animation-name: FadeInOut;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: 16s;
+}
+.quire-cover__overlay img {
+  object-fit: none;
+}
+.quire-cover__overlay.upper-left img {
+  object-position: bottom right;
+}
+.quire-cover__overlay.upper-right {
+  left: 50%;
+}
+.quire-cover__overlay.upper-right img {
+  object-position: bottom left;
+}
+.quire-cover__overlay.lower-left {
+  top: 50%;
+}
+.quire-cover__overlay.lower-left img {
+  object-position: top right;
+}
+.quire-cover__overlay.lower-right {
+  left: 50%;
+  top: 50%;
+}
+.quire-cover__overlay.lower-right img {
+  object-position: top left;
+}
+@keyframes FadeInOut {
+  0% {
+    opacity:1;
+  }
+  17% {
+    opacity:1;
+  }
+  25% {
+    opacity:0;
+  }
+  92% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+.quire-cover__overlay.upper-left img:nth-of-type(1) {
+  animation-name: none;
+}
+.quire-cover__overlay.upper-left img:nth-of-type(2) {
+  animation-delay: 8s;
+}
+.quire-cover__overlay.upper-left img:nth-of-type(3) {
+  animation-delay: 6s;
+}
+.quire-cover__overlay.upper-left img:nth-of-type(4) {
+  animation-delay: 4s;
+}
+.quire-cover__overlay.upper-left img:nth-of-type(5) {
+  animation-delay: 2s;
+}
+.quire-cover__overlay.upper-left img:nth-of-type(6) {
+  animation-delay: 0;
+}
+
+.quire-cover__overlay.upper-right img:nth-of-type(1) {
+  animation-name: none;
+}
+.quire-cover__overlay.upper-right img:nth-of-type(2) {
+  animation-delay: 10s;
+}
+.quire-cover__overlay.upper-right img:nth-of-type(3) {
+  animation-delay: 8s;
+}
+.quire-cover__overlay.upper-right img:nth-of-type(4) {
+  animation-delay: 6s;
+}
+.quire-cover__overlay.upper-right img:nth-of-type(5) {
+  animation-delay: 4s;
+}
+.quire-cover__overlay.upper-right img:nth-of-type(6) {
+  animation-delay: 2s;
+}
+
+.quire-cover__overlay.lower-right img:nth-of-type(1) {
+  animation-name: none;
+}
+.quire-cover__overlay.lower-right img:nth-of-type(2) {
+  animation-delay: 12s;
+}
+.quire-cover__overlay.lower-right img:nth-of-type(3) {
+  animation-delay: 10s;
+}
+.quire-cover__overlay.lower-right img:nth-of-type(4) {
+  animation-delay: 8s;
+}
+.quire-cover__overlay.lower-right img:nth-of-type(5) {
+  animation-delay: 6s;
+}
+.quire-cover__overlay.lower-right img:nth-of-type(6) {
+  animation-delay: 4s;
+}
+
+.quire-cover__overlay.lower-left img:nth-of-type(1) {
+  animation-name: none;
+}
+.quire-cover__overlay.lower-left img:nth-of-type(2) {
+  animation-delay: 14s;
+}
+.quire-cover__overlay.lower-left img:nth-of-type(3) {
+  animation-delay: 12s;
+}
+.quire-cover__overlay.lower-left img:nth-of-type(4) {
+  animation-delay: 10s;
+}
+.quire-cover__overlay.lower-left img:nth-of-type(5) {
+  animation-delay: 8s;
+}
+.quire-cover__overlay.lower-left img:nth-of-type(6) {
+  animation-delay: 6s;
+}
+.hero-body .container.is-fluid {
+  background-color: #b44a3a;
+}
+.quire-cover__hero .title,
+.quire-cover__hero .contributor {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: normal;
+  letter-spacing: 0;
+}
+.quire-cover__hero .contributor {
+  margin-top: 1.5rem;
+}
+
+
+/* COPYRIGHT PAGE
+============================================================================= */
+
+@media print {
+  #copyright .quire-page.quire-page--frontmatter {
+    page: no-footer;
+  }
+  #copyright .quire-page__header {
+    display: none;
+  }
+  #copyright .quire-page__content {
+    max-width: 90%;
+    height: 100%;
+    margin: 0;
+    text-align: left;
+  }
+  #copyright img {
+    height: .25in;
+  }
+}
+  
+/* GLOSSARY
+============================================================================= */
+.content ul.quire-glossary__key {
+  margin-left: 0;
+  text-align: center;
+  display: table;
+  margin-bottom: 2rem;
+}
+.quire-page__content .container .content ul.quire-glossary__key li::before {
+  content: "";
+}
+.quire-page__content .container .content ul.quire-glossary__key li {
+  margin: .5rem .75rem;
+  display: inline-block;
+}
+.quire-page__content .content dl.quire-glossary {
+  margin: 2rem 0;
+}
+.quire-page__content .content dl.quire-glossary dt {
+  display: inline;
+}
+.quire-page__content .content dl.quire-glossary dd {
+  display: inline;
+}
+.quire-page__content .content dl.quire-glossary dd::after {
+  content: " ";
+  display: block;
+  margin-bottom: 1rem;
+}
+
+
+/* PDF OUTPUT
+============================================================================= */
+@media print {
+  
+  /* To make backmatter (Bibliography, Glossary and Contributors) two-column */
+  .quire-page--backmatter .quire-page__content {
+    -moz-column-count: 2;
+    column-count: 2;
+    -moz-column-fill: balance;
+    column-fill: balance;
+    -moz-column-gap: .1875in;
+    column-gap: .1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+  
+  /* Utility classes */
+  .remove-from-pdf {
+    display: none !important;
+  }
+  .quire-figure.pdf-two-column {
+    column-span: all;
+  }  
+  .quire-figure.pdf-page-break-after {
+    page-break-after: always;
+  }
+  .quire-figure.pdf-page-break-before {
+    page-break-before: always;
+  }
+  .quire-figure.pdf-column-break-after {
+    column-break-after: always;
+  }
+  .quire-figure.pdf-90-percent-width {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .quire-figure.pdf-80-percent-width {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .quire-figure.pdf-70-percent-width {
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* Special for fig 3.13 */
+@media print {
+  .content figure.pdf-side-by-side-caption .quire-figure__image {
+    width: 70%;
+    margin: 0;
+    float: left;
+    margin-right: 1rem;
+  }
+  /* .content figure.pdf-side-by-side-caption .quire-figure__modal {
+    margin-top: 1rem;
+  } */
+  .content figure.pdf-side-by-side-caption .quire-figure__modal .quire-figure__label {
+    display: block;
+    line-height: 1;
+    margin-top: .25rem;
+  }
+  .quire-page__content .container .content figure.pdf-side-by-side-caption ul li:before {
+    font-size: .5rem;
+    margin-top: .25rem;
+  }
+}
+.content figure.pdf-side-by-side-caption .quire-figure__modal {
+  top: .35em;
+}
+
+
+/* FIGURES
+============================================================================= */
+
+
+/* Override defualt behaviour of images in grids growing to fit available space 
+  on the bottom row of the grid, and makes for better spacing around images */
+.quire-figure--group__row.columns {
+  margin-left: -.5rem;
+  margin-right: -.5rem;
+}
+.quire-figure--group__item {
+  padding: .75rem .5rem;
+}
+.quire-figure--group {
+  max-width: 100%;
+}
+.quire-figure--group .quire-grid--2 {
+  max-width: 50%;
+}
+.quire-figure--group .quire-grid--3 {
+  max-width: 33.33%;
+}
+.quire-figure--group .quire-grid--4 {
+  max-width: 25%;
+}
+.quire-figure--group .quire-grid--5 {
+  max-width: 20%;
+}
+.quire-figure--group .quire-grid--6 {
+  max-width: 16.66%;
+}
+
+
+/* TABLES 
+============================================================================= */
+
+/* general improvments to styling, including to styles for leaflet modal view */
+.quire-page__content .container .content table tbody th, 
+.quire-page__content .container .content table tbody td {
+  border-left-width: 0;
+  border-right-width: 0;
+}
+.quire-figure.table {
+  border-top-width: 0;
+  padding-top: 0;
+}
+.quire-deepzoom .leaflet-table table th,
+.quire-figure.table th {
+  background-color: #b44a3a;
+  color: white !important;
+}
+.quire-figure__table {
+  padding-bottom: .25rem;
+}
+.quire-deepzoom .leaflet-table table caption,
+.quire-deepzoom .leaflet-table table caption strong,
+.quire-figure__table table caption {
+  margin-top: 0;
+  color: #b44a3a;
+}
+.quire-page__content table {
+  font-size: 1em;
+}
+.quire-page__content .quire-figure__table .table-key {
+  color: #333;
+  text-align: left;
+  display: block;
+  margin-top: .5em;
+}
+.quire-deepzoom .leaflet-table {
+  padding: 0 1.5rem 1.5rem;
+}
+.quire-deepzoom .leaflet-table table {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.quire-deepzoom .leaflet-table table caption {
+  margin: 1.5rem 0;
+}
+
+/* Custom styling for Tables 6.1 and 6.2 which include images */
+.image-cell img:nth-of-type(1) {
+  width: 58%;
+  float: right;
+}
+.image-cell img:nth-of-type(2) {
+  width: 38%;
+}
+.image-cell img:nth-of-type(3) {
+  width: 38%;
+}
+.quire-figure .q-figure__wrapper > a:hover .image-cell img {
+  box-shadow: none;
+}
+
+/* Formatting key in table 17.1*/
+.quire-deepzoom .leaflet-table dl,
+.quire-page__content .content .quire-figure__table dl {
+  text-align: left;
+  margin-top: 1em;
+}
+.quire-deepzoom .leaflet-table dl dt,
+.quire-page__content .container .content .quire-figure__table dl dt {
+  float: left;
+  margin-right: .5em;
+}
+.quire-deepzoom .leaflet-table dl dd,
+.quire-page__content .container .content .quire-figure__table dl dd {
+  margin-bottom: .5em;
+}
+#table_17_1 tr td sup {
+  margin-left: 2px;
+  font-size: .875em;
+}
+#table_17_1 tr.table-penultimate-row td {
+  border-bottom: 1px solid #333;
+}
+#table_17_1 tr.table-ultimate-row td {
+  font-weight: bold;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
+#table_17_1 .two-column-key {
+  display: flex;
+}
+
+/* For shaded cells */
+.tableshading {
+  background-color: #e6e6e6;
+}
+.quire-deepzoom .leaflet-table table tbody tr:hover .tableshading,
+.quire-page__content .content tbody tr:hover .tableshading {
+  background-color: #dede85;
+}
+.content table td.vertical-align-middle {
+  vertical-align: middle;
+}
+
+/* Adjust appearance of footnote numbers for table 4.9 */
+.quire-page__content .content table .footnote-ref a {
+  font-size: 1em;
+  font-weight: normal;
+}
+
+.quire-page__content .container .content table tbody th, 
+.quire-page__content .container .content table tbody td {
+  border-left-width: 0;
+  border-right-width: 0;
+}
+
+/* Hide "Expand" labels used in tables */
+@media print {
+  .quire-figure.table .quire-figure__modal {
+    display: none;
+  }
+  .content figure .quire-figure__caption {
+    min-height: 0;
+  }
+}
+
+
+
