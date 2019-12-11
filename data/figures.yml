@@ -207,17 +207,18 @@ figure_list:
     src: figures/fig_3_13.jpg
     alt: ""
     label: "Figure 3.13"
-    caption: "Details of extracted ion chromatograms from LC/MS analyses of reference pigments and samples from mummy portraits. All analyses carried out using electrospray ionization (ESI) in negative polarity.
+    caption: |
+      Details of extracted ion chromatograms from LC/MS analyses of reference pigments and samples from mummy portraits. All analyses carried out using electrospray ionization (ESI) in negative polarity.
 
-              (A) “Rose pink” dry pigment, manufactured by Weber; Museum of Fine Arts, Boston, Forbes Collection 16
+        - (A) “Rose pink” dry pigment, manufactured by Weber; Museum of Fine Arts, Boston, Forbes Collection 16
 
-              (B) and (C) “Rose foncé” dry pigment, manufactured by Newman, Museum of Fine Arts, Boston, Forbes Collection 15
+        - (B) and &#40;C) “Rose foncé” dry pigment, manufactured by Newman, Museum of Fine Arts, Boston, Forbes Collection 15
 
-              (D) purplish pink paint from drapery in Mummy Portrait, Romano-Egyptian, AD 100–200. Media not identified, 50.2 x 22.4 cm (19 3/4 x 8 13/16 in.). Copenhagen, Ny Carlsberg Glyptotek, ÆIN 685
+        - (D) purplish pink paint from drapery in Mummy Portrait, Romano-Egyptian, AD 100–200. Media not identified, 50.2 x 22.4 cm (19 3/4 x 8 13/16 in.). Copenhagen, Ny Carlsberg Glyptotek, ÆIN 685
 
-              (E) purple paint from drapery on portrait in fig. 3.1
+        - (E) purple paint from drapery on portrait in fig. 3.1
 
-              Samples prepared by reacting with approximately 5-percent boron trifluoride in methanol. Vertical scales adjusted individually; actual peak heights are indicated. Compounds plotted: alizarin (m/z 239), purpurin (m/z 255), methyl ester of pseudopurpurin (m/z 313). Instrumental conditions were different for (E), which resulted in shifted retention times."
+      Samples prepared by reacting with approximately 5-percent boron trifluoride in methanol. Vertical scales adjusted individually; actual peak heights are indicated. Compounds plotted: alizarin (m/z 239), purpurin (m/z 255), methyl ester of pseudopurpurin (m/z 313). Instrumental conditions were different for (E), which resulted in shifted retention times.
     credit: ""
 
   - id: "fig_4_2"
@@ -285,7 +286,7 @@ figure_list:
 
   - id: "fig_4_12"
     label: "Figure 4.12"
-    src: figures/fig_4_12.png
+    src: figures/fig_4_12.jpg
     alt:
     caption: "Confirmed characterizations of green pigments on Egyptian artifacts."
     credit: ""
@@ -313,14 +314,14 @@ figure_list:
 
   - id: "fig_5_3"
     label: "Figure 5.3"
-    src: figures/fig_5_3.png
+    src: figures/fig_5_3.jpg
     alt:
     caption: "Egyptian blue in the APPEAR database."
     credit: ""
 
   - id: "fig_5_4"
     label: "Figure 5.4"
-    src: figures/fig_5_4.png
+    src: figures/fig_5_4.jpg
     alt: ""
     caption: "Blue pigments and paint binders in the mummy portraits."
     credit: ""
@@ -364,7 +365,7 @@ figure_list:
     src: figures/fig_6_4.jpg
     alt: ""
     label: "Figure 6.4"
-    caption: "Bar charts, showing the number of portraits exhibiting the identified uses of the pigments: (a) Egyptian blue; (b) pink lake; (c) carbon black; (d) ochres; and (e) lead white in the BM portrait collection (dark gray denotes portraits in encaustic; light gray, portraits in tempera)."
+    caption: "Bar charts, showing the number of portraits exhibiting the identified uses of the pigments: (a) Egyptian blue; (b) pink lake; &#40;c) carbon black; (d) ochres; and (e) lead white in the BM portrait collection (dark gray denotes portraits in encaustic; light gray, portraits in tempera)."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_5_a"
@@ -559,21 +560,21 @@ figure_list:
   - id: "fig_7_6a"
     src: figures/fig_7_6a.jpg
     alt: ""
-    label: "Figure 7.6a. Normal ligh"
+    label: "a. Normal light"
     caption: "Details of the *clavus* on fig. 7.1. Normal light, UVF, MBR illustrating the red lake pigment’s characteristic pinkish-orange fluorescence, and MBR illustrating indigo’s bright response. The brightness of the MBR image has been enhanced for legibility."
     credit: ""
 
   - id: "fig_7_6b"
     src: figures/fig_7_6b.jpg
     alt: ""
-    label: "Figure 7.6b. UV"
+    label: "b. UV"
     caption: ""
     credit: ""
 
   - id: "fig_7_6c"
     src: figures/fig_7_6c.jpg
     alt: ""
-    label: "Figure 7.6c. MB"
+    label: "c. MB"
     caption: ""
     credit: ""
 
@@ -588,20 +589,20 @@ figure_list:
     src: figures/fig_7_8a.jpg
     alt: ""
     caption: "Details of fig. 7.7. Normal light, UVF, MBR showing the bright responses of indigo on the painted purple cartonnage and of the resin associated with the mummy wrappings. The brightness of the MBR image has been enhanced for legibility."
-    label: "Figure 7.8a. Normal ligh"
+    label: "a. Normal light"
     credit: ""
 
   - id: "fig_7_8b"
     src: figures/fig_7_8b.jpg
     alt: ""
-    label: "Figure 7.8b. UV"
+    label: "b. UV"
     caption: ""
     credit: ""
 
   - id: "fig_7_8c"
     src: figures/fig_7_8c.jpg
     alt: ""
-    label: "Figure 7.8c. MB"
+    label: "c. MB"
     caption: ""
     credit: ""
 
@@ -1111,7 +1112,7 @@ figure_list:
   - id: "fig_15_1_a"
     src: figures/fig_15_1_a.jpg
     alt: ""
-    label: "Figure 15.1a. UV"
+    label: "a. UV"
     caption: "Portrait of a Lady, Romano-Egyptian, AD 117–138. er-Rubayat. Encaustic on wood, 40 x 20 cm (15 3/4 x 7 7/8 in.). Vienna, Kunsthistorisches Museum, Antikensammlung, X 297.
 
               a.  UVF
@@ -1124,21 +1125,21 @@ figure_list:
   - id: "fig_15_1_b"
     src: figures/fig_15_1_b.jpg
     alt: ""
-    label: "Figure 15.1b. VI"
+    label: "b. VI"
     caption: ""
     credit: ""
 
   - id: "fig_15_1_c"
     src: figures/fig_15_1_c.jpg
     alt: ""
-    label: "Figure 15.1c. VI"
+    label: "c. VI"
     caption: ""
     credit: ""
 
   - id: "fig_15_2_a"
     src: figures/fig_15_2_a.jpg
     alt: ""
-    label: "Figure 15.2a. UV"
+    label: "a. UV"
     caption: "Portrait of a Young Man with Wreath, Romano-Egyptian, AD 125–150. er-Rubayat. Tempera on wood, 32.5 x 18 cm (12 13/16 x 7 1/16 in.). Vienna, Kunsthistorisches Museum, Antikensammlung, X 432.
 
               a.  UVF
@@ -1153,21 +1154,21 @@ figure_list:
   - id: "fig_15_2_b"
     src: figures/fig_15_2_b.jpg
     alt: ""
-    label: "Figure 15.2b. VI"
+    label: "b. VI"
     caption: ""
     credit: ""
 
   - id: "fig_15_2_c"
     src: figures/fig_15_2_c.jpg
     alt: ""
-    label: "Figure 15.2c. NI"
+    label: "c. NI"
     caption: ""
     credit: ""
 
   - id: "fig_15_2_d"
     src: figures/fig_15_2_d.jpg
     alt: ""
-    label: "Figure 15.2d. IRRF"
+    label: "d. IRRF"
     caption: ""
     credit: ""
 
@@ -1247,18 +1248,25 @@ figure_list:
     label: "Figure 18.2a"
     caption: "Portrait of a Woman, Romano-Egyptian, AD 140–160. Linden wood and beeswax, 25 x 11 cm (9 7/8 x 4 5/16 in.). Copenhagen, Ny Carlsberg Glyptotek, AEIN 682."
     credit: ""
+    
+  - id: "fig_18_2_b"
+    src: figures/fig_18_2_b.jpg
+    alt: ""
+    label: "Figure 18.2b"
+    caption: "The GC/MS chromatograms show a sample containing aged beeswax, soaps, and oil. The top chromatogram presents the wax analysis; the bottom chromatogram displays the oil analysis of the same sample."
+    credit: ""  
 
   - id: "fig_18_2_b_1"
     src: figures/fig_18_2_b_1.jpg
     alt: ""
-    label: "Figure 18.2b. Wax analysi"
+    label: "Figure 18.2b. Wax analysis"
     caption: "The GC/MS chromatograms show a sample containing aged beeswax, soaps, and oil. The top chromatogram presents the wax analysis; the bottom chromatogram displays the oil analysis of the same sample."
     credit: ""
 
   - id: "fig_18_2_b_2"
     src: figures/fig_18_2_b_2.jpg
     alt: ""
-    label: "Figure 18.2b. Oil analysi"
+    label: "Figure 18.2b. Oil analysis"
     caption: ""
     credit: ""
 
@@ -1285,63 +1293,63 @@ figure_list:
 
   - id: "table_2_1"
     media_type: table
-    label: "Figure 2.1"
+    label: "Expand"
     src: tables/2-1.html
     caption: ""
     credit: ""
 
   - id: "table_4_1"
     media_type: table
-    label: "Figure 4.1"
+    label: "Expand"
     src: tables/4-1.html
-    caption: "Green pigments characterized on Egyptian artifacts."
+    caption: ""
     credit: ""
 
   - id: "table_4_9"
     media_type: table
-    label: "Figure 4.9"
+    label: "Expand"
     src: tables/4-9.html
-    caption: "Green pigment analysis and imaging of painted mummy shrouds."
+    caption: ""
     credit: "" 
 
   - id: "table_5_5"
     media_type: table
-    label: "Figure 5.5"
+    label: "Expand"
     src: tables/5-5.html
-    caption: "Uses of Egyptian blue in the mummy portraits, in order of frequency."
+    caption: ""
     credit: ""
 
   - id: "table_6_1"
     media_type: table
-    label: "Figure 6.1"
+    label: "Expand"
     src: tables/6-1.html
-    caption: "Schematic of the experimental setup, including radiation sources and filter(s) combinations, for reflected images: (a) VIS; (b) IRR; (c) UVR; and (d) MBR images."
-    credit: "Portrait: EA74706 © Trustees of the British Museum"
+    caption: ""
+    credit: ""
 
   - id: "table_6_2"
     media_type: table
-    label: "Figure 6.2"
+    label: "Expand"
     src: tables/6-2.html
-    caption: "Schematic of the experimental setup, including radiation sources and filter(s) combinations, for luminescence images: (e) UVL; (f) VIL; and (g) VIVL images."
-    credit: "Portrait: EA74706 © Trustees of the British Museum"
+    caption: ""
+    credit: ""
 
   - id: "table_7_2"
     media_type: table
-    label: "Figure 7.2"
+    label: "Expand"
     src: tables/7-2.html
-    caption: "Camera, filter, and illumination sources used for MBI imaging."
+    caption: ""
     credit: ""
 
   - id: "table_17_1"
     media_type: table
-    label: "Figure 17.1"
+    label: "Expand"
     src: tables/17-1.html
-    caption: "Figure 17.1. Summary of GC/MS Binding Media Results."
+    caption: ""
     credit: ""
 
   - id: "table_18_1"
     media_type: table
-    label: "Figure 18.1"
+    label: "Expand"
     src: tables/18-1.html
-    caption: "Summary of GC/MS Results of Encaustic Binding Media. Description of the encaustic paint samples that contain beeswax only or beeswax with additional proteins and/or oxidized oil. AEIN 1425 and AEIN 1426 are on a linen support; all others are on wooden panels."
+    caption: ""
     credit: ""
