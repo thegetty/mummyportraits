@@ -1,3 +1,13 @@
+/* TEMPORARY -- to aid in editing
+============================================================================= */
+
+@media print {
+  .quire-citation__button.glossary-button {
+    background-color: #ffedeb;
+  }
+}
+
+
 /* MISC
 ============================================================================= */
 

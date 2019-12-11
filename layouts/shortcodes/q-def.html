@@ -31,7 +31,7 @@
 
 {{- else -}}
 
-  <span class="quire-citation expandable">{{ if ne .Site.Params.citationPopupStyle "icon" }}<span class="quire-citation__button" role="button" tabindex="0" aria-expanded="false">{{ end }}{{ if eq (len .Params) 2 }}{{ .Get 1 | markdownify }}{{ else }}{{ .Get 0 }}{{ end }}{{ if eq .Site.Params.citationPopupStyle "icon" }}<button class="material-icons md-18 material-control-point" aria-expanded="false">control_point</button>{{ end }}{{ if ne .Site.Params.citationPopupStyle "icon" }}</span>{{ end }}<span hidden class="quire-citation__content"><span class="visually-hidden">Citation: </span><strong>{{ markdownify ($.Scratch.Get "term") }}{{ if .Site.Params.glossaryTermDivider }}{{ .Site.Params.glossaryTermDivider }}{{ else }}: {{ end }}</strong>{{ markdownify ($.Scratch.Get "def") }}</span></span>
+  <span class="quire-citation expandable">{{ if ne .Site.Params.citationPopupStyle "icon" }}<span class="quire-citation__button glossary-button" role="button" tabindex="0" aria-expanded="false">{{ end }}{{ if eq (len .Params) 2 }}{{ .Get 1 | markdownify }}{{ else }}{{ .Get 0 }}{{ end }}{{ if eq .Site.Params.citationPopupStyle "icon" }}<button class="material-icons md-18 material-control-point" aria-expanded="false">control_point</button>{{ end }}{{ if ne .Site.Params.citationPopupStyle "icon" }}</span>{{ end }}<span hidden class="quire-citation__content"><span class="visually-hidden">Citation: </span><strong>{{ markdownify ($.Scratch.Get "term") }}{{ if .Site.Params.glossaryTermDivider }}{{ .Site.Params.glossaryTermDivider }}{{ else }}: {{ end }}</strong>{{ markdownify ($.Scratch.Get "def") }}</span></span>
 
 {{- end -}}
 
