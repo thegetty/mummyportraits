@@ -1293,63 +1293,63 @@ figure_list:
 
   - id: "table_2_1"
     media_type: table
-    label: "Figure 2.1"
+    label: "Expand"
     src: tables/2-1.html
     caption: ""
     credit: ""
 
   - id: "table_4_1"
     media_type: table
-    label: "Figure 4.1"
+    label: "Expand"
     src: tables/4-1.html
-    caption: "Green pigments characterized on Egyptian artifacts."
+    caption: ""
     credit: ""
 
   - id: "table_4_9"
     media_type: table
-    label: "Figure 4.9"
+    label: "Expand"
     src: tables/4-9.html
-    caption: "Green pigment analysis and imaging of painted mummy shrouds."
+    caption: ""
     credit: "" 
 
   - id: "table_5_5"
     media_type: table
-    label: "Figure 5.5"
+    label: "Expand"
     src: tables/5-5.html
-    caption: "Uses of Egyptian blue in the mummy portraits, in order of frequency."
+    caption: ""
     credit: ""
 
   - id: "table_6_1"
     media_type: table
-    label: "Figure 6.1"
+    label: "Expand"
     src: tables/6-1.html
-    caption: "Schematic of the experimental setup, including radiation sources and filter(s) combinations, for reflected images: (a) VIS; (b) IRR; &#40;c) UVR; and (d) MBR images."
-    credit: "Portrait: EA74706 © Trustees of the British Museum"
+    caption: ""
+    credit: ""
 
   - id: "table_6_2"
     media_type: table
-    label: "Figure 6.2"
+    label: "Expand"
     src: tables/6-2.html
-    caption: "Schematic of the experimental setup, including radiation sources and filter(s) combinations, for luminescence images: (e) UVL; (f) VIL; and (g) VIVL images."
-    credit: "Portrait: EA74706 © Trustees of the British Museum"
+    caption: ""
+    credit: ""
 
   - id: "table_7_2"
     media_type: table
-    label: "Figure 7.2"
+    label: "Expand"
     src: tables/7-2.html
-    caption: "Camera, filter, and illumination sources used for MBI imaging."
+    caption: ""
     credit: ""
 
   - id: "table_17_1"
     media_type: table
-    label: "Figure 17.1"
+    label: "Expand"
     src: tables/17-1.html
-    caption: "Figure 17.1. Summary of GC/MS Binding Media Results."
+    caption: ""
     credit: ""
 
   - id: "table_18_1"
     media_type: table
-    label: "Figure 18.1"
+    label: "Expand"
     src: tables/18-1.html
-    caption: "Summary of GC/MS Results of Encaustic Binding Media. Paint samples from encaustic portraits are described by color and location. Beeswax was identified in all paint samples described here. In addition, unknown proteins (protein detected but did not match content in our database), animal glue, oxidized oil, and egg or paraffin coatings were also identified. Samples without additional oils, proteins, and coatings are reported as ND (not detected). AEIN 1425 and AEIN 1426 are on a linen support; all others are on wooden panels."
+    caption: ""
     credit: ""
