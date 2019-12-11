@@ -15,7 +15,7 @@ reading_line:
 short_title:
 
 description:
-  one_line: Presenting fascinating new findings on ancient Romano-Egyptian funerary portraits preserved in international collections"
+  one_line: Presenting fascinating new findings on ancient Romano-Egyptian funerary portraits preserved in international collections
   full: |
     Once interred with mummified remains, nearly a thousand funerary portraits from Roman Egypt survive today in museums around the world, bringing viewers face-to-face with people who lived two thousand years ago. Until recently, few of these paintings had undergone in-depth study to determine by whom they were made and how.
 
@@ -97,11 +97,11 @@ resource_link:
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url:
+    url: https://www.getty.edu/legal/privacy.html
   - type: footer-link
     name: Terms of Use
     link_relation: terms-of-service
-    url:
+    url: https://www.getty.edu/legal/copyright.html
 
 # ------------------------------------------------------------------------------
 # Subjects
@@ -109,23 +109,18 @@ resource_link:
 
 subject:
   - type: bisac
-    name:
-    identifer:
-  - type: getty
-    name:
-    identifier:
-  - type:
-    name:
-  - type:
-    name:
-    identifier:
-  - type: getty
-    name:
-    identifier:
-  - type: getty
-    name:
-    identifier: 
-
+    name: ART / Conservation & Preservation
+    identifer: ART056000
+  - type: bisac
+    name: ART / Middle Eastern
+    identifer: ART047000
+  - type: bisac
+    name: HISTORY / Ancient / Egypt
+    identifer: HIS002030
+  - type: bisac
+    name: HISTORY / Middle East / Egypt
+    identifer: HIS009000
+    
 # ------------------------------------------------------------------------------
 # Revision History
 # ------------------------------------------------------------------------------
@@ -141,4 +136,4 @@ repository_url: https://github.com/thegetty/mummyportraits/
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: cover.png
+promo_image: cover.jpg
