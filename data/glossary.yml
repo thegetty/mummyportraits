@@ -1,12 +1,12 @@
 terms:
-    
+
   - id: "animal glue"
     display: "Animal glue"
     definition: "A collagen-based adhesive made by boiling animal skin, bones, or tendons in water. The proteinaceous glue is used as a binding medium that is mixed with pigments for painting; it can also be used for sizing or sealing wood, for applying gilding, and for joining or bonding. Glues can be made from many types of animals including cow, rabbit, horse, or fish."
 
   - id: "Antinoöpolis"
     display: "Antinoöpolis"
-    definition: "An ancient Roman city south of Cairo and the Fayum basin, on the east bank of the Nile. The mummy portraits believed to have been discovered at this site exhibit a characteristic austere style and the wooden panels a unique stepped shape. The city was founded in AD 130 when the Emperor Hadrian named it in honor of Antinoüs, his lover who drowned in the Nile. "
+    definition: "An ancient Roman city south of Cairo and the Fayum basin, on the east bank of the Nile. The mummy portraits believed to have been discovered at this site exhibit a characteristic austere style and the wooden panels a unique stepped shape. The city was founded in AD 130 when the emperor Hadrian named it in honor of Antinoüs, his lover who drowned in the Nile. "
 
   - id: "Antonine period"
     display: "Antonine period (AD 138–192)"
@@ -22,7 +22,7 @@ terms:
 
   - id: "binding media"
     display: "Binding media"
-    definition: "An organic material that holds pigments together, enabling them to be applied as a cohesive film. Ancient binding media are based on natural materials, including wax, plant gums, and proteins, such as animal glues. The physical properties of the medium strongly influence the handling and visual characteristics of the paint."
+    definition: "Organic materials that hold pigments together, enabling them to be applied as a cohesive film. Ancient binding media are based on natural materials, including wax, plant gums, and proteins, such as animal glues. The physical properties of the medium strongly influence the handling and visual characteristics of the paint."
 
   - id: "bulla"
     display: "Bulla (pl. *bullae*)"
@@ -46,7 +46,7 @@ terms:
 
   - id: "chiton"
     display: "Chiton (tunic)"
-    definition: "A simple garment that covered the upper body, starting at the shoulders and ending at a length somewhere between the hips and the ankles. The English word *chiton* originates from the Latin *chiton*, which means “mollusk”, that, in turn, is derived from the Greek word *khitōn*, meaning “tunic”. The tunic was a basic garment worn by both men and women in ancient Rome. Citizens and noncitizens alike wore chitons (usually white for men and red for women). Citizens might wear a chiton under the toga, especially on formal occasions. The length of the garment and the presence or lack of stripes (*clavi*), as well as their width and ornamentation, indicated the wearer’s status in Roman society."
+    definition: "A simple garment that covered the upper body, starting at the shoulders and ending at a length somewhere between the hips and the ankles. The English word *chiton* originates from the Latin *chiton*, which means “mollusk”; that, in turn, is derived from the Greek word *khitōn*, meaning “tunic.” The tunic was a basic garment worn by both men and women in ancient Rome. Citizens and noncitizens alike wore chitons (usually white for men and red for women). Citizens might wear a chiton under the toga, especially on formal occasions. The length of the garment and the presence or lack of stripes (*clavi*), as well as their width and ornamentation, indicated the wearer’s status in Roman society."
 
   - id: "cinnabar"
     display: "Cinnabar"
@@ -66,7 +66,7 @@ terms:
 
   - id: "Egyptian blue"
     display: "Egyptian blue (cuprorivaite)"
-    definition: "A pigment that was manufactured and used by Egyptians possibly as early as 3100 BC. Considered to be the first synthetic pigment, Egyptian blue was made by mixing a calcium and copper compound with silica/quartz and a flux; heating the mixture to a very high temperature (900°C); and then grinding the glassy product to a powder. Chemical formula: Calcium copper silicate, CaCuSi<sub>4</sub>O<sub>10</sub> or CaOCuO(SiO<sub>2</sub>)<sub>4</sub>"
+    definition: "A pigment that was manufactured and used by Egyptians possibly as early as 3100 BC. Considered to be the first synthetic pigment, Egyptian blue was made by mixing a calcium and copper compound with silica/quartz and a flux, heating the mixture to a very high temperature (900°C), and then grinding the glassy product to a powder. Chemical formula: Calcium copper silicate, CaCuSi<sub>4</sub>O<sub>10</sub> or CaOCuO(SiO<sub>2</sub>)<sub>4</sub>"
 
   - id: "el-Hibeh"
     display: "El-Hibeh (el Hiba)"
@@ -83,10 +83,6 @@ terms:
   - id: "er-Rubayat"
     display: "er-Rubayat (er Rubayyat, er Rubiyat, er Rubayet, el Rubiyat)"
     definition: "An archaeological site on the west bank of the Nile within the Fayum basin, also known as the cemetery near ancient Philadelphia. This location is where many portraits acquired by the Viennese art dealer Theodor Graf were found."
-
-  - id: "Flavian period"
-    display: "Flavian period (AD 69–96)"
-    definition: "The era that encompasses the reigns of Vespasian (AD 69–79) and his sons Titus (AD 79–81) and Domitian (AD 81–96). Although Vespasian encouraged a return to traditional Roman values of austere modesty, the rule of Domitian saw new levels of extravagance, especially in the dress and coiffure of imperial women. As imperial fashions became known through the dissemination of coins and sculptured busts and statues, the elaborate hairstyles were imitated, with tiers of curls requiring hairpieces to achieve the required height and mitered shape above the brow; men copied the look of balding emperors Vespasian and Titus."
 
   - id: "FCIR"
     display: "False-color infrared (FCIR) / infrared-reflected false color (IRRFC)"
@@ -108,6 +104,10 @@ terms:
     display: "Fibula"
     definition: "A decorative pin or brooch, usually made of metal such as bronze, silver, or gold, used to gather and secure the folds of a garment."
 
+  - id: "Flavian period"
+    display: "Flavian period (AD 69–96)"
+    definition: "The era that encompasses the reigns of Vespasian (AD 69–79) and his sons Titus (AD 79–81) and Domitian (AD 81–96). Although Vespasian encouraged a return to traditional Roman values of austere modesty, the rule of Domitian saw new levels of extravagance, especially in the dress and coiffure of imperial women. As imperial fashions became known through the dissemination of coins and sculptured busts and statues, the elaborate hairstyles were imitated, with tiers of curls requiring hairpieces to achieve the required height and mitered shape above the brow; men copied the look of balding emperors Vespasian and Titus."
+
   - id: "FTIR"
     display: "Fourier transform infrared spectroscopy (FTIR)"
     definition: "An analytical method used for the characterization and identification of organic and some inorganic materials, based on the excitation of specific vibrational modes of functional groups in the infrared region."
@@ -122,7 +122,7 @@ terms:
 
   - id: "GC/MS"
     display: "Gas chromatography/mass spectrometry (GC/MS)"
-    definition: "An analytical technique used for the precise identification of organic binding materials such as oils, waxes, resins, and gums. The instrument separates complex mixtures of organic compounds using a capillary column housed in a temperature-controlled oven and, in combination with the mass spectrometer, can facilitate identification and quantitation of the various components."
+    definition: "An analytical technique used for the precise identification of organic binding materials such as oils, waxes, resins, and gums. The gas chromatograph separates complex mixtures of organic compounds using a capillary column housed in a temperature-controlled oven and, in combination with the mass spectrometer, can facilitate identification and quantitation of the various components."
 
   - id: "gilding"
     display: "Gilding"
@@ -130,7 +130,7 @@ terms:
 
   - id: "green earth"
     display: "Green earth (terre verte)"
-    definition: "A naturally occurring aluminosilicate mineral pigment sourced in the Mediterranean region. Natural green earth contains the minerals glauconite and celadonite. Chemical formula: K[(Al,Fe<sub>3</sub>),(Fe<sub>2</sub>,Mg&#93;(AlSi<sub>3</sub>,Si<sub>4</sub>)O<sub>10</sub>(OH)<sub>2</sub>"
+    definition: "A naturally occurring aluminosilicate mineral pigment sourced in the Mediterranean region. Natural green earth contains the minerals glauconite and celadonite. Chemical formula: K[(Al,Fe<sub>3</sub>),(Fe<sub>2</sub>,Mg)&#93;(AlSi<sub>3</sub>,Si<sub>4</sub>)O<sub>10</sub>(OH)<sub>2</sub>"
 
   - id: "ground"
     display: "Ground (preparation layer)"
@@ -174,7 +174,7 @@ terms:
 
   - id: "Iron oxide pigments"
     display: "Iron oxide pigments (hematite, ochres, sienna, umber)"
-    definition: "Also referred to as *earth pigments* and made from minerals containing oxides and hydroxides of iron, iron oxide pigments can occur in many different colors, such as yellow, orange, red, brown, and black. Approximately sixteen known iron oxides and oxyhydroxides were widely sourced and processed (calcined) for use as pigments."
+    definition: "Also referred to as earth pigments and made from minerals containing oxides and hydroxides of iron, iron oxide pigments can occur in many different colors, such as yellow, orange, red, brown, and black. Approximately sixteen known iron oxides and oxyhydroxides were widely sourced and processed (calcined) for use as pigments."
 
   - id: "Julio-Claudian period"
     display: "Julio-Claudian period (27 BC–AD 68)"
@@ -190,15 +190,15 @@ terms:
 
   - id: "lead soaps"
     display: "Lead soaps"
-    definition: "A product created by the saponification of an oil (such as a drying oil, which hardens due to oxidation) promoted by a lead-based pigment, such as lead oxide. The soaps formed by interaction between fatty acids in the oil and lead ions from the pigment can manifest as insoluble white aggregates within the paint layer or as a white haze (efflorescence) on the surface."
+    definition: "Products created by the saponification of an oil (such as a drying oil, which hardens due to oxidation) promoted by a lead-based pigment, such as lead oxide. The soaps formed by interaction between fatty acids in the oil and lead ions from the pigment can manifest as insoluble white aggregates within the paint layer or as a white haze (efflorescence) on the surface."
 
   - id: "lead white"
     display: "Lead white"
-    definition: "A white pigment, both found as a naturally occurring mineral known as hydrocerussite and produced synthetically by exposing metallic lead to an acid (e.g., vinegar). Lead white has been widely used in antiquity and in Egypt since around 400 BC. Chemical formula: Basic lead (II) carbonate, 2PbCO<sub>3</sub>· Pb(OH)<sub>2</sub>"
+    definition: "A white pigment, both found as a naturally occurring mineral known as hydrocerussite and produced synthetically by exposing metallic lead to an acid (e.g., vinegar). Lead white has been widely used in antiquity and in Egypt since around 400 BC. Chemical formula: Basic lead (II) carbonate, 2PbCO<sub>3</sub>·Pb(OH)<sub>2</sub>"
 
   - id: "linen"
     display: "Linen (flax)"
-    definition: "A textile derived from the flax fiber, commonly used in but not originally native to Egypt, dating back to the Neolithic period (about 4000 BC). Two types of flax were cultivated in Predynastic Egypt: *Linum bienne* (synonym *Linum angustifolium*) and *Linum usitatissimum*. To produce linen thread, flax was dried, retted (soaked), beaten to separate the bast fibers from the stems, spliced, and spun. Although rarely done, linen thread could then be dyed (using ochre or organic colorants) before being woven into cloth. Women, men, and children were involved in linen production, but weaving is most closely associated with women. Linen cloth was very valuable and sometimes used as currency. Egyptian mummies were wrapped in linen because it symbolized wealth, light, and purity."
+    definition: "A textile derived from the flax fiber, commonly used in but not originally native to Egypt, dating back to the Neolithic period (about 4000 BC). Two types of flax were cultivated in predynastic Egypt: *Linum bienne* (synonym *Linum angustifolium*) and *Linum usitatissimum*. To produce linen thread, flax was dried, retted (soaked), beaten to separate the bast fibers from the stems, spliced, and spun. Although rarely done, linen thread could then be dyed (using ochre or organic colorants) before being woven into cloth. Women, men, and children were involved in linen production, but weaving is most closely associated with women. Linen cloth was very valuable and sometimes used as currency. Egyptian mummies were wrapped in linen because it symbolized wealth, light, and purity."
 
   - id: "LC/DAD/MS"
     display: "Liquid chromatography with diode array detection and mass spectrometry (LC/DAD/MS)"
@@ -216,29 +216,29 @@ terms:
     display: "Modified wax"
     definition: "Beeswax that has been modified by the addition of other materials, such a resin, glue, or oil, or that has been treated with an alkali to make it water soluble, thus paintable cold. Some scholars have proposed that wax was modified in some way for use as a paint medium in ancient Egypt."
 
-  - id: "MSI/MBI"
-    display: "Multispectral imaging (MSI) / multiband imaging (MBI)"
-    definition: "The creation of a series of images, each recording reflectance within a different limited range of wavelengths. This process involves using a series of band-pass camera filters or a set of narrow-band illumination sources; thus, it records variations in the absorption of materials at different wavelengths. Comparing or combining these images can help to characterize materials or to distinguish between materials that may appear similar."
-
   - id: "MBR"
     display: "Multiband reflectance subtraction imaging (MBR)"
     definition: "A digital post-processing technique that subtracts a near-infrared image from a visible light image, thus enabling the characterization of certain materials, specifically indigo."
+
+  - id: "MSI/MBI"
+    display: "Multispectral imaging (MSI) / multiband imaging (MBI)"
+    definition: "The creation of a series of images, each recording reflectance within a different limited range of wavelengths. This process involves using a series of band-pass camera filters or a set of narrow-band illumination sources; thus, it records variations in the absorption of materials at different wavelengths. Comparing or combining these images can help to characterize materials or to distinguish between materials that may appear similar."
 
   - id: "orpiment"
     display: "Orpiment"
     definition: "An orange-yellow pigment with large particles and a glittering quality used to imitate gold. Sourced from the Red Sea and Asia Minor, orpiment, mentioned by Pliny and Vitruvius and also noted in Egyptian works of the Pharaonic period, was widely traded by the Romans. Chemical formula: Arsenic trisulfide, As<sub>2</sub>S<sub>3</sub>"
 
-  - id: "panel"
-    display: "Panel"
-    definition: "Painting supports made from various woods, including, lime, sycomore fig, and cedar of Lebanon, among others. The shape of the upper portion of mummy portrait panels may indicate the cemetery in which the mummy was buried: stepped panels are associated with Antinoöpolis, round-topped panels with Hawara, and angled panels with er-Rubayat."
-
   - id: "pallium"
     display: "Pallium"
     definition: "A large, draped rectangular cloth, worn as a cloak or mantle with no undergarment, often associated with Greek intellectual activities. To the Romans, the pallium was a distinctly Greek form of dress, and so it was worn only in specific contexts. (See *himation*.)"
 
+  - id: "panel"
+    display: "Panel"
+    definition: "Painting support made from various woods, including lime, sycomore fig, and cedar of Lebanon, among others. The shape of the upper portion of mummy portrait panels may indicate the cemetery in which the mummy was buried: stepped panels are associated with Antinoöpolis, round-topped panels with Hawara, and angled panels with er-Rubayat."
+
   - id: "pastiche"
     display: "Pastiche"
-    definition: "Artworks that incorporate several different styles or are composed of parts drawn from a variety of sources (e.g., a complete panel that is made of two or more panels)."
+    definition: "An artwork that incorporates several different styles or is composed of parts drawn from a variety of sources (e.g., a complete panel that is made of two or more panels)."
 
   - id: "penicillum"
     display: "Penicillum"
@@ -274,15 +274,15 @@ terms:
 
   - id: "punic wax"
     display: "Punic wax"
-    definition: "Beeswax prepared in a certain way, as described by both Pliny and Dioscorides. The precise nature and composition of Punic wax has been much debated, with the source texts variously interpreted as describing the preparation of a purified or clarified beeswax, or one that has been partially or completely saponified by the addition of an alkali. In the latter case the product is presumed by some to be water miscible and amenable to application in a cold state."
+    definition: "Beeswax prepared in a certain way, as described by both Pliny and Dioscorides. The precise nature and composition of Punic wax have been much debated, with the source texts variously interpreted as describing the preparation of a purified or clarified beeswax, or one that has been partially or completely saponified by the addition of an alkali. In the latter case the product is presumed by some to be water miscible and amenable to application in a cold state."
 
   - id: "radiocarbon dating"
     display: "Radiocarbon dating"
-    definition: "A scientific method for dating organic materials or an object containing organic materials."
+    definition: "A scientific method for dating organic materials or objects containing organic materials."
 
   - id: "raking light"
     display: "Raking light"
-    definition: "Illumination of an object by a light source positioned at an oblique angle or almost parallel to the object’s surface. It is used to provide information about the surface topography."
+    definition: "Illumination by a light source positioned at an oblique angle or almost parallel to an object’s surface. It is used to provide information about the surface topography."
 
   - id: "Raman spectroscopy"
     display: "Raman spectroscopy"
@@ -294,11 +294,11 @@ terms:
 
   - id: "red lead"
     display: "Red lead (minium)"
-    definition: "A bright red-orange pigment that was one of the first to be synthetically produced. It is also referred to as *minium*, the naturally occurring pigment named after the river Minius, located in northwest Spain. Chemical formula: Lead (II, IV)-oxide Pb<sub>3</sub>O<sub>4</sub>"
+    definition: "A bright red-orange pigment that was one of the first to be synthetically produced. It is also referred to as *minium*, the naturally occurring pigment named after the river Minius, located in northwest Spain. Chemical formula: Lead (II,IV) oxide, Pb<sub>3</sub>O<sub>4</sub>"
 
   - id: "red ochre"
     display: "Red ochre"
-    definition: "A brownish-red earth pigment that contains anhydrous iron oxide, or hematite (from the Greek *hema,* meaning “blood”). Used since prehistory as pigments, ochres may vary widely in shades and transparency. Composition: Anhydrous iron (III)-oxide, Fe<sub>2</sub>O<sub>3</sub>"
+    definition: "A brownish red earth pigment that contains anhydrous iron oxide, or hematite (from the Greek *hema,* meaning “blood”). Used since prehistory as pigments, ochres may vary widely in shades and transparency. Composition: Anhydrous iron (III) oxide, Fe<sub>2</sub>O<sub>3</sub>"
 
   - id: "RTI"
     display: "Reflectance transformation imaging (RTI)"
@@ -313,7 +313,7 @@ terms:
     definition: "A long, dark-colored (red, blue, or purple) outer cloak worn by Roman soldiers. The sagum was fastened on the shoulder with a fibula (brooch)."
 
   - id: "SEM-EDS/EDX"
-    display: "Scanning electron microscopy and energy dispersive X-ray spectroscopy (SEM-EDS / EDX)"
+    display: "Scanning electron microscopy and energy dispersive X-ray spectroscopy (SEM-EDS / SEM-EDX)"
     definition: "An electron microscope that images the surface of a sample by scanning it with a high-energy beam of electrons. The interaction between the electrons and the constituent atoms at the sample’s surface reveals topography and elemental composition."
 
   - id: "Severan period"
@@ -326,7 +326,7 @@ terms:
 
   - id: "specular light"
     display: "Specular light"
-    definition: "Light that behaves as in a mirror; that is, a ray of incoming light (incident ray) that strikes a surface and is reflected back in a single outgoing direction."
+    definition: "Light that behaves as in a mirror---that is, a ray of incoming light (incident ray) that strikes a surface and is reflected back in a single outgoing direction."
 
   - id: "stucco"
     display: "Stucco"
@@ -342,7 +342,7 @@ terms:
 
   - id: "tunic"
     display: "Tunic"
-    definition: "See *chiton*."
+    definition: "A simple garment that covered the upper body, starting at the shoulders and ending at a length somewhere between the hips and the ankles. The English word *chiton* originates from the Latin *chiton*, which means “mollusk”; that, in turn, is derived from the Greek word *khitōn*, meaning “tunic.” The tunic was a basic garment worn by both men and women in ancient Rome. Citizens and noncitizens alike wore chitons (usually white for men and red for women). Citizens might wear a chiton under the toga, especially on formal occasions. The length of the garment and the presence or lack of stripes (*clavi*), as well as their width and ornamentation, indicated the wearer’s status in Roman society."
 
   - id: "UVF/UVL"
     display: "Ultraviolet-induced visible fluorescence (UVF) / UV-visible fluorescence / Ultraviolet-induced visible luminescence (UVL) (historically UV/VisFL)"
@@ -354,11 +354,11 @@ terms:
 
   - id: "umber"
     display: "Umbers (raw and burnt umber)"
-    definition: "Natural earth pigments containing iron and manganese oxides and hydroxides. Used throughout history as earth tone pigments, umbers range in color from cream to brown, depending on the amount of iron and manganese present. Chemical formula: Iron (III)-oxide, partly hydrated + manganese oxide, Fe<sub>2</sub>O<sub>3</sub> (· H<sub>2</sub>O) + MnO<sub>2</sub> · (n H<sub>2</sub>O)"
+    definition: "Natural earth pigments containing iron and manganese oxides and hydroxides. Used throughout history as earth tone pigments, umbers range in color from cream to brown, depending on the amount of iron and manganese present. Chemical formula: Iron (III) oxide, partly hydrated + manganese oxide, Fe<sub>2</sub>O<sub>3</sub>(·H<sub>2</sub>O) + MnO<sub>2</sub>·(nH<sub>2</sub>O)"
 
   - id: "VIL"
     display: "Visible-induced infrared luminescence / visible-induced luminescence (VIL)"
-    definition: "An imaging technique in which visible light is used to induce the emission of infrared radiation (primarily in the near-infrared [NIR] region [700–1100 nm]) by certain materials. It has been used to identify historical blue pigments (principally Egyptian blue, Han blue, and Han purple) as well as many cadmium pigments and some natural dyes. These materials may show a very strong IR emission when excited by visible light. The set-up for this type of imaging requires an excitation source emitting only visible light with no IR component, an imager with sensitivity to NIR (such as an IR-modified digital camera), and a lens filter that absorbs all visible light and transmits NIR. "
+    definition: "An imaging technique in which visible light is used to induce the emission of infrared radiation (primarily in the near-infrared [NIR] region [700–1100 nm]) by certain materials. It has been used to identify historical blue pigments (principally Egyptian blue, Han blue, and Han purple) as well as many cadmium pigments and some natural dyes. These materials may show a very strong IR emission when excited by visible light. The setup for this type of imaging requires an excitation source emitting only visible light with no IR component, an imager with sensitivity to NIR (such as an IR-modified digital camera), and a lens filter that absorbs all visible light and transmits NIR. "
 
   - id: "VIVL"
     display: "Visible-induced visible luminescence (VIVL)"
@@ -366,7 +366,7 @@ terms:
 
   - id: "wreath"
     display: "Wreath"
-    definition: "An assortment of flowers, leaves, fruits, twigs, or other materials constructed to resemble a loop. Typically worn on the head in ceremonial events, wreaths have much history and symbolism associated with them. In the Greco-Roman world, wreaths were used as an adornment that could represent a person’s occupation, rank, achievements, and status."
+    definition: "An assortment of flowers, leaves, fruits, twigs, or other materials constructed to resemble a loop. Typically worn on the head in ceremonial events, wreaths have much history and symbolism associated with them. In the Greco-Roman world, wreaths were used as adornments that could represent a person’s occupation, rank, achievements, or status."
 
   - id: "x-radiography"
     display: "X-radiography"
@@ -378,7 +378,7 @@ terms:
 
   - id: "XRF/pXRF"
     display: "X-ray fluorescence (XRF) and portable X-ray fluorescence (pXRF) spectroscopy"
-    definition: "A technique used for nondestructive elemental analyses of inorganic materials, utilizing a focused beam of X-rays to excite the atoms on the surface of an artwork and measuring the emitted energy. These emissions provide characteristic fingerprints of the elements contained in the sampled area, allowing researchers to formulate hypotheses about the compounds contained therein."
+    definition: "Techniques used for nondestructive elemental analyses of inorganic materials, utilizing a focused beam of X-rays to excite the atoms on the surface of an artwork and measuring the emitted energy. These emissions provide characteristic fingerprints of the elements in the sampled area, allowing researchers to formulate hypotheses about the compounds contained therein."
 
   - id: "yellow ochre"
     display: "Yellow ochre"
