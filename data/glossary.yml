@@ -54,7 +54,7 @@ terms:
 
   - id: "clavus"
     display: "Clavus (pl. *clavi*)"
-    definition: "A vertical stripe or ribbonlike ornament, placed in pairs, that adorned the shoulders of a tunic. In the Roman period some *clavi* of specific width and/or color distinguished members of particular rank or status (e.g., senators or equestrians); in Egypt the *clavus* was used to denote Roman citizenship."
+    definition: "A vertical stripe or ribbonlike ornament, placed in pairs, that adorned the shoulders of a tunic. In Rome some *clavi* of specific width and/or color distinguished members of particular rank or status, but the significance of the *clavus* in an Egyptian context remains undetermined."
 
   - id: "consolidate"
     display: "Consolidate"
@@ -130,7 +130,7 @@ terms:
 
   - id: "green earth"
     display: "Green earth (terre verte)"
-    definition: "A naturally occurring aluminosilicate mineral pigment sourced in the Mediterranean region. Natural green earth contains the minerals glauconite and celadonite. Chemical formula: K[(Al,Fe<sub>3</sub>),(Fe<sub>2</sub>,Mg)&#93;(AlSi<sub>3</sub>,Si<sub>4</sub>)O<sub>10</sub>(OH)<sub>2</sub>"
+    definition: "A naturally occurring Fe, Mg, A1, K hydrosilicate mineral pigment colored by glauconite or celadonite, with other associated minerals."
 
   - id: "ground"
     display: "Ground (preparation layer)"
@@ -206,7 +206,7 @@ terms:
 
   - id: "madder"
     display: "Madder"
-    definition: "A dyestuff derived from the root of the madder plant (*Rubia tinctorum*), which is native to the eastern Mediterranean and Persia. Likely introduced to Egypt by the Greeks or Romans, madder was used throughout antiquity for coloring textiles and as a pigment. Chemical formula: Alizarin (1,2-dihydroxyanthraquinone), Purpurin (1,2,4-trihydroxyanthraquinone)"
+    definition: "A dyestuff derived from the root of the madder plant (*Rubia tinctorum*), which is native to the eastern Mediterranean and Persia. Likely introduced to Egypt by the Greeks or Romans, madder was used throughout antiquity for coloring textiles and as a pigment. Chemical name: Alizarin (1,2-dihydroxyanthraquinone), Purpurin (1,2,4-trihydroxyanthraquinone)"
 
   - id: "malachite"
     display: "Malachite"
