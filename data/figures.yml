@@ -172,14 +172,14 @@ figure_list:
     src: figures/fig_3_8.jpg
     alt: ""
     label: "Figure 3.8"
-    caption: "View of top of a small chip of pink paint from a mummy portrait, Romano-Egyptian, AD 100–200. Media not identified, 65 x 12.2 cm (25 9/16 x 4 13/16 in.). Copenhagen, Ny Carlsberg Glyptotek, ÆIN 686-687. Sample courtesy of Lin Rosa Spaabæk; backscattered scanning electron microscope image."
+    caption: "View of top of a small chip of pink paint from a mummy portrait, Romano-Egyptian, AD 100–200. Media not identified, 65 x 12.2 cm (25 9/16 x 4 13/16 in.). Copenhagen, Ny Carlsberg Glyptotek, ÆIN 686-687. Backscattered scanning electron microscope image; sample courtesy of Lin Rosa Spaabæk."
     credit: ""
 
   - id: "fig_3_9"
     src: figures/fig_3_9.jpg
     alt: ""
     label: "Figure 3.9"
-    caption: "Funerary Shroud and Mask, ca. mid-third century AD. Excavated at Thebes, Deir el-Bahari, by Edouard Naville in 1897. Water-soluble medium on linen and stucco. H: 93.5 cm (36 13/16 in.). Boston, Museum of Fine Arts, Egypt Exploration Fund by subscription, 97.1100."
+    caption: "Funerary Shroud and Mask, ca. mid-third century AD. Excavated at Thebes, Deir el-Bahari, by Edouard Naville in 1897. Water-soluble medium on linen and stucco, H: 93.5 cm (36 13/16 in.). Boston, Museum of Fine Arts, Egypt Exploration Fund by subscription, 97.1100."
     credit: "Photo: Jessica Arista © 2018 Museum of Fine Arts, Boston"
 
   - id: "fig_3_10"
@@ -309,7 +309,7 @@ figure_list:
     src: figures/fig_5_2.jpg
     alt: ""
     label: "Figure 5.2"
-    caption: "VIL image showing the presence of Egyptian blue on the tunic, gems, face, and hair of Fayum Mummy Portrait of a Woman, Romano-Egyptian, second to third century AD. Encaustic on wood panel, 34.6 x 20.3 cm (13 5/8 x 8 in.). Stanford, Iris & B. Gerald Cantor Center for Visual Arts, Stanford Family Collections, JLS.22225"
+    caption: "VIL image showing the presence of Egyptian blue on the tunic, gems, face, and hair of the portrait in fig. 5.1."
     credit: ""
 
   - id: "fig_5_3"
@@ -337,7 +337,7 @@ figure_list:
     src: figures/fig_5_6_b.jpg
     alt: ""
     label: "Figure 5.6b"
-    caption: "VIL image showing the presence of Egyptian blue in the peacock's feathers and Harpocrates' eyes and headdress on Horus Harpocrates on Peacock, Romano-Egyptian, first century AD or later. Terracotta, H: 17.8 cm (7 in.). Amsterdam, Allard Pierson Museum, APM07232"
+    caption: "VIL image showing the presence of Egyptian blue in the peacock's feathers and Harpocrates' eyes and headdress on fig. 5.6a."
     credit: ""
 
   - id: "fig_5_7_a"
@@ -372,7 +372,7 @@ figure_list:
     src: figures/fig_6_5_a.jpg
     alt: ""
     label: "Figure 6.5a"
-    caption: "VIS and VIL images showing Egyptian blue used as a blue pigment. Portrait: EA65346"
+    caption: "VIS and VIL images showing Egyptian blue used as blue pigment in Mummy Portrait of a Woman, Romano-Egyptian, AD 160–170. er-Rubayat. Encaustic on lime wood with gilding, 44.4 x 16 cm (17 1/2 x 6 5/16 in.). London, The British Museum, 1939,0324.211 and EA65346."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_5_b"
@@ -386,42 +386,42 @@ figure_list:
     src: figures/fig_6_5_c_1.jpg
     alt: ""
     label: "Figure 6.5c-1"
-    caption: "VIS and VIL images showing Egyptian blue used in skin tones. Portrait: EA74716"
+    caption: "VIS and VIL images showing Egyptian blue used in skin tones in Mummy Portrait of a Woman, Romano-Egyptian, AD 55–70. Hawara. Encaustic on lime wood, 35.8 x 20.2 cm (14 1/8 x 7 15/16 in.). London, The British Museum, 1994,0521.14 and EA74716."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_5_c_2"
     src: figures/fig_6_5_c_2.jpg
     alt: ""
     label: "Figure 6.5c-2"
-    caption: "VIS and VIL images showing Egyptian blue used in skin tones. Portrait: EA74718"
+    caption: "VIS and VIL images showing Egyptian blue used in skin tones in Mummy Portrait of a Man, Romano-Egyptian, AD 80–100. Hawara. Encaustic on lime wood, 42.5 x 20.9 cm (16 3/4 x 8 3/16 in.). London, The British Museum, 1994,0521.16 and EA74718."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_5_d"
     src: figures/fig_6_5_d.jpg
     alt: ""
     label: "Figure 6.5d"
-    caption: "VIS and VIL images showing Egyptian blue used as a highlight. Portrait: EA29972"
+    caption: "VIS and VIL images showing Egyptian blue used as a highlight in Mummy Portrait of a Woman, Romano-Egyptian, AD 100–120. Saqqara. Encaustic on lime wood with gilding, 37.4 x 17 cm (14 3/4 x 6 11/16 in.). London, The British Museum, 1856,0814.1 and EA29772."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_6_a"
     src: figures/fig_6_6_a.jpg
     alt: ""
     label: "Figure 6.6a"
-    caption: "VIS and UVL images showing pink lake used as a pink pigment. Portrait: EA74713"
+    caption: "VIS and UVL images showing pink lake used as a pink pigment in Mummy Portrait of a Woman, Romano-Egyptian, AD 55–70. Hawara. Encaustic on lime wood, 41.6 x 21.5 cm (16 3/8 x 8 1/2 in.). London, The British Museum, 1994,0521.11 and EA74713."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_6_b"
     src: figures/fig_6_6_b.jpg
     alt: ""
     label: "Figure 6.6b"
-    caption: "VIS and UVL images showing pink lake used in mixtures to produce dark red. Portrait: EA65344"
+    caption: "VIS and UVL images showing pink lake used in mixtures to produce dark red in Mummy Portrait of a Woman, Romano-Egyptian, ca. AD 200. er-Rubayat. Encaustic on oak, 38 x 23 cm (15 x 9 1/16 in.). London, The British Museum, 1939,0324.209 and EA65344."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_6_c_1"
     src: figures/fig_6_6_c_1.jpg
     alt: ""
     label: "Figure 6.6c-1"
-    caption: "VIS and UVL images showing pink lake used in mixtures to produce skin tones. Portrait: EA63394"
+    caption: "VIS and UVL images showing pink lake used in mixtures to produce skin tones in Mummy Portrait of a Woman, Romano-Egyptian, AD 160–180. er-Rubayat. Tempera on wood, 29 x 16.6 cm (11 3/8 x 6 1/2 in.). London, The British Museum, 1931,0711.1 and EA63394."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_6_c_2"
@@ -435,42 +435,42 @@ figure_list:
     src: figures/fig_6_6_d.jpg
     alt: ""
     label: "Figure 6.6d"
-    caption: "VIS and UVL images showing pink lake used in mixtures to produce highlights. Portrait: EA5619"
+    caption: "VIS and UVL images showing pink lake used in mixtures to produce highlights in Fragmentary Mummy Portrait of a Woman, Romano-Egyptian, AD 140–160. Tempera on lime wood, 30.5 x 7.4 cm (12 x 2 7/8 in.). London, The British Museum, EA5619."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_7_a"
     src: figures/fig_6_7_a.jpg
     alt: ""
     label: "Figure 6.7a"
-    caption: "VIS and IRRFC images showing carbon black used as a black pigment. Portrait: EA74711"
+    caption: "VIS and IRRFC images showing carbon black used as a black pigment in Mummy Portrait of a Young Man, Romano-Egyptian, AD 80–120. Hawara. Encaustic and tempera on lime wood, 35.8 x 20.8 cm (14 1/8 x 8 3/16 in.). London, The British Museum, 1994,0521.9 and EA74711."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_7_b"
     src: figures/fig_6_7_b.jpg
     alt: ""
     label: "Figure 6.7b"
-    caption: "VIS and IRRFC images showing carbon black used in mixtures to produce gray tones and evoke shadows. Portrait: EA74704"
+    caption: "VIS and IRRFC images showing carbon black used in mixtures to produce gray tones and evoke shadows in Mummy Portrait of a Young Man, Romano-Egyptian, AD 150–170. Hawara. Encaustic on lime wood with gilding, 42.7 x 22.2 cm (16 13/16 x 8 3/4 in.). London, The British Museum, 1994,0521.2 and EA74704."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_7_c"
     src: figures/fig_6_7_c.jpg
     alt: ""
     label: "Figure 6.7c"
-    caption: "VIS and IRRFC images showing a case in which visually dark materials are IR transparent and hence not carbon based. Portrait: EA74709"
+    caption: "VIS and IRRFC images showing a case in which visually dark materials are IR transparent and hence not carbon based. Portrait of a Woman, Romano-Egyptian, AD 40–70. Hawara. Encaustic on linen shroud with gilding, 51.7 x 37 cm (20 3/8 x 14 9/16 in.). London, The British Museum, 1994,0521.7 and EA74709."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_8_a"
     src: figures/fig_6_8_a.jpg
     alt: ""
     label: "Figure 6.8a"
-    caption: "VIS and UVRFC images showing ochres used as yellow pigment. Portrait: EA74716"
+    caption: "VIS and UVRFC images showing ochres used as yellow pigment in the portrait shown in fig. 6.5c-1."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_8_b"
     src: figures/fig_6_8_b.jpg
     alt: ""
     label: "Figure 6.8b"
-    caption: "VIS and UVRFC images showing ochres used as red pigment. Portrait: EA63395"
+    caption: "VIS and UVRFC images showing ochres used as red pigment in Mummy Portrait of a Woman Holding an Unguentarium, Romano-Egyptian, AD 100–120. er-Rubayat. Stucco on linen, 37.5 x 18.2 cm (14 3/4 x 7 1/8 in.). London, The British Museum, 1931,0711.2 and EA63395."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_8_c"
@@ -484,7 +484,7 @@ figure_list:
     src: figures/fig_6_9_a.jpg
     alt: ""
     label: "Figure 6.9a"
-    caption: "VIS and IRRFC images showing indigo used as a blue pigment. Portrait: EA65343"
+    caption: "VIS and IRRFC images showing indigo used as a blue pigment in Mummy Portrait of a Woman, Romano-Egyptian, ca. AD 200. er-Rubayat. Encaustic on oak, 33 x 18 cm (13 x 7 1/8 in.). London, The British Museum, 1939,0324.208 and EA65343."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_9_b"
@@ -498,35 +498,35 @@ figure_list:
     src: figures/fig_6_9_c.jpg
     alt: ""
     label: "Figure 6.9c"
-    caption: "VIS and IRRFC images showing indigo used in mixtures to produce purple-toned pigments for the garment and beads of the lower necklace. Portrait: EA74706"
+    caption: "VIS and IRRFC images showing indigo used in mixtures to produce purple-toned pigments for the garment and beads of the lower necklace in Mummy Portrait of a Woman, Romano-Egyptian, AD 100–120. Hawara. Encaustic on lime wood, 38.2 x 20.5 cm (15 x 8 1/16 in.). London, The British Museum, 1994,0521.4 and EA74706."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_9_d"
     src: figures/fig_6_9_d.jpg
     alt: ""
     label: "Figure 6.9d"
-    caption: "VIVL and MBR images showing the distribution of pink lake and indigo pigments in the garment and necklace beads. Portrait: EA74706"
+    caption: "VIVL and MBR images showing the distribution of pink lake and indigo pigments in the garment and necklace beads in the portrait shown in fig. 6.9c."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_10_a"
     src: figures/fig_6_10_a.jpg
     alt: ""
     label: "Figure 6.10a"
-    caption: "VIS and IRRFC images showing the use of copper-based inorganic pigments to depict green gemstones. Portrait: EA63395"
+    caption: "VIS and IRRFC images showing the use of copper-based inorganic pigments to depict green gemstones in the portrait shown in fig. 6.8b."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_10_b"
     src: figures/fig_6_10_b.jpg
     alt: ""
     label: "Figure 6.10b"
-    caption: "VIS and IRRFC images showing the use of copper-based organometallic pigments to depict green gemstones. Portrait: EA74706"
+    caption: "VIS and IRRFC images showing the use of copper-based organometallic pigments to depict green gemstones in the portrait shown in fig. 6.9c."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_10_c"
     src: figures/fig_6_10_c.jpg
     alt: ""
     label: "Figure 6.10c"
-    caption: "VIS and IRRFC images showing the use of green earth pigments to depict green gemstones. Portrait: EA63394"
+    caption: "VIS and IRRFC images showing the use of green earth pigments to depict green gemstones in the portrait shown in fig. 6.6c-1."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_7_1"
@@ -547,7 +547,7 @@ figure_list:
     src: figures/fig_7_4.jpg
     alt: ""
     label: "Figure 7.4"
-    caption: "Transmission curves for the MidOpt BP660 (dashed line) and BP735 (dotted line) filters overlaid with a FORS spectrum for indigo in cow hide glue (solid line)."
+    caption: "Transmission curves for the MidOpt BP660 (dashed line) and BP735 (dotted line) filters overlaid with a FORS spectrum for indigo in cowhide glue (solid line)."
     credit: ""
 
   - id: "fig_7_5"
@@ -1009,21 +1009,21 @@ figure_list:
     alt: ""
     label: "Figure 11.7"
     caption: "Funerary Portrait, Romano-Egyptian, late third to fourth century AD. Tempera on wood, 30.5 x 15.2 cm (12 x 6 in.). Los Angeles County Museum of Art, Gift of Phil Berg Collection, M.71.73.62"
-    credit: ""
+    credit: "© Museum Associates / LACMA"
 
   - id: "fig_11_8"
     src: figures/fig_11_8.jpg
     alt: ""
     label: "Figure 11.8"
     caption: "Reverse of fig. 11.7."
-    credit: "Image: Yosi Pozeilov, Los Angeles County Museum of Art"
+    credit: "Image: Yosi Pozeilov © Museum Associates / LACMA"
 
   - id: "fig_11_9"
     src: figures/fig_11_9.jpg
     alt: ""
     label: "Figure 11.9"
     caption: "UVR results for fig. 11.7."
-    credit: "Image: Yosi Pozeilov, Los Angeles County Museum of Art"
+    credit: "Image: Yosi Pozeilov © Museum Associates / LACMA"
 
   - id: "fig_12_1"
     src: figures/fig_12_1.jpg
@@ -1092,7 +1092,7 @@ figure_list:
     src: figures/fig_14_1.jpg
     alt: ""
     label: "Figure 14.1"
-    caption: "Sketch, shown in NIR illumination, with instructions in Greek for completing the portrait, found on the reverse of a nearly effaced portrait, Tebtunis, Egypt, second century AD. Encaustic paint and ink on sycomore fig panel, 34.8 x 22.5 x 1.2 cm (13 11/16 x 8 7/8 x 1/2 in.). Berkeley, University of California, Phoebe A. Hearst Museum of Anthropology, 6-21378a."
+    caption: "Sketch, shown in NIR illumination, with instructions in Greek for completing the portrait, found on the reverse of a nearly effaced portrait, Tebtunis, Egypt, second century AD. Encaustic paint and ink on sycomore fig panel, 34.8 x 22.5 cm (13 11/16 x 8 7/8 in.). Berkeley, University of California, Phoebe A. Hearst Museum of Anthropology, 6-21378a."
     credit: "Courtesy of Phoebe A. Hearst Museum of Anthropology and the Regents of the University of California. Photo: M. Walton"
 
   - id: "fig_14_2"
@@ -1106,7 +1106,7 @@ figure_list:
     src: figures/fig_14_3.jpg
     alt: ""
     label: "Figure 14.3"
-    caption: "Mummy Portrait, Romano-Egyptian, second century AD. Tebtunis, Egypt. Encaustic paint on sycomore fig panel, 34.8 x 22.5 x 1.2 cm (13 11/16 x 8 7/8 x 1/2 in.). Berkeley, University of California, Phoebe A. Hearst Museum of Anthropology, 6-21378b."
+    caption: "Mummy Portrait, Romano-Egyptian, second century AD. Tebtunis, Egypt. Encaustic paint on sycomore fig panel, 34.8 x 22.5 cm (13 11/16 x 8 7/8 in.). Berkeley, University of California, Phoebe A. Hearst Museum of Anthropology, 6-21378b."
     credit: "Courtesy of Phoebe A. Hearst Museum of Anthropology and the Regents of the University of California"
 
   - id: "fig_15_1_a"
