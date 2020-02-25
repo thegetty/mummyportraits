@@ -251,6 +251,13 @@
 ============================================================================= */
 @media print {
   
+  /* Accounts for pdf output of cover and first blank page. Numbering
+    should alwys start at 1 on the half title page. This negative number
+    hack on the cover seems to do the trick */
+  .quire-page--frontmatter.quire-cover {
+    counter-reset: page -1;
+  }
+  
   /* To make backmatter (Bibliography, Glossary and Contributors) two-column */
   .quire-page--backmatter .quire-page__content {
     -moz-column-count: 2;
