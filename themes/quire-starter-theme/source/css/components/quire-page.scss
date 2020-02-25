@@ -386,7 +386,7 @@ html {
           hr {
             display: none;
           }
-          * {
+          *:not(sup):not(sub) {
             line-height: 1.6em;
           }
           @if $theme == classic {
