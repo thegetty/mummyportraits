@@ -258,6 +258,21 @@
     counter-reset: page -1;
   }
   
+  /* For `type: splash` pages that are only a heading and shouldn't
+    have page numbers at the bottom. I added `class: no-footer` to them. */
+  @page splash-blank {
+    background-color: #f9f9f2;
+    @bottom-right {
+      content: none;
+    }  
+    @bottom-left {
+      content: none;
+    }
+  }
+  .quire-page--no-footer.quire-splash {
+    page: splash-blank;
+  }
+  
   /* To make backmatter (Bibliography, Glossary and Contributors) two-column */
   .quire-page--backmatter .quire-page__content {
     -moz-column-count: 2;
