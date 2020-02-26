@@ -123,8 +123,8 @@ figure_list:
     src: figures/fig_3_1.jpg
     alt: ""
     label: "Figure 3.1"
-    caption: "Mummy Portrait of a Woman with Earrings, Romano-Egyptian, ca. AD 130–140. Encaustic on linden wood, 35.3 x 22.5 cm (13 7/8 x 8 7/8 in.). Cambridge, Harvard Art Museums / Arthur M. Sackler Museum, Gift of Dr. Denman W. Ross, 1923.60."
-    credit: "Photo: Imaging Department © President and Fellows of Harvard College"
+    caption: "Mummy Portrait of a Woman with Earrings, Romano-Egyptian, ca. AD 130–140. Encaustic on linden wood, 35.3 x 22.5 cm (13 <nobr>7/8</nobr> x 8 7/8 in.). Cambridge, Harvard Art Museums / Arthur M. Sackler Museum, Gift of Dr. Denman W. Ross, 1923.60."
+    credit: "Photo: © President and Fellows of Harvard College"
 
   - id: "fig_3_2"
     src: figures/fig_3_2.jpg
@@ -172,8 +172,8 @@ figure_list:
     src: figures/fig_3_8.jpg
     alt: ""
     label: "Figure 3.8"
-    caption: "View of top of a small chip of pink paint from a mummy portrait, Romano-Egyptian, AD 100–200. Media not identified, 65 x 12.2 cm (25 9/16 x 4 13/16 in.). Copenhagen, Ny Carlsberg Glyptotek, ÆIN 686-687. Backscattered scanning electron microscope image; sample courtesy of Lin Rosa Spaabæk."
-    credit: ""
+    caption: "View of top of a small chip of pink paint from a mummy portrait, Romano-Egyptian, AD 100–200. Media not identified, 65 x 12.2 cm (25 9/16 x 4 13/16 in.). Copenhagen, Ny Carlsberg Glyptotek, ÆIN 686-687."
+    credit: "Backscattered scanning electron microscope image; sample courtesy of Lin Rosa Spaabæk"
 
   - id: "fig_3_9"
     src: figures/fig_3_9.jpg
@@ -379,7 +379,7 @@ figure_list:
     src: figures/fig_6_5_b.jpg
     alt: ""
     label: "Figure 6.5b"
-    caption: "VIS and VIL images showing Egyptian blue used in mixtures with pink lake. Portrait: EA74717"
+    caption: "VIS and VIL images showing Egyptian blue used in mixtures with pink lake in Mummy Portrait of a Woman, Romano-Egyptian, AD 190–220. Hawara. Encaustic on fir wood with gilding, 32.1 x 22.7 cm (12 5/8 x 8 15/16 in.). The British Museum, 1994,0521.15 and EA74717."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_5_c_1"
@@ -1200,18 +1200,11 @@ figure_list:
     caption: "Portrait of a Young Man, Romano-Egyptian, AD 140–160. Hawara, Egypt. Wood and beeswax, 39.6 x 27.8 cm (15 5/8 x 10 15/16 in.). London, Petrie Museum of Egyptian Archaeology, University College London, UC 19610."
     credit: "Courtesy of the Petrie Museum of Egyptian Archaeology, UCL"
 
-  - id: "fig_17_3_b_bottom"
-    src: figures/fig_17_3_b_bottom.jpg
+  - id: "fig_17_3_b"
+    src: figures/fig_17_3_b.jpg
     alt: ""
     label: "Figure 17.3b"
     caption: "The bottom chromatogram shows the beeswax compounds identified in figure 17.3a. When compared with fresh beeswax (top chromatogram), an increase in palmitic acid (C16) and a decrease in hydrocarbons (H) and beeswax esters are evident."
-    credit: ""
-
-  - id: "fig_17_3_b_top"
-    src: figures/fig_17_3_b_top.jpg
-    alt: ""
-    label: "Figure 17.3b"
-    caption: ""
     credit: ""
 
   - id: "fig_17_4_a"
