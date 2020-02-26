@@ -1,9 +1,11 @@
 ---
-title: APPEAR Partners
+title: APPEAR Participants
 weight: 315
 type: page
 
 ---
+
+{{< q-class "participants-list" >}}
 
 - Allard Pierson Museum, Amsterdam
 - Antikensammlung, Staatliche Museen zu Berlin
@@ -50,3 +52,5 @@ type: page
 - University of Pennsylvania Museum of Archaeology and Anthropology, Philadelphia
 - The Walters Art Museum, Baltimore
 - Yale University Art Gallery, New Haven, CT
+
+{{< /q-class >}}

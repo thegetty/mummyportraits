@@ -511,5 +511,11 @@
   }
 }
 
-
-
+/* Style participants list */
+.participants-list ul {
+  margin-left: 0;
+}
+.quire-page__content .container .content .participants-list ul li::before {
+  content: "";
+  margin-left: 0;
+}
