@@ -11,7 +11,7 @@ contributor:
 type: splash
 class: page-one
 image:
-copyright: "© 2020 J. Paul Getty Trust. Originally published in *Mummy Portraits of Roman Egypt: Emerging Research from the APPEAR Project* © 2020 J. Paul Getty Trust, www.getty.edu/publications/mummyportraits (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))."
+# copyright: added directly at bottom of Markdown
 ---
 
 These proceedings mark the end of the first four years of an international collaboration on the study of funerary {{< q-def "panel" >}} painting from Roman Egypt, known as APPEAR: Ancient Panel Painting, Examination, Analysis and Research. The APPEAR initiative was developed to create a platform for expanding our understanding of the materials and technology used to produce works of art, especially mummy portraits, painted in the first through third centuries AD during the Roman occupation of Egypt. The papers in this publication are the result of a conference held at the J. Paul Getty Museum at the Getty Villa, Malibu, on May 17 and 18, 2018; it was there that the results stemming from the APPEAR project were first shared. The Getty-organized event brought together more than one hundred attendees to hear presentations by twenty-one project participants on the current and ongoing technical research of ancient painting from Roman Egypt. Over the two-day conference, twelve papers, six lightning talks / posters, and a keynote lecture addressed the topics that have developed through or contributed to the APPEAR project. The speakers---representing five countries and nineteen museums, with backgrounds in conservation, science, Egyptology, classics, and art history---presented new research on the history, {{< q-def "provenance" >}}, materials, methods, technical imaging, and analysis of ancient painted artifacts.
@@ -57,3 +57,9 @@ The following papers explore pigments as well as three colorants that were manuf
 Finally, the extremely complex issue of binding media is addressed by the Getty Conservation Institute, the Ny Carlsburg Glyptotek, and the Art Institute of Chicago. Two papers are collaborations that examine the organic binding materials used for ancient paintings, to characterize their composition and identify new mixtures. ([See Ch. 17](/part-two/17/) and [Ch. 18](/part-two/18/)) A third study on binding media, in collaboration with the Metropolitan Museum of Art, proposes new terminology to describe the information we are gathering today and confronts the discussions still to evolve in the definition of the terms and techniques associated with ancient materials and technology. [(See Ch. 1)](/part-one/1/)
 
 Within these proceedings, eighteen contributions to the APPEAR conference focus on the identity, source, use, and function of the ancient artists’ painting methods. Additionally, the exploration of how these artifacts were acquired, manufactured, imported, identified, and reused has laid a foundation for ongoing collective studies. This collaborative working approach reveals the broad scope of information possible in the study of ancient painting. Questions still to be answered as well as new directions of research and technological advances will continue to make the APPEAR project a valuable scholarly resource and a conduit for the exchange of future discoveries in the study of ancient art.
+
+{{< q-class "backmatter page-copyright-notice" >}}
+
+© 2020 J. Paul Getty Trust<span class='is-screen-only remove-from-epub'>. Originally published in *Mummy Portraits of Roman Egypt: Emerging Research from the APPEAR Project* © 2020 J. Paul Getty Trust, www.getty.edu/publications/mummyportraits (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).</span>
+
+{{< /q-class >}}
