@@ -519,3 +519,10 @@
   content: "";
   margin-left: 0;
 }
+
+/* Style copyright notices included at the bottom of each essay */
+.quire-page__content .container .content .backmatter.page-copyright-notice {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #333;
+}
