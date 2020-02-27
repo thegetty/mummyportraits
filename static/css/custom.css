@@ -526,3 +526,27 @@
   padding-top: 1rem;
   border-top: 1px solid #333;
 }
+
+/* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data p {
+  display: none;
+}
+.quire-page__content .container .content .cip-data ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.quire-page__content .container .content .cip-data ul li {
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+.quire-page__content .container .content .cip-data ul li::before {
+  display: none;
+}
+@media print {
+  .quire-page__content .container .content .cip-data {
+    column-break-before: always;
+  }
+}
