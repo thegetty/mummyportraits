@@ -514,6 +514,40 @@
   }
 }
 
+
+/* URL and EMDASH LINE BREAKS
+============================================================================= */
+
+/* Adjust URL breaks in PDF */
+@media print {
+  /* PrinceXML doesn’t seem to support <wbr> embedded in the URLs as a
+  method for suggesting places to break words, instead we're using here
+  the prince-text-replace specialty attribute to insert zero-width-spaces */
+  a {
+    prince-text-replace: "/" "\200B/"
+                          "~" "\200B~"
+                          "." "\200B."
+                          "," "\200B,"
+                          "-" "\200B-"
+                          "_" "\200B_"
+                          "?" "\200B?"
+                          "#" "\200B#"
+                          "%" "\200B%"
+                          "=" "\200B="
+                          "&" "\200B&"
+                          "+" "\200B+"
+                          "\200B/\200B/" "//\200B" !important;
+  }
+}
+
+/* Following the same pattern as above, this improves breaking after 
+em dashes */
+@media print {
+  body * {
+    prince-text-replace: "—" "—\200B";
+  }
+}
+
 /* Style participants list */
 .participants-list ul {
   margin-left: 0;
