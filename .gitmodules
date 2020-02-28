@@ -1,3 +1,6 @@
 [submodule "themes/quire-starter-theme"]
 	path = themes/quire-starter-theme
 	url = https://github.com/gettypubs/quire-starter-theme.git
+[submodule "static/img/figures"]
+	path = static/img/figures
+	url = git@github.com:thegetty/mummyportraits-images.git
