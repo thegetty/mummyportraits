@@ -5,6 +5,13 @@
   display: none;
 }
 
+.quire-contributor a {
+  color: #333;
+}
+.quire-contributor a:hover {
+  color: #7a3227;
+}
+
 .quire-splash .quire-page__header .hero-body .quire-page__header__title {
   color: #b44a3a;
 }
