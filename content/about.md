@@ -27,7 +27,7 @@ http://www.getty.edu/publications/mummyportraits/
 
 ## Revision History
 
-Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at https://github.com/thegetty/mummyportraits/, where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
+Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/mummyportraits/](https://github.com/thegetty/mummyportraits/), where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
 
 ### August 11, 2020
 
@@ -64,7 +64,7 @@ The text of this work and figs. 4.2–3, 4.10, 4.13, 8.3–4, 11.2–5, and 17.4
 Getty Publications<br />
 1200 Getty Center Drive, Suite 500<br />
 Los Angeles, California 90049-1682<br />
-[www.getty.edu/publications](http://www.getty.edu/publications/)<br />
+[getty.edu/publications](http://www.getty.edu/publications/)<br />
 
 Elizabeth S. G. Nicholson, *Project Editor*<br />
 Amanda Sparrow, *Manuscript Editor*<br />
@@ -107,5 +107,11 @@ Library of Congress Cataloging-in-Publication Data
 {{< /q-class >}}
 
 Front cover: Mummy Portrait of a Woman, Romano-Egyptian, AD 100. Encaustic on linden wood, gilt, linen, 48 × 36 × 12.8 cm (18 7/8 × 14 3/16 × 5 1/16 in.). Los Angeles, J. Paul Getty Museum, 81.AP.42
+
+{{< q-class "awn-logo" >}}
+
+![This book is part of 'Ancient Worlds Now: A Future for the Past', a multifaceted Getty initiative to promote a greater understanding of the world’s cultural heritage and its value to global society](/img/awn-logo-and-line.png)
+
+{{< /q-class >}}
 
 {{< /q-class >}}

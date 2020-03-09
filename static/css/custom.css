@@ -218,6 +218,20 @@
     height: .25in;
   }
 }
+
+/* Styling for Ancient Worlds Now logo and tagline */
+.awn-logo {
+  max-width: 300px;
+  margin-top: 6rem;
+}
+@media print {
+  #copyright img[alt="awn-logo"] {
+    height: 1.325in;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+  }
+}
   
 /* GLOSSARY
 ============================================================================= */
