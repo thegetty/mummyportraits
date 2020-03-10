@@ -11,9 +11,23 @@
 .quire-contributor a:hover {
   color: #7a3227;
 }
+@media print {
+  .quire-contributor a {
+    color: #000;
+  }
+}
 
 .quire-splash .quire-page__header .hero-body .quire-page__header__title {
   color: #b44a3a;
+}
+
+.quire-page h2 {
+  text-transform: none;
+}
+@@media print {
+  .quire-page h2 {
+    print: #363636;
+  }
 }
 
 .quire-page__content .content .footnote-ref a {
