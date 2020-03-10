@@ -6,9 +6,9 @@
 // To avoid errors, variables names should not be changed or deleted, and be
 // sure to leave the colons (:) and semi-colons (;) in place.
 
-$accent-color: null;
+$accent-color: #b44a3a;
 $content-background-color: null; // main text area background color
-$secondary-background-color: null; // only for modern theme
+$secondary-background-color: #f9f9f2; // only for modern theme
 
 // Declare the theme: modern/classic
 $theme: modern;
@@ -60,7 +60,7 @@ $print-bleed: .125in;
 $print-base-font-size: 8.5pt;
 $print-text-color: $black;
 
-$print-splash-color: $off-white;
+$print-splash-color: #f9f9f2;
 
 $print-entry-image-color: $rich-black;
 $print-entry-image-display: all; // first | all
@@ -119,8 +119,8 @@ $quire-navbar-text-color: null;
 // Cover colors
 // -----------------------------------------------------------------------------
 // Declare cover gradient colors (make them the same for a solid background)
-$quire-cover-color-1: null;
-$quire-cover-color-2: null;
+$quire-cover-color-1: darken($secondary-background-color, 10%);
+$quire-cover-color-2: darken($secondary-background-color, 10%);
 
 @if $theme == classic {
   $quire-cover-color-1: $accent-color !default;
