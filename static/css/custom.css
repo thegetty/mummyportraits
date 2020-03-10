@@ -570,11 +570,15 @@ em dashes */
 }
 
 /* Style participants list */
-.participants-list ul {
+
+.quire-page__content .container .content .participants-list ul,
+.quire-page__content .container .content .participants-list ul li {
   margin-left: 0;
+  text-align: center;
 }
 .quire-page__content .container .content .participants-list ul li::before {
   content: "";
+  width: 0;
   margin-left: 0;
 }
 
