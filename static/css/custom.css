@@ -414,10 +414,6 @@
   border-left-width: 0;
   border-right-width: 0;
 }
-.quire-figure.table {
-  border-top-width: 0;
-  padding-top: 0;
-}
 .quire-deepzoom .leaflet-table table th,
 .quire-figure.table th {
   background-color: #b44a3a;
