@@ -42,6 +42,8 @@ html {
 // .quire-page
 // -----------------------------------------------------------------------------
 .quire-page {
+  min-height: calc(100vh - #{$navbar-height});
+
   h1,
   h2,
   h3,
@@ -210,12 +212,6 @@ html {
               color: $print-text-color;
             }
             border-width: 0 0 1px;
-          }
-          tbody {
-            td {
-              border-left: 4px solid transparent;
-              border-right: 4px solid transparent;
-            }
           }
         }
 
@@ -386,7 +382,7 @@ html {
           hr {
             display: none;
           }
-          *:not(sup):not(sub) {
+          * {
             line-height: 1.6em;
           }
           @if $theme == classic {
