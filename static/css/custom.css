@@ -1,13 +1,3 @@
-/* TEMPORARY -- to aid in editing
-============================================================================= */
-
-@media print {
-  .quire-citation__button.glossary-button {
-    background-color: #ffedeb;
-  }
-}
-
-
 /* MISC
 ============================================================================= */
 
@@ -15,8 +5,29 @@
   display: none;
 }
 
+.quire-contributor a {
+  color: #333;
+}
+.quire-contributor a:hover {
+  color: #7a3227;
+}
+@media print {
+  .quire-contributor a {
+    color: #000;
+  }
+}
+
 .quire-splash .quire-page__header .hero-body .quire-page__header__title {
   color: #b44a3a;
+}
+
+.quire-page h2 {
+  text-transform: none;
+}
+@@media print {
+  .quire-page h2 {
+    print: #363636;
+  }
 }
 
 .quire-page__content .content .footnote-ref a {
@@ -206,13 +217,30 @@
     display: none;
   }
   #copyright .quire-page__content {
-    max-width: 90%;
+    column-count: 2;
+    column-gap: .1875in;
+    column-fill: auto;
+    max-width: 100%;
     height: 100%;
     margin: 0;
     text-align: left;
   }
   #copyright img {
     height: .25in;
+  }
+}
+
+/* Styling for Ancient Worlds Now logo and tagline */
+.awn-logo {
+  max-width: 300px;
+  margin-top: 6rem;
+}
+@media print {
+  #copyright img[alt="awn-logo"] {
+    height: 1.325in;
+    position: fixed;
+    bottom: 0;
+    left: 0;
   }
 }
   
@@ -250,6 +278,28 @@
 /* PDF OUTPUT
 ============================================================================= */
 @media print {
+  
+  /* Accounts for pdf output of cover and first blank page. Numbering
+    should alwys start at 1 on the half title page. This negative number
+    hack on the cover seems to do the trick */
+  .quire-page--frontmatter.quire-cover {
+    counter-reset: page -1;
+  }
+  
+  /* For `type: splash` pages that are only a heading and shouldn't
+    have page numbers at the bottom. I added `class: no-footer` to them. */
+  @page splash-blank {
+    background-color: #f9f9f2;
+    @bottom-right {
+      content: none;
+    }  
+    @bottom-left {
+      content: none;
+    }
+  }
+  .quire-page--no-footer.quire-splash {
+    page: splash-blank;
+  }
   
   /* To make backmatter (Bibliography, Glossary and Contributors) two-column */
   .quire-page--backmatter .quire-page__content {
@@ -364,10 +414,6 @@
   border-left-width: 0;
   border-right-width: 0;
 }
-.quire-figure.table {
-  border-top-width: 0;
-  padding-top: 0;
-}
 .quire-deepzoom .leaflet-table table th,
 .quire-figure.table th {
   background-color: #b44a3a;
@@ -389,14 +435,21 @@
   color: #333;
   text-align: left;
   display: block;
-  margin-top: .5em;
+  margin: .5em 0;
+}
+@media print {
+  .quire-page__content .quire-figure__table .table-key {
+    color: #000;
+  }
 }
 .quire-deepzoom .leaflet-table {
   padding: 0 1.5rem 1.5rem;
 }
-.quire-deepzoom .leaflet-table table {
+.quire-deepzoom .leaflet-table table,
+.quire-deepzoom .leaflet-table table + .table-key {
   width: 100%;
   margin-bottom: 1rem;
+  display: block;
 }
 .quire-deepzoom .leaflet-table table caption {
   margin: 1.5rem 0;
@@ -483,4 +536,79 @@
 }
 
 
+/* URL and EMDASH LINE BREAKS
+============================================================================= */
 
+/* Adjust URL breaks in PDF */
+@media print {
+  /* PrinceXML doesn’t seem to support <wbr> embedded in the URLs as a
+  method for suggesting places to break words, instead we're using here
+  the prince-text-replace specialty attribute to insert zero-width-spaces */
+  a {
+    prince-text-replace: "/" "\200B/"
+                          "~" "\200B~"
+                          "." "\200B."
+                          "," "\200B,"
+                          "-" "\200B-"
+                          "_" "\200B_"
+                          "?" "\200B?"
+                          "#" "\200B#"
+                          "%" "\200B%"
+                          "=" "\200B="
+                          "&" "\200B&"
+                          "+" "\200B+"
+                          "\200B/\200B/" "//\200B" !important;
+  }
+}
+
+/* Following the same pattern as above, this improves breaking after 
+em dashes */
+@media print {
+  body * {
+    prince-text-replace: "—" "—\200B";
+  }
+}
+
+/* Style participants list */
+
+.quire-page__content .container .content .participants-list ul,
+.quire-page__content .container .content .participants-list ul li {
+  margin-left: 0;
+  text-align: center;
+}
+.quire-page__content .container .content .participants-list ul li::before {
+  content: "";
+  width: 0;
+  margin-left: 0;
+}
+
+/* Style copyright notices included at the bottom of each essay */
+.quire-page__content .container .content .backmatter.page-copyright-notice {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #333;
+}
+
+/* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data p {
+  display: none;
+}
+.quire-page__content .container .content .cip-data ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.quire-page__content .container .content .cip-data ul li {
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+.quire-page__content .container .content .cip-data ul li::before {
+  display: none;
+}
+@media print {
+  .quire-page__content .container .content .cip-data {
+    column-break-before: always;
+  }
+}

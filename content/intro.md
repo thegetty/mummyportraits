@@ -1,7 +1,7 @@
 ---
 title: Introduction
 subtitle:
-weight: 5
+weight: 6
 contributor:
 - id: msvoboda
 - id: crcartwright
@@ -9,10 +9,9 @@ contributor:
   last_name: Walker
   bio: "Susan Walker was a museum curator in the British Museum from 1977 to 2004 and the Sackler Keeper of Antiquities in the Ashmolean Museum, Oxford, from 2004 until her retirement in 2014. In 1997 she cocurated with Morris Bierbrier *Ancient Faces: Mummy Portraits from Roman Egypt*, a British Museum exhibition that traveled to Rome and New York; she was sole guest curator for the Metropolitan Museum of Art's presentation and associated publication. Walker is now an emerita fellow of Wolfson College, University of Oxford, and an honorary curator at the Ashmolean, where she is studying mummy portraits with Jevon Thistlewood. She recently published *Saints and Salvation: The Wilshere Collection of Late Roman Gold-Glass, Sarcophagi and Inscriptions from Rome and Southern Italy* (Ashmolean Museum, 2017)."
 type: splash
-contributor_byline: false
 class: page-one
 image:
-copyright: "© 2020 J. Paul Getty Trust. Originally published in *Mummy Portraits of Roman Egypt: Emerging Research from the APPEAR Project* © 2020 J. Paul Getty Trust, www.getty.edu/publications/mummyportraits (licensed under CC BY 4.0)."
+# copyright: added directly at bottom of Markdown
 ---
 
 These proceedings mark the end of the first four years of an international collaboration on the study of funerary {{< q-def "panel" >}} painting from Roman Egypt, known as APPEAR: Ancient Panel Painting, Examination, Analysis and Research. The APPEAR initiative was developed to create a platform for expanding our understanding of the materials and technology used to produce works of art, especially mummy portraits, painted in the first through third centuries AD during the Roman occupation of Egypt. The papers in this publication are the result of a conference held at the J. Paul Getty Museum at the Getty Villa, Malibu, on May 17 and 18, 2018; it was there that the results stemming from the APPEAR project were first shared. The Getty-organized event brought together more than one hundred attendees to hear presentations by twenty-one project participants on the current and ongoing technical research of ancient painting from Roman Egypt. Over the two-day conference, twelve papers, six lightning talks / posters, and a keynote lecture addressed the topics that have developed through or contributed to the APPEAR project. The speakers---representing five countries and nineteen museums, with backgrounds in conservation, science, Egyptology, classics, and art history---presented new research on the history, {{< q-def "provenance" >}}, materials, methods, technical imaging, and analysis of ancient painted artifacts.
@@ -59,22 +58,8 @@ Finally, the extremely complex issue of binding media is addressed by the Getty 
 
 Within these proceedings, eighteen contributions to the APPEAR conference focus on the identity, source, use, and function of the ancient artists’ painting methods. Additionally, the exploration of how these artifacts were acquired, manufactured, imported, identified, and reused has laid a foundation for ongoing collective studies. This collaborative working approach reveals the broad scope of information possible in the study of ancient painting. Questions still to be answered as well as new directions of research and technological advances will continue to make the APPEAR project a valuable scholarly resource and a conduit for the exchange of future discoveries in the study of ancient art.
 
+{{< q-class "backmatter page-copyright-notice" >}}
 
----
+© 2020 J. Paul Getty Trust<span class='is-screen-only remove-from-epub'>. Originally published in *Mummy Portraits of Roman Egypt: Emerging Research from the APPEAR Project* © 2020 J. Paul Getty Trust, www.getty.edu/publications/mummyportraits (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).</span>
 
-
-## Acknowledgments
-
-The APPEAR conference could not have happened without the generous support of James Cuno and the Getty Trust, whose encouragement and funding, respectively, provided the foundation on which the project was able to develop and grow; its sustained progression is credited to the wonderful project participants, the forty-seven institutions and their teams who joined the APPEAR project. Through their gracious collaboration, they continue to support the mission of expanding our understanding of the materials and technology used in ancient panel painting and have contributed immeasurably to APPEAR's development and success. Additional praise is due to the many presenters at the conference and the authors within this volume, who have shared their research as well as enthusiasm and passion for the subject; we express our sincere gratitude and appreciation for your participation.
-
-Within the Getty we gratefully acknowledge Timothy Potts, Robin Weissberger, Mary Louise Hart, Giacomo Chiari, Molly Callender, Jack Ludden, Mark Sealy, Nick Hulea, Patrick Skidmore, Amelia Wong, Jeffrey Maish, Susanne Gänsicke, Joy Mazurek, Monica Ganio, and Karen Trentelman for making this project materialize and Danielle Freeman, Ashley Hayes, Heather Leisy, Lisa Guzzetta, Cherie Chen, Mikka Gee Conway, Samantha Monarch, Michael DeHart, and John Giurini for helping to pull all the details together.
-
-Further afield, we thank our colleagues who have always been ready to offer assistance and guidance: Sylvana Barrett, Yosi Pozeilov, David Saunders, Barbara Borg, Richard Newman, Glenn Gates, Rachel Sabino, Ken Sutherland, Dan Kushel, and colleagues at the UCLA/Getty Conservation Program.
-
-For the production of this digital publication we express gratitude to Elizabeth Nicholson, Greg Albers, Amanda Sparrow, Laura diZerega, Victoria Barry, Nina Damavandi, Victoria Gallina, Jeffrey Cohen, Kara Kirk, Karen Levine, and Kimberly Wilkinson for their meticulous work and guidance.
-
-It is also with much appreciation that we acknowledge our anonymous peer reviewers for their time, effort, and attention to detail.
-
-And finally, to you, the reader, for your interest in and support of scholarly publications such as this one, thank you.
-
-{{< q-contributor range="page" format="name" align="right" >}}
+{{< /q-class >}}

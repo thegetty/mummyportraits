@@ -1,6 +1,7 @@
 {{/*
   
-  THIS OVERRIDE VERSION REMOVES THE PAGE-LEVEL BIBLIOGRAPHY
+  THIS OVERRIDE VERSION REMOVES THE PAGE-LEVEL BIBLIOGRAPHY, IT ALSO ADDS
+  PAGE-LEVEL COPYRIGHT NOTICE BELOW THE NOTES
   
   Essay layout. This layout describes a single-page template that has been
   augmented with the ability to display a frontmatter-defined abstract (in
@@ -18,6 +19,11 @@
     <div class="container">
       <div class="content">
         {{ .Content }}
+        {{ if .Params.copyright }}
+        <div class="backmatter page-copyright-notice">
+        {{ markdownify .Params.copyright }}
+        </div>
+        {{ end }}
       </div>
       {{ partial "footer-buttons.html" . }}
     </div>
