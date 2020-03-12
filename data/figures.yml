@@ -148,7 +148,7 @@ figure_list:
     credit: "Photo: Ashley Walker, Naturesrainbow, Hitchen UK"
 
   - id: "fig_3_5"
-    src: figures/fig_3_5.jpg
+    src: figures/fig_3_5.png
     alt: ""
     label: "Figure 3.5"
     caption: "Structures (and molecular weights) of some common hydroxyanthraquinones and glucosides found in madder roots."
@@ -286,7 +286,7 @@ figure_list:
 
   - id: "fig_4_12"
     label: "Figure 4.12"
-    src: figures/fig_4_12.jpg
+    src: figures/fig_4_12.png
     alt:
     caption: "Confirmed characterizations of green pigments on Egyptian artifacts."
     credit: ""
@@ -705,7 +705,7 @@ figure_list:
     credit: "Photograph © Museum of Fine Arts, Boston. Image: E. Mayberger and J. Arista"
 
   - id: "fig_8_7"
-    src: figures/fig_8_7.jpg
+    src: figures/fig_8_7.png
     alt: ""
     label: "Figure 8.7"
     caption: "Fluorescence of Madder-Type Pigments."
