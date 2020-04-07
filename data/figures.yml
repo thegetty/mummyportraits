@@ -428,7 +428,7 @@ figure_list:
     src: figures/fig_6_6_c_2.jpg
     alt: ""
     label: "Figure 6.6c-2"
-    caption: "VIS and UVL images showing pink lake used in mixtures to produce skin tones. Portrait: EA6713"
+    caption: "VIS and UVL images showing pink lake used in mixtures to produce skin tones. Portrait: EA6713."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_6_d"
@@ -477,7 +477,7 @@ figure_list:
     src: figures/fig_6_8_c.jpg
     alt: ""
     label: "Figure 6.8c"
-    caption: "VIS and UVRFC images showing ochres used in mixtures to produce various shades for the depiction of skin tones. Portrait: EA74714"
+    caption: "VIS and UVRFC images showing ochres used in mixtures to produce various shades for the depiction of skin tones. Portrait: EA74714."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_9_a"
@@ -491,7 +491,7 @@ figure_list:
     src: figures/fig_6_9_b.jpg
     alt: ""
     label: "Figure 6.9b"
-    caption: "VIS and IRRFC images showing indigo used in a mixture to produce a green pigment in the beads of the necklaces. Portrait: EA74831"
+    caption: "VIS and IRRFC images showing indigo used in a mixture to produce a green pigment in the beads of the necklaces. Portrait: EA74831."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_9_c"
@@ -764,7 +764,7 @@ figure_list:
     src: figures/fig_8_15.jpg
     alt: ""
     label: "Figure 8.15"
-    caption: "VIVL image of Getty Eyes Mock-up Board. Camera: Canon EOS D5 Mark III (unmodified); SPEX Mini CrimeScope MCS-400 (535 nm); Tiffen 23A red filter."
+    caption: "VIVL image of Getty Eyes Mock-Up Board. Camera: Canon EOS D5 Mark III (unmodified); SPEX Mini CrimeScope MCS-400 (535 nm); Tiffen 23A red filter."
     credit: "Image: E. Mayberger and M. Gleeson"
 
   - id: "fig_9_1"
