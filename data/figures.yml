@@ -60,7 +60,7 @@ figure_list:
     src: figures/fig_2_3.jpg
     alt: ""
     label: "Figure 2.3"
-    caption: "SEM image of a RLS of *Tilia europaea*, lime wood; scale bar is in microns."
+    caption: "SEM image of an RLS of *Tilia europaea*, lime wood; scale bar is in microns."
     credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
 
   - id: "fig_2_4"
@@ -81,21 +81,21 @@ figure_list:
     src: figures/fig_2_6.jpg
     alt: ""
     label: "Figure 2.6"
-    caption: "Image of a transverse thin section of *Tilia europaea* lime reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
+    caption: "Image of a transverse thin section of *Tilia europaea* (lime) reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
     credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
 
   - id: "fig_2_7"
     src: figures/fig_2_7.jpg
     alt: ""
     label: "Figure 2.7"
-    caption: "Image of a radial longitudinal thin section of *Tilia europaea* lime reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
+    caption: "Image of a radial longitudinal thin section of *Tilia europaea* (lime) reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
     credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
 
   - id: "fig_2_8"
     src: figures/fig_2_8.jpg
     alt: ""
     label: "Figure 2.8"
-    caption: "Image of a tangential longitudinal thin section of *Tilia europaea* lime reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
+    caption: "Image of a tangential longitudinal thin section of *Tilia europaea* (lime) reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
     credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
 
   - id: "fig_2_9"
