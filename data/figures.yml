@@ -1099,7 +1099,7 @@ figure_list:
     src: figures/fig_14_2.jpg
     alt: ""
     label: "Figure 14.2"
-    caption: "Mummy Portrait, Romano-Egyptian, second century AD. Attributed to Kerke, Egypt. Glue tempera paint on linden panel, 35 x 19 x 0.3 cm (13 3/4 x 7 1/2 x 1/10 in.). Berkeley, University of California, Phoebe A. Hearst Museum of Anthropology, 5-2327."
+    caption: "Mummy Portrait, Romano-Egyptian, second century AD. Attributed to Kerke, Egypt. Glue tempera paint on linden panel, 35 x 19 cm (13 3/4 x 7 1/2 in.). Berkeley, University of California, Phoebe A. Hearst Museum of Anthropology, 5-2327."
     credit: "Courtesy of Phoebe A. Hearst Museum of Anthropology and the Regents of the University of California"
 
   - id: "fig_14_3"
