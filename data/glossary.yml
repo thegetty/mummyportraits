@@ -18,7 +18,7 @@ terms:
 
   - id: "beeswax"
     display: "Beeswax"
-    definition: "A natural wax produced by honeybees (*Apis* sp.) that is primarily composed of esters of various fatty acids and long-chain alcohols. Egyptians used beeswax for the mummification process, to retain the permanency of wig curls, in cosmetics, and to create painted portraits (encaustic)."
+    definition: "A natural wax produced by honeybees (*Apis* sp.) that is primarily composed of esters of various fatty acids and long-chain alcohols. Egyptians used beeswax for the mummification process, in cosmetics, to retain the permanency of wig curls, and to create painted portraits (encaustic)."
 
   - id: "binding media"
     display: "Binding media"
@@ -130,7 +130,7 @@ terms:
 
   - id: "green earth"
     display: "Green earth (terre verte)"
-    definition: "A naturally occurring Fe, Mg, A1, K hydrosilicate mineral pigment colored by glauconite or celadonite, with other associated minerals."
+    definition: "A naturally occurring Fe, Mg, Al, K hydrosilicate mineral pigment colored by glauconite or celadonite, with other associated minerals."
 
   - id: "ground"
     display: "Ground (preparation layer)"
