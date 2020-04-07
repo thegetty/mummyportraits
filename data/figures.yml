@@ -54,70 +54,70 @@ figure_list:
     alt: ""
     label: "Figure 2.2"
     caption: "SEM image of an RLS of *Ficus sycomorus*, sycomore fig wood; scale bar is in microns."
-    credit: "Image: C.R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
 
   - id: "fig_2_3"
     src: figures/fig_2_3.jpg
     alt: ""
     label: "Figure 2.3"
     caption: "SEM image of a RLS of *Tilia europaea*, lime wood; scale bar is in microns."
-    credit: "Image: C.R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
 
   - id: "fig_2_4"
     src: figures/fig_2_4.jpg
     alt: ""
     label: "Figure 2.4"
     caption: "SEM image of an RLS of *Cedrus libani*, cedar of Lebanon wood; scale bar is in microns."
-    credit: "Image: C.R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
 
   - id: "fig_2_5"
     src: figures/fig_2_5.jpg
     alt: ""
     label: "Figure 2.5"
     caption: "A *Tilia europaea* (lime) tree in the Royal Botanic Gardens at Kew."
-    credit: "Image: © 2012 C.R. Cartwright"
+    credit: "Image: © 2012 C. R. Cartwright"
 
   - id: "fig_2_6"
     src: figures/fig_2_6.jpg
     alt: ""
     label: "Figure 2.6"
     caption: "Image of a transverse thin section of *Tilia europaea* lime reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
-    credit: "Image: C.R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
 
   - id: "fig_2_7"
     src: figures/fig_2_7.jpg
     alt: ""
     label: "Figure 2.7"
     caption: "Image of a radial longitudinal thin section of *Tilia europaea* lime reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
-    credit: "Image: C.R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
 
   - id: "fig_2_8"
     src: figures/fig_2_8.jpg
     alt: ""
     label: "Figure 2.8"
     caption: "Image of a tangential longitudinal thin section of *Tilia europaea* lime reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
-    credit: "Image: C.R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
 
   - id: "fig_2_9"
     src: figures/fig_2_9.jpg
     alt: ""
     label: "Figure 2.9"
     caption: "Image of a transverse thin section of *Ficus sycomorus* sycomore fig reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
-    credit: "Image: C.R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
 
   - id: "fig_2_10"
     src: figures/fig_2_10.jpg
     alt: ""
     label: "Figure 2.10"
     caption: "Image of a transverse thin section of *Ziziphus spina-christi* (sidr) reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
-    credit: "Image: C.R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
 
   - id: "fig_2_11"
     src: figures/fig_2_11.jpg
     alt: ""
     label: "Figure 2.11"
     caption: "Image of a transverse thin section of *Tamarix aphylla* (tamarisk) reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
-    credit: "Image: C.R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
 
   - id: "fig_3_1"
     src: figures/fig_3_1.jpg
@@ -554,7 +554,7 @@ figure_list:
     src: figures/fig_7_5.jpg
     alt: ""
     label: "Figure 7.5"
-    caption: "Boy with a Floral Garland in His Hair, Romano-Egyptian, ca. AD 200–230. Er-Rubayat. Tempera on *Tilia europaea* panel, 29.9 x 19.8 cm (11 3/4 x 7 13/16 in.). Brooklyn Museum, Charles Edwin Wilbour Fund, 41.848"
+    caption: "Boy with a Floral Garland in His Hair, Romano-Egyptian, ca. AD 200–230. er-Rubayat. Tempera on *Tilia europaea* panel, 29.9 x 19.8 cm (11 3/4 x 7 13/16 in.). Brooklyn Museum, Charles Edwin Wilbour Fund, 41.848"
     credit: ""
 
   - id: "fig_7_6a"
