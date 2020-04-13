@@ -4,14 +4,14 @@ figure_list:
     src: figures/fig_1_1.jpg
     alt: ""
     label: "Figure 1.1"
-    caption: "Mummy Portrait of a Man Wearing a Laurel Wreath, Romano-Egyptian, early to mid-second century AD. Lime (linden) wood, beeswax, pigments, gold, textile, and natural resin, 41.9 x 24.1 cm (16 1/2 x 9 1/2 in.). Art Institute of Chicago, Gift of Emily Crane Chadbourne, 1922.4799"
+    caption: "Mummy Portrait of a Man Wearing a Laurel Wreath, Romano-Egyptian, early to mid-second century AD. Lime (linden) wood, beeswax, pigments, gold, textile, and natural resin, 41.9 x 24.1 cm (16 1/2 x 9 1/2 in.). Art Institute of Chicago, Gift of Emily Crane Chadbourne, 1922.4799. Art Institute of Chicago, CC0"
     credit: ""
 
   - id: "fig_1_2"
     src: figures/fig_1_2.jpg
     alt: ""
     label: "Figure 1.2"
-    caption: "Mummy Portrait of a Man Wearing an Ivy Wreath, Romano-Egyptian, early to mid-second century AD. Lime (linden) wood, beeswax, pigments, gold, textile, and natural resin, 39.4 x 22 cm (15 1/2 x 8 5/8 in.). Art Institute of Chicago, Gift of Emily Crane Chadbourne, 1922.4798"
+    caption: "Mummy Portrait of a Man Wearing an Ivy Wreath, Romano-Egyptian, early to mid-second century AD. Lime (linden) wood, beeswax, pigments, gold, textile, and natural resin, 39.4 x 22 cm (15 1/2 x 8 5/8 in.). Art Institute of Chicago, Gift of Emily Crane Chadbourne, 1922.4798. Art Institute of Chicago, CC0"
     credit: ""
 
   - id: "fig_1_3"
@@ -124,28 +124,28 @@ figure_list:
     alt: ""
     label: "Figure 3.1"
     caption: "Mummy Portrait of a Woman with Earrings, Romano-Egyptian, ca. AD 130–140. Encaustic on linden wood, 35.3 x 22.5 cm (13 <nobr>7/8</nobr> x 8 7/8 in.). Cambridge, Harvard Art Museums / Arthur M. Sackler Museum, Gift of Dr. Denman W. Ross, 1923.60."
-    credit: "Photo: © President and Fellows of Harvard College"
+    credit: "Image: President and Fellows of Harvard College"
 
   - id: "fig_3_2"
     src: figures/fig_3_2.jpg
     alt: ""
     label: "Figure 3.2"
     caption: "Mummy Portrait of a Bearded Man, Romano-Egyptian, ca. AD 170–180. Encaustic on wood, 40.5 x 20 cm (15 15/16 x 7 7/8 in.). Baltimore, The Walters Art Museum, Acquired by Henry Walters, 1912, 32.6."
-    credit:
+    credit: Image: The Walters Art Museum
 
   - id: "fig_3_3"
     src: figures/fig_3_3.jpg
     alt: ""
     label: "Figure 3.3"
     caption: "*Rubia tinctorum* roots (left) and rhizomes (right) before washing."
-    credit: "Photo: Ashley Walker, Naturesrainbow, Hitchen UK"
+    credit: "Image: Ashley Walker, Naturesrainbow, Hitchen UK"
 
   - id: "fig_3_4"
     src: figures/fig_3_4.jpg
     alt: ""
     label: "Figure 3.4"
     caption: "*Rubia tinctorum* roots (left) and rhizomes (right) after washing and gentle brushing."
-    credit: "Photo: Ashley Walker, Naturesrainbow, Hitchen UK"
+    credit: "Image: Ashley Walker, Naturesrainbow, Hitchen UK"
 
   - id: "fig_3_5"
     src: figures/fig_3_5.png
@@ -180,14 +180,14 @@ figure_list:
     alt: ""
     label: "Figure 3.9"
     caption: "Funerary Shroud and Mask, ca. mid-third century AD. Excavated at Thebes, Deir el-Bahari, by Edouard Naville in 1897. Water-soluble medium on linen and stucco, H: 93.5 cm (36 13/16 in.). Boston, Museum of Fine Arts, Egypt Exploration Fund by subscription, 97.1100."
-    credit: "Photo: Jessica Arista © 2018 Museum of Fine Arts, Boston"
+    credit: "Image: Jessica Arista © 2018 Museum of Fine Arts, Boston"
 
   - id: "fig_3_10"
     src: figures/fig_3_10.jpg
     alt: ""
     label: "Figure 3.10"
     caption: "UVL image of mummy shroud in fig. 3.9."
-    credit: "Photo: Jessica Arista © 2018 Museum of Fine Arts, Boston"
+    credit: "Image: Jessica Arista © 2018 Museum of Fine Arts, Boston"
 
   - id: "fig_3_11"
     src: figures/fig_3_11.jpg
@@ -240,41 +240,41 @@ figure_list:
     alt: ""
     label: "Figure 4.4"
     caption: "Fragment of a Mummy Shroud with Painted Portrait of a Woman, Romano-Egyptian, late second to third century AD. Paint on linen, H: 28.5 cm (11 1/4 in.). New York, Metropolitan Museum of Art, Museum Accession, X.390"
-    credit: ""
+    credit: "www.metmuseum.org, CC0"
 
   - id: "fig_4_5"
     src: figures/fig_4_5.jpg
     alt: ""
     label: "Figure 4.5"
     caption: "Painted Osiris Mummy Shroud, Romano-Egyptian, ca. AD 125. Paint on linen, 98 x 82 cm (38 5/8 x 32 1/4 in.). New York, Metropolitan Museum of Art, Gift of Mrs. S. W. Straus, 1925, 25.184.20"
-    credit: ""
+    credit: "www.metmuseum.org, CC0"
 
   - id: "fig_4_6"
     src: figures/fig_4_6.jpg
     alt: ""
     label: "Figure 4.6"
     caption: "Fragment of a Painted Mummy Shroud, Ptolemaic or Romano-Egyptian, 304 BC–AD 364. Paint on linen, 25.3 x 18.3 cm (10 x 7 3/16 in.). New York, Metropolitan Museum of Art, Museum Accession, X.491A"
-    credit: ""
+    credit: "www.metmuseum.org, CC0"
 
   - id: "fig_4_7"
     src: figures/fig_4_7.jpg
     alt: ""
     label: "Figure 4.7"
     caption: "Fragment of a Painted Mummy Shroud, Ptolemaic or Romano-Egyptian, 304 BC–AD 364. Paint on linen, 14.8 x 18.8 cm (5 13/16 x 7 3/8 in.). New York, Metropolitan Museum of Art, Museum Accession, X.491B"
-    credit: ""
+    credit: "www.metmuseum.org, CC0"
 
   - id: "fig_4_8"
     src: figures/fig_4_9.jpg
     alt: ""
     label: "Figure 4.8"
     caption: "Fragment of a Painted Mummy Shroud, Ptolemaic or Romano-Egyptian, first century BC–first century AD. Paint on linen, 36.8 x 31 cm (14 1/2 x 12 3/16 in.). New York, Metropolitan Museum of Art, Purchase, Fletcher Fund and The Guide Foundation Inc. Gift, 1966, 66.99.141"
-    credit: ""
+    credit: "www.metmuseum.org, CC0"
 
   - id: "fig_4_10"
     src: figures/fig_4_10.jpg
     alt: ""
     label: "Figure 4.10"
-    caption: "Detail of fig. 4.3, showing overlap of yellow and blue in drapery."
+    caption: "Detail of fig. 4.3, showing overlap of yellow and blue in wing."
     credit: ""
 
   - id: "fig_4_11"
