@@ -302,15 +302,15 @@ figure_list:
     src: figures/fig_5_1.jpg
     alt: ""
     label: "Figure 5.1"
-    caption: "Visible light image showing the presence of Egyptian blue on the tunic, gems, face, and hair of Fayum Mummy Portrait of a Woman, Romano-Egyptian, second to third century AD. Encaustic on wood panel, 34.6 x 20.3 cm (13 5/8 x 8 in.). Stanford, Iris & B. Gerald Cantor Center for Visual Arts, Stanford Family Collections, JLS.22225"
-    credit: ""
+    caption: "Visible light image of Fayum Mummy Portrait of a Woman, Romano-Egyptian, second to third century AD. Encaustic on wood panel, 34.6 x 20.3 cm (13 5/8 x 8 in.). Stanford, Iris & B. Gerald Cantor Center for Visual Arts, Stanford Family Collections, JLS.22225."
+    credit: "Image: Art+Science Learning Lab, Cantor Arts Center"
 
   - id: "fig_5_2"
     src: figures/fig_5_2.jpg
     alt: ""
     label: "Figure 5.2"
     caption: "VIL image showing the presence of Egyptian blue on the tunic, gems, face, and hair of the portrait in fig. 5.1."
-    credit: ""
+    credit: "Image: Art+Science Learning Lab, Cantor Arts Center"
 
   - id: "fig_5_3"
     label: "Figure 5.3"
@@ -330,29 +330,29 @@ figure_list:
     src: figures/fig_5_6_a.jpg
     alt: ""
     label: "Figure 5.6a"
-    caption: "Visible light image showing the presence of Egyptian blue in the peacock's feathers and Harpocrates' eyes and headdress on Horus Harpocrates on Peacock, Romano-Egyptian, first century AD or later. Terracotta, H: 17.8 cm (7 in.). Amsterdam, Allard Pierson Museum, APM07232"
-    credit: ""
+    caption: "Visible light image showing the presence of Egyptian blue in the peacock's feathers and Harpocrates' eyes and headdress on Horus Harpocrates on Peacock, Romano-Egyptian, first century AD or later. Terracotta, H: 17.8 cm (7 in.). Amsterdam, Allard Pierson Museum, APM07232."
+    credit: "Image: Courtesy Allard Pierson Museum"
 
   - id: "fig_5_6_b"
     src: figures/fig_5_6_b.jpg
     alt: ""
     label: "Figure 5.6b"
     caption: "VIL image showing the presence of Egyptian blue in the peacock's feathers and Harpocrates' eyes and headdress on fig. 5.6a."
-    credit: ""
+    credit: "Image: Courtesy Allard Pierson Museum"
 
   - id: "fig_5_7_a"
     src: figures/fig_5_7_a.jpg
     alt: ""
     label: "Figure 5.7a"
-    caption: "Visible light image of a gorgoneion wall painting showing the presence of Egyptian blue in the flesh tones, eyes, and snakes of the gorgon. Amsterdam, Allard Pierson Museum, APM1670"
-    credit: ""
+    caption: "Visible light image of a gorgoneion wall painting showing the presence of Egyptian blue in the flesh tones, eyes, and snakes of the gorgon. Amsterdam, Allard Pierson Museum, APM1670."
+    credit: "Image: Courtesy Allard Pierson Museum"
 
   - id: "fig_5_7_b"
     src: figures/fig_5_7_b.jpg
     alt: ""
     label: "Figure 5.7b"
-    caption: "VIL image showing the presence of Egyptian blue in the flesh tones, eyes, and snakes of a gorgon. Amsterdam, Allard Pierson Museum, APM1670"
-    credit: ""
+    caption: "VIL image showing the presence of Egyptian blue in the flesh tones, eyes, and snakes of the gorgon in fig. 5.7a."
+    credit: "Image: Courtesy Allard Pierson Museum"
 
   - id: "fig_6_3"
     src: figures/fig_6_3.jpg
@@ -428,7 +428,7 @@ figure_list:
     src: figures/fig_6_6_c_2.jpg
     alt: ""
     label: "Figure 6.6c-2"
-    caption: "VIS and UVL images showing pink lake used in mixtures to produce skin tones. Portrait: EA6713."
+    caption: "VIS and UVL images showing pink lake used in mixtures to produce skin tones. Mummy Portrait of a Young Man, Romano-Egyptian, AD 140–180. Thebes (?). Tempera on wood. London, The British Museum EA6713."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_6_d"
@@ -477,7 +477,7 @@ figure_list:
     src: figures/fig_6_8_c.jpg
     alt: ""
     label: "Figure 6.8c"
-    caption: "VIS and UVRFC images showing ochres used in mixtures to produce various shades for the depiction of skin tones. Portrait: EA74714."
+    caption: "VIS and UVRFC images showing ochres used in mixtures to produce various shades for the depiction of skin tones. Mummy Portrait, Perhaps of a Priest, Romano-Egyptian, AD 140–160. Hawara. Encaustic on lime wood, 42.5 x 22 cm (16 3/4 x 8 5/8 in.). London, The British Museum 1994.0521.12 and EA74714."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_9_a"
@@ -491,7 +491,7 @@ figure_list:
     src: figures/fig_6_9_b.jpg
     alt: ""
     label: "Figure 6.9b"
-    caption: "VIS and IRRFC images showing indigo used in a mixture to produce a green pigment in the beads of the necklaces. Portrait: EA74831."
+    caption: "VIS and IRRFC images showing indigo used in a mixture to produce a green pigment in the beads of the necklaces in Mummy Portrait of a Woman, Romano-Egyptian, AD 70–100, er-Rubayat. Tempera and encaustic on lime wood, 41.5 x 22 cm (16 3/8 x 8 5/8 in.). London, The British Museum EA74831."
     credit: "© Trustees of the British Museum"
 
   - id: "fig_6_9_c"
@@ -533,8 +533,8 @@ figure_list:
     src: figures/fig_7_1.jpg
     alt: ""
     label: "Figure 7.1"
-    caption: "Noblewoman, Romano-Egyptian, ca. AD 150. Encaustic on wood, 44 x 28.7 cm (17 5/16 x 11 5/16 in.). Brooklyn Museum, Gift of the Ernest Erickson Foundation, Inc., 86.226.18. Next to the portrait are the Spectralon 99 percent reflectance standard, X-Rite ColorChecker Passport, and unbound indigo pigment sample."
-    credit: ""
+    caption: "Noblewoman, Romano-Egyptian, ca. AD 150. Encaustic on *Tilia europaea* panel, 44 x 28.7 cm (17 5/16 x 11 5/16 in.). Brooklyn Museum, Gift of the Ernest Erickson Foundation, Inc., 86.226.18. Next to the portrait are the Spectralon 99 percent reflectance standard, X-Rite ColorChecker Passport, and unbound indigo pigment sample."
+    credit: "Image: Brooklyn Museum Conservation Department"
 
   - id: "fig_7_3"
     src: figures/fig_7_3.jpg
@@ -555,14 +555,14 @@ figure_list:
     alt: ""
     label: "Figure 7.5"
     caption: "Boy with a Floral Garland in His Hair, Romano-Egyptian, ca. AD 200–230. er-Rubayat. Tempera on *Tilia europaea* panel, 29.9 x 19.8 cm (11 3/4 x 7 13/16 in.). Brooklyn Museum, Charles Edwin Wilbour Fund, 41.848"
-    credit: ""
+    credit: "Image: Brooklyn Museum Conservation Department"
 
   - id: "fig_7_6a"
     src: figures/fig_7_6a.jpg
     alt: ""
     label: "a. Normal light"
-    caption: "Details of the *clavus* on fig. 7.1. Normal light, UVF, MBR illustrating the red lake pigment’s characteristic pinkish orange fluorescence, and MBR illustrating indigo’s bright response. The brightness of the MBR image has been enhanced for legibility."
-    credit: ""
+    caption: "Details of the *clavus* on fig. 7.1. Normal light, UVF illustrating the red lake pigment’s characteristic pinkish orange fluorescence, and MBR illustrating indigo’s bright response. The brightness of the MBR image has been enhanced for legibility."
+    credit: "Image: Brooklyn Museum Conservation Department"
 
   - id: "fig_7_6b"
     src: figures/fig_7_6b.jpg
@@ -582,8 +582,8 @@ figure_list:
     src: figures/fig_7_7.jpg
     alt: ""
     label: "Figure 7.7"
-    caption: "Mummy Portrait of a Man, Romano-Egyptian, ca. AD 120–130. Encaustic on wood, gold leaf, 43.8 x 19.7 cm (17 1/4 x 7 3/4 in.). Brooklyn Museum, Charles Edwin Wilbour Fund, 40.386"
-    credit: ""
+    caption: "Mummy Portrait of a Man, Romano-Egyptian, ca. AD 120–130. Encaustic on *Cupressus sempervirens* panel, gold leaf, 43.8 x 19.7 cm (17 1/4 x 7 3/4 in.). Brooklyn Museum, Charles Edwin Wilbour Fund, 40.386."
+    credit: "Image: Brooklyn Museum Conservation Department"
 
   - id: "fig_7_8a"
     src: figures/fig_7_8a.jpg
@@ -610,15 +610,15 @@ figure_list:
     src: figures/fig_7_9.jpg
     alt: ""
     label: "Figure 7.9"
-    caption: "Portrait of a Young Person, Romano-Egyptian, ca. AD 200–230. Tempera on wood, 28.4 x 15.7 cm (11 3/16 x 6 3/16 in.). Brooklyn Museum, Charles Edwin Wilbour Fund, 54.197"
-    credit: ""
+    caption: "Portrait of a Young Person, Romano-Egyptian, ca. AD 200–230. Tempera on *Ficus sycomorus* panel, 28.4 x 15.7 cm (11 3/16 x 6 3/16 in.). Brooklyn Museum, Charles Edwin Wilbour Fund, 54.197"
+    credit: "Image: Brooklyn Museum Conservation Department"
 
   - id: "fig_7_10"
     src: figures/fig_7_10.jpg
     alt: ""
     label: "Figure 7.10"
     caption: "MBR detail of fig. 7.5, showing the bright response of indigo in the floral garland as well as the less pronounced responses of red ochre and of the panel wood exposed by paint loss. The brightness of the MBR image has been enhanced for legibility."
-    credit: ""
+    credit: "Image: Brooklyn Museum Conservation Department"
 
   - id: "fig_7_11"
     src: figures/fig_7_11.jpg
@@ -639,28 +639,28 @@ figure_list:
     alt: ""
     label: "Figure 7.13"
     caption: "UVF detail of fig. 7.5, showing the characteristic pinkish orange fluorescence of the red lake pigment in contrast to the nonfluorescent red ochre."
-    credit: ""
+    credit: "Image: Brooklyn Museum Conservation Department"
 
   - id: "fig_7_14"
     src: figures/fig_7_14.jpg
     alt: ""
     label: "Figure 7.14"
-    caption: "FCUV detail of fig. 7.5, showing the blue-violet color of the red lake pigment in contrast to the dark purple color of the red ochre."
-    credit: ""
+    caption: "FCUV detail of fig. 7.5, showing the blue color of the red lake pigment in contrast to the dark purple color of the red ochre."
+    credit: "Image: Brooklyn Museum Conservation Department"
 
   - id: "fig_7_15"
     src: figures/fig_7_15.jpg
     alt: ""
     label: "Figure 7.15"
     caption: "UVF detail of fig. 7.1, illustrating the characteristic fluorescence of the red lake pigment in the highlights in the hair."
-    credit: ""
+    credit: "Image: Brooklyn Museum Conservation Department"
 
   - id: "fig_7_16"
     src: figures/fig_7_16.jpg
     alt: ""
     label: "Figure 7.16"
-    caption: "FCUV detail of fig. 7.1, showing the blue-green color in the highlights, corroborating the identification of indigo."
-    credit: ""
+    caption: "FCUV detail of fig. 7.1, showing the blue-green color in the highlights, consistent with indigo."
+    credit: "Image: Brooklyn Museum Conservation Department"
 
   - id: "fig_8_1"
     src: figures/fig_8_1.jpg
@@ -772,21 +772,21 @@ figure_list:
     alt: ""
     label: "Figure 9.1"
     caption: "Heron and Lycurgus, Romano-Egyptian, late second century AD. Tempera on wood, with frame: 33.3 x 29.1 cm (13 1/8 x 11 7/16 in.); without frame: 24.2 x 19.4 cm (9 1/2 x 7 5/8 in.). Brussels, Musées royaux d’Art et d’Histoire, E 7409"
-    credit: ""
+    credit: "© RMAH"
 
   - id: "fig_9_2"
     src: figures/fig_9_2.jpg
     alt: ""
     label: "Figure 9.2"
-    caption: "The God Heron, Romano-Egyptian, late second to third century AD. Tempera on wood, with frame: 58.1 x 48.7 cm (22 7/8 x 19 3/16 in.); without frame: 52.4 x 42.5 cm (20 5/8 x 16 3/4 in). Providence, Museum of Art, Rhode Island School of Design, Museum Works of Art Fund, 59.030"
-    credit: ""
+    caption: "The God Heron, Romano-Egyptian, late second to third century AD. Tempera on wood, with frame: 58.1 x 48.7 cm (22 7/8 x 19 3/16 in.); without frame: 52.4 x 42.5 cm (20 5/8 x 16 3/4 in). Providence, Museum of Art, Rhode Island School of Design, Museum Works of Art Fund, 59.030."
+    credit: "CC0 1.0"
 
   - id: "fig_9_3"
     src: figures/fig_9_3.jpg
     alt: ""
     label: "Figure 9.3"
     caption: "Portrait of a Woman, Romano-Egyptian, ca. AD 50–70. Excavated by Sir William Flinders Petrie at Hawara in 1888. Tempera on wood with twisted rope for hanging, with frame: 45.5 x 41 cm (17 15/16 x 16 1/8 in.); without frame: 25.9 x 20.4 cm (10 3/16 x 8 1/16 in.). London, British Museum, 1889,1018.1. "
-    credit: "© Trustees of the British Museum"
+    credit: "© 2017 Trustees of the British Museum, CC BY-NC-SA 4.0"
 
   - id: "fig_9_4"
     src: figures/fig_9_4.jpg
@@ -915,7 +915,7 @@ figure_list:
     src: figures/fig_10_6.jpg
     alt: ""
     label: "Figure 10.6"
-    caption: "Portrait of a Young Girl attached to the Hibbard Mummy, or Hawara Portrait Mummy no. 4, Romano-Egyptian, second to late first century BC. Found in Hawara by Petrie in 1911. Encaustic on lime wood panel, approx. 19.1 x 11.4 cm (7 1/2 x 4 1/2 in.). Evanston, Garrett-Evangelical Theological Seminary, Gift of Lindia Beekman Hibbard."
+    caption: "Portrait of a Young Girl attached to the Hibbard Mummy, or Hawara Portrait Mummy no. 4, Romano-Egyptian, second to late first century BC. Found in Hawara by Petrie in 1911. Encaustic on lime wood panel, approx. 19.1 x 11.4 cm (7 1/2 x 4 1/2 in.). Evanston, Garrett-Evangelical Theological Seminary, Gift of Lydia Beekman Hibbard."
     credit: "Northwestern University"
 
   - id: "fig_10_7"
@@ -1022,7 +1022,7 @@ figure_list:
     src: figures/fig_11_9.jpg
     alt: ""
     label: "Figure 11.9"
-    caption: "UVR results for fig. 11.7."
+    caption: "UVF results for fig. 11.7."
     credit: "Image: Yosi Pozeilov © Museum Associates / LACMA"
 
   - id: "fig_12_1"
@@ -1030,35 +1030,35 @@ figure_list:
     alt: ""
     label: "Figure 12.1"
     caption: "Mummy Portrait of a Woman, Romano-Egyptian, second quarter of the second century AD. Presumably from er-Rubayat. Encaustic on lime wood, 29.5 x 14.1 cm (11 5/8 x 5 9/16 in). Budapest, Museum of Fine Arts, Collection of Classical Antiquities, 8901."
-    credit: "Image © Szépművészeti Múzeum, Budapest. Photo: László Mátyus"
+    credit: "Image: Szépművészeti Múzeum, Budapest. Photo: László Mátyus"
 
   - id: "fig_12_2"
     src: figures/fig_12_2.jpg
     alt: ""
     label: "Figure 12.2"
     caption: "Mummy Portrait of a Woman, Romano-Egyptian, second half of the second century AD. Presumably from er-Rubayat. Tempera on sycomore fig, 32 x 18.4 cm (12 5/8 x 7 1/4 in). Budapest, Museum of Fine Arts, Collection of Classical Antiquities, 8902."
-    credit: "Image © Szépművészeti Múzeum, Budapest. Photo: László Mátyus"
+    credit: "Image: Szépművészeti Múzeum, Budapest. Photo: László Mátyus"
 
   - id: "fig_12_3"
     src: figures/fig_12_3.jpg
     alt: ""
     label: "Figure 12.3"
     caption: "Mummy Portrait of a Woman, Romano-Egyptian with modern retouching. Akhmim. Encaustic on lime wood, 39.3 x 16.7 cm (15 1/2 x 6 9/16 in). Budapest, Museum of Fine Arts, Collection of Classical Antiquities, 51.343."
-    credit: "Image © Szépművészeti Múzeum, Budapest. Photo: László Mátyus"
+    credit: "Image: Szépművészeti Múzeum, Budapest. Photo: László Mátyus"
 
   - id: "fig_12_4"
     src: figures/fig_12_4.jpg
     alt: ""
     label: "Figure 12.4"
     caption: "Mummy Portrait of a Man, Romano-Egyptian with modern retouching. Fayum. Encaustic on lime wood, 28.5 x 15.6 cm (11 1/4 x 6 1/8 in). Budapest, Museum of Fine Arts, Collection of Classical Antiquities, 51.342."
-    credit: "Image © Szépművészeti Múzeum, Budapest. Photo: László Mátyus"
+    credit: "Image: Szépművészeti Múzeum, Budapest. Photo: László Mátyus"
 
   - id: "fig_12_5"
     src: figures/fig_12_5.jpg
     alt: ""
     label: "Figure 12.5"
     caption: "Mummy Portrait of a Woman, Romano-Egyptian, first quarter of the second century AD. Fayum. Encaustic on lime wood, 36.5 x 12.7 cm (14 3/8 x 5 in). Budapest, Museum of Fine Arts, Collection of Classical Antiquities, 51.344."
-    credit: "Image © Szépművészeti Múzeum, Budapest. Photo: László Mátyus"
+    credit: "Image: Szépművészeti Múzeum, Budapest. Photo: László Mátyus"
 
   - id: "fig_12_6"
     src: figures/fig_12_6.jpg
@@ -1163,14 +1163,14 @@ figure_list:
     alt: ""
     label: "Figure 16.1"
     caption: "Shield Painted with Two Scenes from the *Iliad*, Greco-Roman or Parthian, mid-third century AD. Dura-Europos, Syria. Pine planks and pigment. New Haven, Yale University Art Gallery, 1935.551."
-    credit:
+    credit: "Image: Yale University Art Gallery"
 
   - id: "fig_16_2"
     src: figures/fig_16_2.jpg
     alt: ""
     label: "Figure 16.2"
     caption: "Herbert J. Gute (American, 1908–1977), *Wooden Shield Painted with Scenes from the Trojan War*, commissioned by Yale University, 1935 or 1936. Watercolor on paper, 79.9 x 64.9 cm (31 7/16 x 25 9/16 in.). New Haven, Yale University Art Gallery, 1936.127.26."
-    credit:
+    credit: "Image: Yale University Art Gallery"
 
   - id: "fig_16_3"
     src: figures/fig_16_3.jpg

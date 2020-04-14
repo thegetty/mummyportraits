@@ -222,7 +222,7 @@ terms:
 
   - id: "MSI/MBI"
     display: "Multispectral imaging (MSI) / multiband imaging (MBI)"
-    definition: "The creation of a series of images, each recording reflectance within a different limited range of wavelengths. This process involves using a series of band-pass camera filters or a set of narrow-band illumination sources; thus, it records variations in the absorption of materials at different wavelengths. Comparing or combining these images can help to characterize materials or to distinguish between materials that may appear similar."
+    definition: "The creation of a series of images, each recording reflectance and luminescence within a different limited range of wavelengths. This process involves using a series of band-pass camera filters or a set of narrow-band illumination sources; thus, it records variations in the absorption of materials at different wavelengths. Comparing or combining these images can help to characterize materials or to distinguish between materials that may appear similar."
 
   - id: "orpiment"
     display: "Orpiment"
@@ -377,8 +377,8 @@ terms:
     definition: "An analytical method used to examine the crystallographic structure, composition, and physical properties of materials, such as mineral pigments."
 
   - id: "XRF/pXRF"
-    display: "X-ray fluorescence (XRF) and portable X-ray fluorescence (pXRF) spectroscopy"
-    definition: "Techniques used for nondestructive elemental analyses of inorganic materials, utilizing a focused beam of X-rays to excite the atoms on the surface of an artwork and measuring the emitted energy. These emissions provide characteristic fingerprints of the elements in the sampled area, allowing researchers to formulate hypotheses about the compounds contained therein."
+    display: "X-ray fluorescence (XRF) spectroscopy"
+    definition: "A technique used for nondestructive elemental analyses of inorganic materials, utilizing a focused beam of X-rays to excite the atoms on the surface of an artwork and measuring the emitted energy. These emissions provide characteristic fingerprints of the elements in the sampled area, allowing researchers to formulate hypotheses about the compounds contained therein."
 
   - id: "yellow ochre"
     display: "Yellow ochre"
