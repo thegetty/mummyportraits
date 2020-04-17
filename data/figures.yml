@@ -131,7 +131,7 @@ figure_list:
     alt: ""
     label: "Figure 3.2"
     caption: "Mummy Portrait of a Bearded Man, Romano-Egyptian, ca. AD 170–180. Encaustic on wood, 40.5 x 20 cm (15 15/16 x 7 7/8 in.). Baltimore, The Walters Art Museum, Acquired by Henry Walters, 1912, 32.6."
-    credit: Image: The Walters Art Museum
+    credit: "Image: The Walters Art Museum"
 
   - id: "fig_3_3"
     src: figures/fig_3_3.jpg
