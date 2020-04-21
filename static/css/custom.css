@@ -544,7 +544,7 @@
   /* PrinceXML doesn’t seem to support <wbr> embedded in the URLs as a
   method for suggesting places to break words, instead we're using here
   the prince-text-replace specialty attribute to insert zero-width-spaces */
-  a {
+  a:not([href^="#"]) {
     prince-text-replace: "/" "\200B/"
                           "~" "\200B~"
                           "." "\200B."
