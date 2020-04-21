@@ -205,6 +205,18 @@
   margin-top: 1.5rem;
 }
 
+@media screen and (max-width: 689px){
+  .quire-cover__overlay {
+    width: 100%;
+  }
+  .quire-cover__overlay.upper-left,
+  .quire-cover__overlay.lower-left {
+    left: -50vw;
+  }
+  .hero-body .container.is-fluid {
+    bottom: 0%;
+  }
+}
 
 /* COPYRIGHT PAGE
 ============================================================================= */
