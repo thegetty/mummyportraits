@@ -208,10 +208,15 @@
 @media screen and (max-width: 689px){
   .quire-cover__overlay {
     width: 100%;
+    overflow: hidden;
   }
   .quire-cover__overlay.upper-left,
   .quire-cover__overlay.lower-left {
     left: -50vw;
+  }
+  .quire-cover__overlay.upper-right,
+  .quire-cover__overlay.lower-right {
+    margin-right: -50%;
   }
   .hero-body .container.is-fluid {
     bottom: 0%;
