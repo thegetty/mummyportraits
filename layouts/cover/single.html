@@ -127,6 +127,52 @@ Cover page layout. This controls the home page of the publication.
   {{ if .Content }}
 
   <section class="section quire-page__content" id="content">
+    <div class="quire-cover__hero-body mobile">
+      <div class="container is-fluid">
+        {{/* Use .Site.Data.publication info if available */}}
+        {{ if .Site.Data.publication }}
+      
+        {{- $endPunctuation := findRE "[!|?]$" .Site.Data.publication.title -}}
+        <h1 class="title">
+          {{ .Site.Data.publication.title | markdownify }}
+          {{- with .Site.Data.publication.subtitle -}}
+          {{- if $endPunctuation }} {{ else }}<span class="visually-hidden">: </span>{{ end -}}
+          <span class="subtitle">{{ . | markdownify }}</span>
+          {{ end }}
+        </h1>
+      
+        {{ with .Site.Data.publication.reading_line }}
+        <p class="reading-line">{{ . | markdownify }}</p>
+        {{ end }}
+      
+        <div class="contributor">
+          {{- if .Site.Data.publication.contributor_as_it_appears -}}
+          {{ .Site.Data.publication.contributor_as_it_appears | markdownify }}
+          {{ else }}
+          <span class="visually-hidden">Contributors: </span>
+      
+          {{/* List primary contributors unless none are marked as primary
+                     in which case list all contributors in publication.yml */}}
+          {{/* ------------------------------------------------------------ */}}
+          {{- range .Site.Data.publication.contributor -}}
+          {{- if .type -}}
+          {{ $.Scratch.Set "type" true }}
+          {{- end -}}
+          {{- end -}}
+          {{ if eq ($.Scratch.Get "type") true }}
+          <em>{{ partial "contributor-list.html" (dict "range" .Site.Data.publication.contributor "contributorType" "primary" "listType" "string" "Site" $.Site) }}</em>
+          {{- else -}}
+          <em>{{ partial "contributor-list.html" (dict "range" .Site.Data.publication.contributor "contributorType" "all" "listType" "string" "Site" $.Site) }}</em>
+          {{- end -}}
+          {{- end -}}
+        </div>
+      
+        {{ else }}
+        {{/* Fallback for when no publication.yml data is present */}}
+        <h1 class="title">{{ .Site.Title }}</h1>
+        {{ end }}
+      </div>
+    </div>
     <div class="container is-fluid">
       <div class="content">
         {{ .Content }}
