@@ -206,9 +206,11 @@
 }
 
 @media screen and (max-width: 689px){
+  .quire-cover__hero {
+    overflow: hidden;
+  }
   .quire-cover__overlay {
     width: 100%;
-    overflow: hidden;
   }
   .quire-cover__overlay.upper-left,
   .quire-cover__overlay.lower-left {
