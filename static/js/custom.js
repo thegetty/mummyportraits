@@ -37,4 +37,26 @@
     }
 
   })
-})()
+})();
+
+
+// By default, table rows in Quire highlight with a light background color on 
+// hover. This aids in legibility, however, when rows include cells with 
+// multi-row spans, the highlighe effect is broken. Only the cells explicitly
+// included in a give TR element will be highlighted, not those that only 
+// visually appear that way.
+//
+// This script allows table HTML to be marked up in such a way as to 
+// indicate what additional cell should also be highlighted.
+//
+// This is only uses in Table 7.1 for this publication. And it currently only
+// works as intended when viewing the table within the modal, it doesn't work
+// for some reason when looking at the table inline.
+function highlight(id) {
+  var elem = document.getElementById(id);
+  elem.style.backgroundColor = "#F9F9A3";
+}
+function unHighlight(id) {
+  var elem = document.getElementById(id);
+  elem.style.backgroundColor = "";
+}

@@ -204,7 +204,7 @@ figure_list:
     credit: ""
 
   - id: "fig_3_13"
-    src: figures/fig_3_13.jpg
+    src: figures/fig_3_13.png
     alt: ""
     label: "Figure 3.13"
     caption: |
