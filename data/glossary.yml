@@ -18,7 +18,7 @@ terms:
 
   - id: "beeswax"
     display: "Beeswax"
-    definition: "A natural wax produced by honeybees (*Apis* sp.) that is primarily composed of esters of various fatty acids and long-chain alcohols. Egyptians used beeswax for the mummification process, to retain the permanency of wig curls, in cosmetics, and to create painted portraits (encaustic)."
+    definition: "A natural wax produced by honeybees (*Apis* sp.) that is primarily composed of esters of various fatty acids and long-chain alcohols. Egyptians used beeswax for the mummification process, in cosmetics, to retain the permanency of wig curls, and to create painted portraits (encaustic)."
 
   - id: "binding media"
     display: "Binding media"
@@ -130,7 +130,7 @@ terms:
 
   - id: "green earth"
     display: "Green earth (terre verte)"
-    definition: "A naturally occurring Fe, Mg, A1, K hydrosilicate mineral pigment colored by glauconite or celadonite, with other associated minerals."
+    definition: "A naturally occurring Fe, Mg, Al, K hydrosilicate mineral pigment colored by glauconite or celadonite, with other associated minerals."
 
   - id: "ground"
     display: "Ground (preparation layer)"
@@ -222,7 +222,7 @@ terms:
 
   - id: "MSI/MBI"
     display: "Multispectral imaging (MSI) / multiband imaging (MBI)"
-    definition: "The creation of a series of images, each recording reflectance within a different limited range of wavelengths. This process involves using a series of band-pass camera filters or a set of narrow-band illumination sources; thus, it records variations in the absorption of materials at different wavelengths. Comparing or combining these images can help to characterize materials or to distinguish between materials that may appear similar."
+    definition: "The creation of a series of images, each recording reflectance and luminescence within a different limited range of wavelengths. This process involves using a series of band-pass camera filters or a set of narrow-band illumination sources; thus, it records variations in the absorption of materials at different wavelengths. Comparing or combining these images can help to characterize materials or to distinguish between materials that may appear similar."
 
   - id: "orpiment"
     display: "Orpiment"
@@ -341,7 +341,7 @@ terms:
     definition: "The era that corresponds to the reign of Trajan. This period is exemplified by a distinctive women’s hairstyle consisting of a “nest” of braids placed at the back of the head and rolls of curls arranged into a tall diadem (crown or headpiece) towering over the forehead. These distinguishing styles help scholars to propose a rough chronology of Roman portraiture and art, as images with these coiffures appear on dated materials such as coins and busts."
 
   - id: "tunic"
-    display: "Tunic"
+    display: "Tunic (chiton)"
     definition: "A simple garment that covered the upper body, starting at the shoulders and ending at a length somewhere between the hips and the ankles. The English word *chiton* originates from the Latin *chiton*, which means “mollusk”; that, in turn, is derived from the Greek word *khitōn*, meaning “tunic.” The tunic was a basic garment worn by both men and women in ancient Rome. Citizens and noncitizens alike wore chitons (usually white for men and red for women). Citizens might wear a chiton under the toga, especially on formal occasions. The length of the garment and the presence or lack of stripes (*clavi*), as well as their width and ornamentation, indicated the wearer’s status in Roman society."
 
   - id: "UVF/UVL"
@@ -377,8 +377,8 @@ terms:
     definition: "An analytical method used to examine the crystallographic structure, composition, and physical properties of materials, such as mineral pigments."
 
   - id: "XRF/pXRF"
-    display: "X-ray fluorescence (XRF) and portable X-ray fluorescence (pXRF) spectroscopy"
-    definition: "Techniques used for nondestructive elemental analyses of inorganic materials, utilizing a focused beam of X-rays to excite the atoms on the surface of an artwork and measuring the emitted energy. These emissions provide characteristic fingerprints of the elements in the sampled area, allowing researchers to formulate hypotheses about the compounds contained therein."
+    display: "X-ray fluorescence (XRF) spectroscopy"
+    definition: "A technique used for nondestructive elemental analyses of inorganic materials, utilizing a focused beam of X-rays to excite the atoms on the surface of an artwork and measuring the emitted energy. These emissions provide characteristic fingerprints of the elements in the sampled area, allowing researchers to formulate hypotheses about the compounds contained therein."
 
   - id: "yellow ochre"
     display: "Yellow ochre"
