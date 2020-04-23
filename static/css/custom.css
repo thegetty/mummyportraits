@@ -205,16 +205,32 @@
   margin-top: 1.5rem;
 }
 
-.quire-page__content .quire-cover__hero-body.mobile{
+/* add contributors to cover content area for mobile devices only */
+.mobile-contributor {
   display: none;
+  text-align: center;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+/* Soften black on down arrow circle */
+.quire-cover__more .hero-more {
+  background: #333;
 }
 
 @media screen and (max-width: 689px){
   .quire-cover__hero {
-    overflow-x: hidden;
+    overflow: hidden;
   }
   .quire-cover__overlay {
     width: 100%;
+    /* make the top images 40% height */
+    height: calc((95vh - 3rem) * .4);
+    min-height: calc((95vh - 3rem) * .4);
+  }
+  .quire-cover__overlay img {
+    /* show more of the image */
+    object-fit: cover;
   }
   .quire-cover__overlay.upper-left,
   .quire-cover__overlay.lower-left {
@@ -224,45 +240,33 @@
   .quire-cover__overlay.lower-right {
     margin-right: -50%;
   }
+  .quire-cover__overlay.lower-left,
+  .quire-cover__overlay.lower-right {
+    top: 40%;
+    /* make the bottom images 60% height */
+    height: calc((95vh - 3rem) * .6);
+    min-height: calc((95vh - 3rem) * .6);
+  }
+  /* aadjust spacing and display on title/subtitle block */
   .hero-body .container.is-fluid {
+    bottom: 0%;
+    margin: 0;
+    padding-bottom: 40px;
+    text-align: center;
+  }
+  .quire-cover__hero .title {
+    margin: 0;
+  }
+  .quire-cover__hero .subtitle {
+    line-height: 1.35;
+  }
+  /* hide contributor in title block */
+  .quire-cover__hero .contributor {
     display: none;
   }
-  .quire-page__content .quire-cover__hero-body.mobile {
+  /* display contributor in content area */
+  .mobile-contributor {
     display: block;
-  }
-  .quire-page__content .quire-cover__hero-body.mobile .title,
-  .quire-page__content .quire-cover__hero-body.mobile .title .subtitle,
-  .quire-page__content .quire-cover__hero-body.mobile .container {
-    color: white;
-  }
-  .quire-page__content .quire-cover__hero-body.mobile .title {
-    font-family: "Noto Sans", sans-serif;
-    font-weight: normal;
-    letter-spacing: 0;
-    font-size: calc(2rem * 1);
-    line-height: 1.07;
-    margin-bottom: calc(.5rem * 1);
-  }
-  .quire-page__content .quire-cover__hero-body.mobile .title .subtitle {
-    display: block;
-    margin-top: calc(.5rem * 1);
-    font-size: calc(1.5rem * 1);
-    font-weight: 400;
-    line-height: 1.02;
-  }
-  .quire-page__content .quire-cover__hero-body.mobile .container {
-    font-family: "Noto Sans", sans-serif;
-    font-weight: normal;
-    letter-spacing: 0;
-  }
-  .quire-page__content .quire-cover__hero-body.mobile .container.is-fluid {
-    display: block;
-    background-color: #b44a3a;
-    position: relative;
-    padding: 20px;
-  }
-  .quire-cover .quire-page__content .container.is-fluid .content {
-    padding-top: 1em !important;
   }
 }
 

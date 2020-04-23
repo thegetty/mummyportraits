@@ -2,7 +2,7 @@
 
 THIS CUSTOM OVERRIDE VERSION OF THE COVER TEMPLATE ADDS A CSS-ANIMATED
 SLIDESHOW, LINE 24, THAT AUTOMATICALLY ROTATES EVERY 2 SECONDS. THERE
-ARE ALSO LABELS FOR EACH IMAGE. 
+ARE ALSO LABELS FOR EACH IMAGE.
 
 BASE CODE CAME FROM: http://css3.bradshawenterprises.com/cfimg/
 
@@ -30,12 +30,12 @@ Cover page layout. This controls the home page of the publication.
   {{/* Begin full-page cover section */}}
   {{- if .Params.slides -}}
     <section class="quire-cover__hero hero is-fullheight">
-      
-      <div class="quire-cover__overlay upper-left">        
+
+      <div class="quire-cover__overlay upper-left">
         {{- range .Params.slides -}}
         {{- $imgPath := printf "%s/%s/%s" ($.Scratch.Get "imageDir") "upper-left" .image -}}
         <img src="{{ $imgPath | relURL }}" />
-        {{- end -}}      
+        {{- end -}}
       </div>
       <div class="quire-cover__overlay upper-right">
         {{- range .Params.slides -}}
@@ -55,11 +55,11 @@ Cover page layout. This controls the home page of the publication.
         <img src="{{ $imgPath | relURL }}" />
         {{- end -}}
       </div>
-      
-      
-      
-      
-      
+
+
+
+
+
 
   {{- else -}}
     <section class="quire-cover__hero hero is-fullheight">
@@ -69,7 +69,7 @@ Cover page layout. This controls the home page of the publication.
       <div class="container is-fluid">
         {{/* Use .Site.Data.publication info if available */}}
         {{ if .Site.Data.publication }}
-        
+
         {{- $endPunctuation := findRE "[!|?]$" .Site.Data.publication.title -}}
         <h1 class="title">
           {{ .Site.Data.publication.title | markdownify }}
@@ -88,7 +88,7 @@ Cover page layout. This controls the home page of the publication.
         {{ .Site.Data.publication.contributor_as_it_appears | markdownify }}
         {{ else }}
         <span class="visually-hidden">Contributors: </span>
-        
+
           {{/* List primary contributors unless none are marked as primary
                in which case list all contributors in publication.yml */}}
           {{/* ------------------------------------------------------------ */}}
@@ -101,7 +101,7 @@ Cover page layout. This controls the home page of the publication.
             <em>{{ partial "contributor-list.html" (dict "range" .Site.Data.publication.contributor "contributorType" "primary" "listType" "string" "Site" $.Site) }}</em>
           {{- else -}}
             <em>{{ partial "contributor-list.html" (dict "range" .Site.Data.publication.contributor "contributorType" "all" "listType" "string" "Site" $.Site) }}</em>
-          {{- end -}}        
+          {{- end -}}
         {{- end -}}
         </div>
 
@@ -112,7 +112,7 @@ Cover page layout. This controls the home page of the publication.
       </div>
     </div>
   </section>
-    
+
   <section class="quire-cover__more" >
     <div class="quire-cover__more-body hero-more">
       {{ if and (ne $.Site.Params.epub true) (ne $.Site.Params.pdf true) }}
@@ -127,54 +127,29 @@ Cover page layout. This controls the home page of the publication.
   {{ if .Content }}
 
   <section class="section quire-page__content" id="content">
-    <div class="quire-cover__hero-body mobile">
-      <div class="container is-fluid">
-        {{/* Use .Site.Data.publication info if available */}}
-        {{ if .Site.Data.publication }}
-      
-        {{- $endPunctuation := findRE "[!|?]$" .Site.Data.publication.title -}}
-        <h1 class="title">
-          {{ .Site.Data.publication.title | markdownify }}
-          {{- with .Site.Data.publication.subtitle -}}
-          {{- if $endPunctuation }} {{ else }}<span class="visually-hidden">: </span>{{ end -}}
-          <span class="subtitle">{{ . | markdownify }}</span>
-          {{ end }}
-        </h1>
-      
-        {{ with .Site.Data.publication.reading_line }}
-        <p class="reading-line">{{ . | markdownify }}</p>
-        {{ end }}
-      
-        <div class="contributor">
-          {{- if .Site.Data.publication.contributor_as_it_appears -}}
-          {{ .Site.Data.publication.contributor_as_it_appears | markdownify }}
-          {{ else }}
-          <span class="visually-hidden">Contributors: </span>
-      
-          {{/* List primary contributors unless none are marked as primary
-                     in which case list all contributors in publication.yml */}}
-          {{/* ------------------------------------------------------------ */}}
-          {{- range .Site.Data.publication.contributor -}}
-          {{- if .type -}}
-          {{ $.Scratch.Set "type" true }}
-          {{- end -}}
-          {{- end -}}
-          {{ if eq ($.Scratch.Get "type") true }}
-          <em>{{ partial "contributor-list.html" (dict "range" .Site.Data.publication.contributor "contributorType" "primary" "listType" "string" "Site" $.Site) }}</em>
-          {{- else -}}
-          <em>{{ partial "contributor-list.html" (dict "range" .Site.Data.publication.contributor "contributorType" "all" "listType" "string" "Site" $.Site) }}</em>
-          {{- end -}}
-          {{- end -}}
-        </div>
-      
-        {{ else }}
-        {{/* Fallback for when no publication.yml data is present */}}
-        <h1 class="title">{{ .Site.Title }}</h1>
-        {{ end }}
-      </div>
-    </div>
     <div class="container is-fluid">
       <div class="content">
+        <div class="mobile-contributor">
+        {{- if .Site.Data.publication.contributor_as_it_appears -}}
+        {{ .Site.Data.publication.contributor_as_it_appears | markdownify }}
+        {{ else }}
+        <span class="visually-hidden">Contributors: </span>
+
+          {{/* List primary contributors unless none are marked as primary
+               in which case list all contributors in publication.yml */}}
+          {{/* ------------------------------------------------------------ */}}
+          {{- range .Site.Data.publication.contributor -}}
+            {{- if .type -}}
+              {{ $.Scratch.Set "type" true }}
+            {{- end -}}
+          {{- end -}}
+          {{ if eq ($.Scratch.Get "type") true }}
+            <em>{{ partial "contributor-list.html" (dict "range" .Site.Data.publication.contributor "contributorType" "primary" "listType" "string" "Site" $.Site) }}</em>
+          {{- else -}}
+            <em>{{ partial "contributor-list.html" (dict "range" .Site.Data.publication.contributor "contributorType" "all" "listType" "string" "Site" $.Site) }}</em>
+          {{- end -}}
+        {{- end -}}
+        </div>
         {{ .Content }}
         {{ partial "page-bibliography.html" . }}
       </div>
@@ -185,7 +160,7 @@ Cover page layout. This controls the home page of the publication.
 
   {{/* End "below-the-fold" section */}}
   {{ partial "footer-buttons.html" . }}
-  
+
   {{ if eq $.Site.Params.pdf true }}
     {{ partial "pdf-title-pages.html" (dict "site" .Site) }}
   {{ end }}
