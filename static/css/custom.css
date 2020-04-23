@@ -82,7 +82,7 @@
   object-position: bottom right;
 }
 .quire-cover__overlay.upper-right {
-  left: 50%;
+  left: 50vw;
 }
 .quire-cover__overlay.upper-right img {
   object-position: bottom left;
@@ -94,7 +94,7 @@
   object-position: top right;
 }
 .quire-cover__overlay.lower-right {
-  left: 50%;
+  left: 50vw;
   top: 50%;
 }
 .quire-cover__overlay.lower-right img {
@@ -238,7 +238,7 @@
   }
   .quire-cover__overlay.upper-right,
   .quire-cover__overlay.lower-right {
-    margin-right: -50%;
+    margin-right: -50vw;
   }
   .quire-cover__overlay.lower-left,
   .quire-cover__overlay.lower-right {
