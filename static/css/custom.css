@@ -205,6 +205,70 @@
   margin-top: 1.5rem;
 }
 
+/* add contributors to cover content area for mobile devices only */
+.mobile-contributor {
+  display: none;
+  text-align: center;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+/* Soften black on down arrow circle */
+.quire-cover__more .hero-more {
+  background: #333;
+}
+
+@media screen and (max-width: 689px){
+  .quire-cover__hero {
+    overflow: hidden;
+  }
+  .quire-cover__overlay {
+    width: 100%;
+    /* make the top images 40% height */
+    height: calc((95vh - 3rem) * .4);
+    min-height: calc((95vh - 3rem) * .4);
+  }
+  .quire-cover__overlay img {
+    /* show more of the image */
+    object-fit: cover;
+  }
+  .quire-cover__overlay.upper-left,
+  .quire-cover__overlay.lower-left {
+    left: -50vw;
+  }
+  .quire-cover__overlay.upper-right,
+  .quire-cover__overlay.lower-right {
+    margin-right: -50%;
+  }
+  .quire-cover__overlay.lower-left,
+  .quire-cover__overlay.lower-right {
+    top: 40%;
+    /* make the bottom images 60% height */
+    height: calc((95vh - 3rem) * .6);
+    min-height: calc((95vh - 3rem) * .6);
+  }
+  /* aadjust spacing and display on title/subtitle block */
+  .hero-body .container.is-fluid {
+    bottom: 0%;
+    margin: 0;
+    padding-bottom: 40px;
+    text-align: center;
+  }
+  .quire-cover__hero .title {
+    margin: 0;
+  }
+  .quire-cover__hero .subtitle {
+    line-height: 1.35;
+  }
+  /* hide contributor in title block */
+  .quire-cover__hero .contributor {
+    display: none;
+  }
+  /* display contributor in content area */
+  .mobile-contributor {
+    display: block;
+  }
+}
 
 /* COPYRIGHT PAGE
 ============================================================================= */
