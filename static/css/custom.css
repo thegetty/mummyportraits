@@ -205,13 +205,9 @@
   margin-top: 1.5rem;
 }
 
-.quire-page__content .quire-cover__hero-body.mobile{
-  display: none;
-}
-
 @media screen and (max-width: 689px){
   .quire-cover__hero {
-    overflow-x: hidden;
+    overflow: hidden;
   }
   .quire-cover__overlay {
     width: 100%;
@@ -225,44 +221,7 @@
     margin-right: -50%;
   }
   .hero-body .container.is-fluid {
-    display: none;
-  }
-  .quire-page__content .quire-cover__hero-body.mobile {
-    display: block;
-  }
-  .quire-page__content .quire-cover__hero-body.mobile .title,
-  .quire-page__content .quire-cover__hero-body.mobile .title .subtitle,
-  .quire-page__content .quire-cover__hero-body.mobile .container {
-    color: white;
-  }
-  .quire-page__content .quire-cover__hero-body.mobile .title {
-    font-family: "Noto Sans", sans-serif;
-    font-weight: normal;
-    letter-spacing: 0;
-    font-size: calc(2rem * 1);
-    line-height: 1.07;
-    margin-bottom: calc(.5rem * 1);
-  }
-  .quire-page__content .quire-cover__hero-body.mobile .title .subtitle {
-    display: block;
-    margin-top: calc(.5rem * 1);
-    font-size: calc(1.5rem * 1);
-    font-weight: 400;
-    line-height: 1.02;
-  }
-  .quire-page__content .quire-cover__hero-body.mobile .container {
-    font-family: "Noto Sans", sans-serif;
-    font-weight: normal;
-    letter-spacing: 0;
-  }
-  .quire-page__content .quire-cover__hero-body.mobile .container.is-fluid {
-    display: block;
-    background-color: #b44a3a;
-    position: relative;
-    padding: 20px;
-  }
-  .quire-cover .quire-page__content .container.is-fluid .content {
-    padding-top: 1em !important;
+    bottom: 0%;
   }
 }
 
