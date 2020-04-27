@@ -328,6 +328,7 @@
 }
 .quire-page__content .content dl.quire-glossary dt {
   display: inline;
+  margin-right: .3rem
 }
 .quire-page__content .content dl.quire-glossary dd {
   display: inline;
