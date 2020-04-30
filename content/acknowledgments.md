@@ -8,7 +8,7 @@ The APPEAR conference could not have happened without the generous support of Ja
 
 Within the Getty we gratefully acknowledge Timothy Potts, Robin Weissberger, Mary Louise Hart, Giacomo Chiari, Molly Callender, Jack Ludden, Mark Sealy, Nick Hulea, Patrick Skidmore, Amelia Wong, Jeffrey Maish, Susanne Gänsicke, Joy Mazurek, Monica Ganio, and Karen Trentelman for making this project materialize and Danielle Freeman, Ashley Hayes, Heather Leisy, Lisa Guzzetta, Cherie Chen, Mikka Gee Conway, Samantha Monarch, Michael DeHart, and John Giurini for helping to pull all the details together.
 
-Further afield, we thank our colleagues who have always been ready to offer assistance and guidance: Sylvana Barrett, Yosi Pozeilov, David Saunders, Barbara Borg, Richard Newman, Glenn Gates, Rachel Sabino, Ken Sutherland, Dan Kushel, and colleagues at the UCLA/Getty Program in Archaeological and Ethnographic Conservation.
+Farther afield, we thank our colleagues who have always been ready to offer assistance and guidance: Sylvana Barrett, Yosi Pozeilov, David Saunders, Barbara Borg, Richard Newman, Glenn Gates, Rachel Sabino, Ken Sutherland, Dan Kushel, and colleagues at the UCLA/Getty Program in Archaeological and Ethnographic Conservation.
 
 For the production of this digital publication we express gratitude to Elizabeth Nicholson, Greg Albers, Amanda Sparrow, Laura diZerega, Victoria Barry, Nina Damavandi, Victoria Gallina, Jeffrey Cohen, Kara Kirk, Karen Levine, and Kimberly Wilkinson for their meticulous work and guidance.
 

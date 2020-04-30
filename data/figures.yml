@@ -151,7 +151,7 @@ figure_list:
     src: figures/fig_3_5.png
     alt: ""
     label: "Figure 3.5"
-    caption: "Structures (and molecular weights) of some common hydroxyanthraquinones and glucosides found in madder roots."
+    caption: "Structures (and molecular weights) of some common hydroxyanthraquinones and glycosides found in madder roots."
     credit: ""
 
   - id: "fig_3_6"
@@ -554,7 +554,7 @@ figure_list:
     src: figures/fig_7_5.jpg
     alt: ""
     label: "Figure 7.5"
-    caption: "Boy with a Floral Garland in His Hair, Romano-Egyptian, ca. AD 200–230. er-Rubayat. Tempera on *Tilia europaea* panel, 29.9 x 19.8 cm (11 3/4 x 7 13/16 in.). Brooklyn Museum, Charles Edwin Wilbour Fund, 41.848"
+    caption: "Boy with a Floral Garland in His Hair, Romano-Egyptian, ca. AD 200–230. er-Rubayat. Tempera on *Tilia europaea* panel, 29.9 x 19.8 cm (11 3/4 x 7 13/16 in.). Brooklyn Museum, Charles Edwin Wilbour Fund, 41.848."
     credit: "Image: Brooklyn Museum Conservation Department"
 
   - id: "fig_7_6a"
@@ -1099,7 +1099,7 @@ figure_list:
     src: figures/fig_14_2.jpg
     alt: ""
     label: "Figure 14.2"
-    caption: "Mummy Portrait, Romano-Egyptian, second century AD. Attributed to Kerke, Egypt. Glue tempera paint on linden panel, 35 x 19 cm (13 3/4 x 7 1/2 in.). Berkeley, University of California, Phoebe A. Hearst Museum of Anthropology, 5-2327."
+    caption: "Mummy Portrait, Romano-Egyptian, second century AD. Attributed to Kerke, Egypt. Glue tempera paint on linden panel, 35 x 19 cm (13&nbsp;3/4 x 7 1/2 in.). Berkeley, University of California, Phoebe A. Hearst Museum of Anthropology, 5-2327."
     credit: "Courtesy of Phoebe A. Hearst Museum of Anthropology and the Regents of the University of California"
 
   - id: "fig_14_3"

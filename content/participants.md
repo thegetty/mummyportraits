@@ -42,10 +42,12 @@ class: backmatter
 - Nicholson Collection, Sydney University Museums
 - Norton Simon Museum, Pasadena
 - Ny Carlsberg Glyptotek, Copenhagen
+- The Oriental Institute of the University of Chicago
 - The Petrie Museum of Egyptian Archaeology, London
 - Phoebe A. Hearst Museum of Anthropology, Berkeley
 - The Pushkin, State Museum of Fine Arts, Moscow
 - Rhode Island School of Design Museum, Providence
+- Rosicrucian Egyptian Museum, San Jose
 - San Antonio Museum of Art
 - Santa Barbara Museum of Art
 - University of Georgia, Lamar Dodd School of Art, Athens

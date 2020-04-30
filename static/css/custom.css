@@ -40,7 +40,7 @@
 }
 
 .quire-splash p:first-child:first-letter {
-  margin-right: .5rem; 
+  margin-right: .5rem;
 }
 
 @media print {
@@ -307,7 +307,7 @@
     left: 0;
   }
 }
-  
+
 /* GLOSSARY
 ============================================================================= */
 .content ul.quire-glossary__key {
@@ -343,21 +343,25 @@
 /* PDF OUTPUT
 ============================================================================= */
 @media print {
-  
+
+  .quire-page__content .container .content .footnotes sup {
+    line-height: 0;
+  }
+
   /* Accounts for pdf output of cover and first blank page. Numbering
     should alwys start at 1 on the half title page. This negative number
     hack on the cover seems to do the trick */
   .quire-page--frontmatter.quire-cover {
     counter-reset: page -1;
   }
-  
+
   /* For `type: splash` pages that are only a heading and shouldn't
     have page numbers at the bottom. I added `class: no-footer` to them. */
   @page splash-blank {
     background-color: #f9f9f2;
     @bottom-right {
       content: none;
-    }  
+    }
     @bottom-left {
       content: none;
     }
@@ -365,7 +369,7 @@
   .quire-page--no-footer.quire-splash {
     page: splash-blank;
   }
-  
+
   /* To make backmatter (Bibliography, Glossary and Contributors) two-column */
   .quire-page--backmatter .quire-page__content {
     -moz-column-count: 2;
@@ -377,14 +381,14 @@
     max-width: 100%;
     margin: 0;
   }
-  
+
   /* Utility classes */
   .remove-from-pdf {
     display: none !important;
   }
   .quire-figure.pdf-two-column {
     column-span: all;
-  }  
+  }
   .quire-figure.pdf-page-break-after {
     page-break-after: always;
   }
@@ -436,14 +440,14 @@
   top: .35em;
 }
 
-/* 
+/*
   In instances in the PDF where there is only a little bit of text on the last
-  page of chapter, the desired output is to have that text fill just one of the 
-  two columns and not break across it. This can be acheived by adding 
-  
-    class: pdf-single-column-last-page 
-  
-  to the page YAML of the specific pages where this is an issue 
+  page of chapter, the desired output is to have that text fill just one of the
+  two columns and not break across it. This can be acheived by adding
+
+    class: pdf-single-column-last-page
+
+  to the page YAML of the specific pages where this is an issue
 */
 @media print {
   .quire-essay.quire-page--pdf-single-column-last-page .quire-page__content,
@@ -459,7 +463,7 @@
   }
   #part-two-17 .quire-page__content .content h2#tempera {
     margin-top: 0;
-  } 
+  }
   #part-two-17 .quire-page__content .content h2#encaustic {
     page-break-before: always;
   }
@@ -479,7 +483,7 @@
 ============================================================================= */
 
 
-/* Override defualt behaviour of images in grids growing to fit available space 
+/* Override defualt behaviour of images in grids growing to fit available space
   on the bottom row of the grid, and makes for better spacing around images */
 .quire-figure--group__row.columns {
   margin-left: -.5rem;
@@ -508,11 +512,11 @@
 }
 
 
-/* TABLES 
+/* TABLES
 ============================================================================= */
 
 /* general improvments to styling, including to styles for leaflet modal view */
-.quire-page__content .container .content table tbody th, 
+.quire-page__content .container .content table tbody th,
 .quire-page__content .container .content table tbody td {
   border-left-width: 0;
   border-right-width: 0;
@@ -622,7 +626,7 @@
   font-weight: normal;
 }
 
-.quire-page__content .container .content table tbody th, 
+.quire-page__content .container .content table tbody th,
 .quire-page__content .container .content table tbody td {
   border-left-width: 0;
   border-right-width: 0;
@@ -647,7 +651,7 @@
   /* PrinceXML doesn’t seem to support <wbr> embedded in the URLs as a
   method for suggesting places to break words, instead we're using here
   the prince-text-replace specialty attribute to insert zero-width-spaces */
-  a:not([href^="#"]) {
+  a:not([href^="#"]):not([href^="/"]) {
     prince-text-replace: "/" "\200B/"
                           "~" "\200B~"
                           "." "\200B."
@@ -664,7 +668,7 @@
   }
 }
 
-/* Following the same pattern as above, this improves breaking after 
+/* Following the same pattern as above, this improves breaking after
 em dashes */
 @media print {
   body * {
