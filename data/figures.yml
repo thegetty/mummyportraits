@@ -54,21 +54,21 @@ figure_list:
     alt: ""
     label: "Figure 2.2"
     caption: "SEM image of an RLS of *Ficus sycomorus*, sycomore fig wood; scale bar is in microns."
-    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. ©&nbsp;Trustees of the British Museum"
 
   - id: "fig_2_3"
     src: figures/fig_2_3.jpg
     alt: ""
     label: "Figure 2.3"
     caption: "SEM image of an RLS of *Tilia europaea*, lime wood; scale bar is in microns."
-    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. ©&nbsp;Trustees of the British Museum"
 
   - id: "fig_2_4"
     src: figures/fig_2_4.jpg
     alt: ""
     label: "Figure 2.4"
     caption: "SEM image of an RLS of *Cedrus libani*, cedar of Lebanon wood; scale bar is in microns."
-    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. ©&nbsp;Trustees of the British Museum"
 
   - id: "fig_2_5"
     src: figures/fig_2_5.jpg
@@ -82,42 +82,42 @@ figure_list:
     alt: ""
     label: "Figure 2.6"
     caption: "Image of a transverse thin section of *Tilia europaea* (lime) reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
-    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. ©&nbsp;Trustees of the British Museum"
 
   - id: "fig_2_7"
     src: figures/fig_2_7.jpg
     alt: ""
     label: "Figure 2.7"
     caption: "Image of a radial longitudinal thin section of *Tilia europaea* (lime) reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
-    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. ©&nbsp;Trustees of the British Museum"
 
   - id: "fig_2_8"
     src: figures/fig_2_8.jpg
     alt: ""
     label: "Figure 2.8"
     caption: "Image of a tangential longitudinal thin section of *Tilia europaea* (lime) reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
-    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. ©&nbsp;Trustees of the British Museum"
 
   - id: "fig_2_9"
     src: figures/fig_2_9.jpg
     alt: ""
     label: "Figure 2.9"
     caption: "Image of a transverse thin section of *Ficus sycomorus* sycomore fig reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
-    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. ©&nbsp;Trustees of the British Museum"
 
   - id: "fig_2_10"
     src: figures/fig_2_10.jpg
     alt: ""
     label: "Figure 2.10"
     caption: "Image of a transverse thin section of *Ziziphus spina-christi* (sidr) reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
-    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. ©&nbsp;Trustees of the British Museum"
 
   - id: "fig_2_11"
     src: figures/fig_2_11.jpg
     alt: ""
     label: "Figure 2.11"
     caption: "Image of a transverse thin section of *Tamarix aphylla* (tamarisk) reference specimen wood seen in transmitted light in the optical microscope. The section has been stained in the laboratory to show the cellular details; scale bar is in microns."
-    credit: "Image: C. R. Cartwright. © Trustees of the British Museum"
+    credit: "Image: C. R. Cartwright. ©&nbsp;Trustees of the British Museum"
 
   - id: "fig_3_1"
     src: figures/fig_3_1.jpg
@@ -359,175 +359,175 @@ figure_list:
     alt: ""
     label: "Figure 6.3"
     caption: "Workflow for assessing the presence of a selection of key pigments in the BM portrait collection by examining the response in the VIL, UVL, IRRFC, and UVRFC images."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_4"
     src: figures/fig_6_4.jpg
     alt: ""
     label: "Figure 6.4"
     caption: "Bar charts showing the number of portraits exhibiting the identified uses of the pigments: (a) Egyptian blue; (b) pink lake; &#40;c) carbon black; (d) ochres; and (e) lead white in the BM portrait collection (dark gray denotes portraits in encaustic; light gray, portraits in tempera)."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_5_a"
     src: figures/fig_6_5_a.jpg
     alt: ""
     label: "Figure 6.5a"
     caption: "VIS and VIL images showing Egyptian blue used as blue pigment in Mummy Portrait of a Woman, Romano-Egyptian, AD 160–170. er-Rubayat. Encaustic on lime wood with gilding, 44.4 x 16 cm (17 1/2 x 6 5/16 in.). London, The British Museum, 1939,0324.211 and EA65346."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_5_b"
     src: figures/fig_6_5_b.jpg
     alt: ""
     label: "Figure 6.5b"
     caption: "VIS and VIL images showing Egyptian blue used in mixtures with pink lake in Mummy Portrait of a Woman, Romano-Egyptian, AD 190–220. Hawara. Encaustic on fir wood with gilding, 32.1 x 22.7 cm (12 5/8 x 8 15/16 in.). The British Museum, 1994,0521.15 and EA74717."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_5_c_1"
     src: figures/fig_6_5_c_1.jpg
     alt: ""
     label: "Figure 6.5c-1"
     caption: "VIS and VIL images showing Egyptian blue used in skin tones in Mummy Portrait of a Woman, Romano-Egyptian, AD 55–70. Hawara. Encaustic on lime wood, 35.8 x 20.2 cm (14 1/8 x 7 15/16 in.). London, The British Museum, 1994,0521.14 and EA74716."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_5_c_2"
     src: figures/fig_6_5_c_2.jpg
     alt: ""
     label: "Figure 6.5c-2"
     caption: "VIS and VIL images showing Egyptian blue used in skin tones in Mummy Portrait of a Man, Romano-Egyptian, AD 80–100. Hawara. Encaustic on lime wood, 42.5 x 20.9 cm (16 3/4 x 8 3/16 in.). London, The British Museum, 1994,0521.16 and EA74718."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_5_d"
     src: figures/fig_6_5_d.jpg
     alt: ""
     label: "Figure 6.5d"
     caption: "VIS and VIL images showing Egyptian blue used as a highlight in Mummy Portrait of a Woman, Romano-Egyptian, AD 100–120. Saqqara. Encaustic on lime wood with gilding, 37.4 x 17 cm (14 3/4 x 6 11/16 in.). London, The British Museum, 1856,0814.1 and EA29772."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_6_a"
     src: figures/fig_6_6_a.jpg
     alt: ""
     label: "Figure 6.6a"
     caption: "VIS and UVL images showing pink lake used as a pink pigment in Mummy Portrait of a Woman, Romano-Egyptian, AD 55–70. Hawara. Encaustic on lime wood, 41.6 x 21.5 cm (16 3/8 x 8 1/2 in.). London, The British Museum, 1994,0521.11 and EA74713."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_6_b"
     src: figures/fig_6_6_b.jpg
     alt: ""
     label: "Figure 6.6b"
     caption: "VIS and UVL images showing pink lake used in mixtures to produce dark red in Mummy Portrait of a Woman, Romano-Egyptian, ca. AD 200. er-Rubayat. Encaustic on oak, 38 x 23 cm (15 x 9 1/16 in.). London, The British Museum, 1939,0324.209 and EA65344."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_6_c_1"
     src: figures/fig_6_6_c_1.jpg
     alt: ""
     label: "Figure 6.6c-1"
     caption: "VIS and UVL images showing pink lake used in mixtures to produce skin tones in Mummy Portrait of a Woman, Romano-Egyptian, AD 160–180. er-Rubayat. Tempera on wood, 29 x 16.6 cm (11 3/8 x 6 1/2 in.). London, The British Museum, 1931,0711.1 and EA63394."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_6_c_2"
     src: figures/fig_6_6_c_2.jpg
     alt: ""
     label: "Figure 6.6c-2"
     caption: "VIS and UVL images showing pink lake used in mixtures to produce skin tones. Mummy Portrait of a Young Man, Romano-Egyptian, AD 140–180. Thebes (?). Tempera on wood. London, The British Museum EA6713."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_6_d"
     src: figures/fig_6_6_d.jpg
     alt: ""
     label: "Figure 6.6d"
     caption: "VIS and UVL images showing pink lake used in mixtures to produce highlights in Fragmentary Mummy Portrait of a Woman, Romano-Egyptian, AD 140–160. Tempera on lime wood, 30.5 x 7.4 cm (12 x 2 7/8 in.). London, The British Museum, EA5619."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_7_a"
     src: figures/fig_6_7_a.jpg
     alt: ""
     label: "Figure 6.7a"
     caption: "VIS and IRRFC images showing carbon black used as a black pigment in Mummy Portrait of a Young Man, Romano-Egyptian, AD 80–120. Hawara. Encaustic and tempera on lime wood, 35.8 x 20.8 cm (14 1/8 x 8 3/16 in.). London, The British Museum, 1994,0521.9 and EA74711."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_7_b"
     src: figures/fig_6_7_b.jpg
     alt: ""
     label: "Figure 6.7b"
     caption: "VIS and IRRFC images showing carbon black used in mixtures to produce gray tones and evoke shadows in Mummy Portrait of a Young Man, Romano-Egyptian, AD 150–170. Hawara. Encaustic on lime wood with gilding, 42.7 x 22.2 cm (16 13/16 x 8 3/4 in.). London, The British Museum, 1994,0521.2 and EA74704."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_7_c"
     src: figures/fig_6_7_c.jpg
     alt: ""
     label: "Figure 6.7c"
     caption: "VIS and IRRFC images showing a case in which visually dark materials are IR transparent and hence not carbon based. Portrait of a Woman, Romano-Egyptian, AD 40–70. Hawara. Encaustic on linen shroud with gilding, 51.7 x 37 cm (20 3/8 x 14 9/16 in.). London, The British Museum, 1994,0521.7 and EA74709."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_8_a"
     src: figures/fig_6_8_a.jpg
     alt: ""
     label: "Figure 6.8a"
     caption: "VIS and UVRFC images showing ochres used as yellow pigment in the portrait shown in fig. 6.5c-1."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_8_b"
     src: figures/fig_6_8_b.jpg
     alt: ""
     label: "Figure 6.8b"
     caption: "VIS and UVRFC images showing ochres used as red pigment in Mummy Portrait of a Woman Holding an Unguentarium, Romano-Egyptian, AD 100–120. er-Rubayat. Stucco on linen, 37.5 x 18.2 cm (14 3/4 x 7 1/8 in.). London, The British Museum, 1931,0711.2 and EA63395."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_8_c"
     src: figures/fig_6_8_c.jpg
     alt: ""
     label: "Figure 6.8c"
     caption: "VIS and UVRFC images showing ochres used in mixtures to produce various shades for the depiction of skin tones. Mummy Portrait, Perhaps of a Priest, Romano-Egyptian, AD 140–160. Hawara. Encaustic on lime wood, 42.5 x 22 cm (16 3/4 x 8 5/8 in.). London, The British Museum 1994.0521.12 and EA74714."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_9_a"
     src: figures/fig_6_9_a.jpg
     alt: ""
     label: "Figure 6.9a"
     caption: "VIS and IRRFC images showing indigo used as a blue pigment in Mummy Portrait of a Woman, Romano-Egyptian, ca. AD 200. er-Rubayat. Encaustic on oak, 33 x 18 cm (13 x 7 1/8 in.). London, The British Museum, 1939,0324.208 and EA65343."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_9_b"
     src: figures/fig_6_9_b.jpg
     alt: ""
     label: "Figure 6.9b"
     caption: "VIS and IRRFC images showing indigo used in a mixture to produce a green pigment in the beads of the necklaces in Mummy Portrait of a Woman, Romano-Egyptian, AD 70–100, er-Rubayat. Tempera and encaustic on lime wood, 41.5 x 22 cm (16 3/8 x 8 5/8 in.). London, The British Museum EA74831."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_9_c"
     src: figures/fig_6_9_c.jpg
     alt: ""
     label: "Figure 6.9c"
     caption: "VIS and IRRFC images showing indigo used in mixtures to produce purple-toned pigments for the garment and beads of the lower necklace in Mummy Portrait of a Woman, Romano-Egyptian, AD 100–120. Hawara. Encaustic on lime wood, 38.2 x 20.5 cm (15 x 8 1/16 in.). London, The British Museum, 1994,0521.4 and EA74706."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_9_d"
     src: figures/fig_6_9_d.jpg
     alt: ""
     label: "Figure 6.9d"
     caption: "VIVL and MBR images showing the distribution of pink lake and indigo pigments in the garment and necklace beads in the portrait shown in fig. 6.9c."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_10_a"
     src: figures/fig_6_10_a.jpg
     alt: ""
     label: "Figure 6.10a"
     caption: "VIS and IRRFC images showing the use of copper-based inorganic pigments to depict green gemstones in the portrait shown in fig. 6.8b."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_10_b"
     src: figures/fig_6_10_b.jpg
     alt: ""
     label: "Figure 6.10b"
     caption: "VIS and IRRFC images showing the use of copper-based organometallic pigments to depict green gemstones in the portrait shown in fig. 6.9c."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_6_10_c"
     src: figures/fig_6_10_c.jpg
     alt: ""
     label: "Figure 6.10c"
     caption: "VIS and IRRFC images showing the use of green earth pigments to depict green gemstones in the portrait shown in fig. 6.6c-1."
-    credit: "© Trustees of the British Museum"
+    credit: "©&nbsp;Trustees of the British Museum"
 
   - id: "fig_7_1"
     src: figures/fig_7_1.jpg
