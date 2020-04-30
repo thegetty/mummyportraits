@@ -7,7 +7,7 @@ epub: false
 
 Once interred with mummified remains, nearly a thousand funerary portraits from Roman Egypt survive today in museums and galleries around the world, bringing viewers face-to-face with people who lived two thousand years ago. Until recently, few of these paintings had undergone in-depth study to determine how they were made.
 
-An international collaboration known as APPEAR (Ancient Panel Paintings: Examination, Analysis, and Research) was launched in 2013 to promote the study of these objects and to gather scientific and historical findings into a shared database. The first phase of the project was marked with a two-day conference at the Getty Villa. Conservators, scientists, and curators presented new research on topics such as provenance and collecting, comparisons of works across institutions, and scientific studies of pigments, binders, and supports. The papers and posters from the conference are collected in this publication, which offers the most up-to-date information available about these fascinating remnants of the ancient world.
+An international collaboration known as APPEAR (Ancient Panel Paintings: Examination, Analysis, and Research) was launched in 2013 to promote the study of these objects and to gather scientific and historical findings into a shared database. The first phase of the project was marked with a two-day conference at the Getty Villa. Conservators, scientists, and curators presented new research on topics such as provenance and collecting, comparisons of works across institutions, and scientific studies of pigments, binders, and supports. The papers and poster presentations from the conference are collected in this publication, which offers the most up-to-date information available about these fascinating remnants of the ancient world.
 
 {{< q-class "backmatter" >}}
 
@@ -79,28 +79,28 @@ Nina Damavandi, *Image and Rights Acquisition*<br />
 
 Library of Congress Cataloging-in-Publication Data
 
-- Names: APPEAR (Project), author. | Svoboda, Marie, editor. | Cartwright, 
-   Caroline, editor. | J. Paul Getty Museum, host institution, issuing 
+- Names: APPEAR (Project), author. | Svoboda, Marie, editor. | Cartwright,
+   Caroline, editor. | J. Paul Getty Museum, host institution, issuing
    body.  
-- Title: Mummy portraits of Roman Egypt : emerging research from the APPEAR 
+- Title: Mummy portraits of Roman Egypt : emerging research from the APPEAR
    project / edited by Marie Svoboda and Caroline R. Cartwright.  
-- Description: First edition. | Los Angeles : J. Paul Getty Museum, 2020. | 
-   Proceedings of a conference held at the J. Paul Getty Museum at the 
-   Getty Villa, Malibu, on May 17 and 18, 2018. | Includes bibliographical 
-   references. | Summary: "This publication gathers papers and posters from 
-   a 2018 conference organized as part of the APPEAR (Ancient Panel 
-   Paintings: Examination, Analysis, and Research) initiative, an 
-   international collaboration that promotes the study of funerary 
+- Description: First edition. | Los Angeles : J. Paul Getty Museum, 2020. |
+   Proceedings of a conference held at the J. Paul Getty Museum at the
+   Getty Villa, Malibu, on May 17 and 18, 2018. | Includes bibliographical
+   references. | Summary: "This publication gathers papers and posters from
+   a 2018 conference organized as part of the APPEAR (Ancient Panel
+   Paintings: Examination, Analysis, and Research) initiative, an
+   international collaboration that promotes the study of funerary
    portraits from Roman Egypt"-- Provided by publisher.  
-- Identifiers: LCCN 2019057806 (print) | LCCN 2019057807 (ebook) | ISBN 
-   9781606066546 (paperback) | ISBN 9781606066522 (epub) | ISBN 
+- Identifiers: LCCN 2019057806 (print) | LCCN 2019057807 (ebook) | ISBN
+   9781606066546 (paperback) | ISBN 9781606066522 (epub) | ISBN
    9781606066539 (ebook)  
-- Subjects: LCSH: Mummy portraits--Expertising--Congresses. | Mummy 
-   portraits--Egypt--Congresses. | Portraits, Roman--Egypt--Congresses. | 
-   Portraits, Egyptian--Congresses. | Egypt--Antiquities, 
-   Roman--Congresses. 
-- Classification: LCC ND1327.E3 A67 2020  (print) | LCC ND1327.E3  (ebook) | 
-   DDC 759.02/16--dc23 
+- Subjects: LCSH: Mummy portraits--Expertising--Congresses. | Mummy
+   portraits--Egypt--Congresses. | Portraits, Roman--Egypt--Congresses. |
+   Portraits, Egyptian--Congresses. | Egypt--Antiquities,
+   Roman--Congresses.
+- Classification: LCC ND1327.E3 A67 2020  (print) | LCC ND1327.E3  (ebook) |
+   DDC 759.02/16--dc23
 - LC record available at https://lccn.loc.gov/2019057806
 - LC ebook record available at https://lccn.loc.gov/2019057807
 
