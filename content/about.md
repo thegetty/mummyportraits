@@ -15,11 +15,11 @@ An international collaboration known as APPEAR (Ancient Panel Paintings: Examina
 
 ### Chicago
 
-Svoboda, Marie, and Caroline R. Cartwright, eds. *Mummy Portraits of Roman Egypt: Emerging Research from the APPEAR Project*. Los Angeles: The J. Paul Getty Museum, 2020. http://www.getty.edu/publications/mummyportraits/.
+Svoboda, Marie, and Caroline R. Cartwright, eds. *Mummy Portraits of Roman Egypt: Emerging Research from the APPEAR Project*. Los Angeles: J. Paul Getty Museum, 2020. http://www.getty.edu/publications/mummyportraits/.
 
 ### MLA
 
-Svoboda, Marie, and Caroline R. Cartwright, editors. *Mummy Portraits of Roman Egypt: Emerging Research from the APPEAR Project*. The J. Paul Getty Museum, 2020. http://www.getty.edu/publications/mummyportraits/. Accessed <span class="cite-current-date">Aug. 26, 2019</span>.
+Svoboda, Marie, and Caroline R. Cartwright, editors. *Mummy Portraits of Roman Egypt: Emerging Research from the APPEAR Project*. J. Paul Getty Museum, 2020. http://www.getty.edu/publications/mummyportraits/. Accessed <span class="cite-current-date">Aug. 26, 2019</span>.
 
 ### Permanent URL
 
