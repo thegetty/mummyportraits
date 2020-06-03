@@ -193,13 +193,17 @@ function scrollToHash() {
     // Remove links that don't actually link to anything
     .not('[href="#"]')
     .not('[href="#0"]')
-    .click(function() {
-      // prevent default scrolling behavior
-     event.preventDefault();
-     // ensure the hash is manually set after preventing default
-     window.location.hash = this.hash;
-     // save current hash
-     var hash = this.hash.replace(":", "\\:");
+    .click(function(event) {
+      // only override default link behavior if it points to the same page
+      if (this.pathname.includes(window.location.pathname)) {
+        // prevent default scrolling behavior
+        event.preventDefault();
+        // ensure the hash is manually set after preventing default
+        window.location.hash = this.hash;
+      }
+      // save current hash, prefixing all ':' and '.' with '\\' to make them query-selectable
+      var hash = this.hash.replace(":", "\\:");
+      hash = hash.replace(".", "\\.");
       // Figure out element to scroll to
       var target = $(hash);
       target = target.length ? target : $("[name=" + this.hash.slice(1) + "]");

@@ -1,10 +1,10 @@
 {{/*
-  
+
   THIS ALTERNATE VERSION OF THE PARTIAL ADDS LINKS FROM CONTRIBUTOR NAMES
-  (see `define "name-links"` below) TO THEIR BIOGRAPHIES ON THE CONTRIBUTOR PAGE. ALL OF THE TEMPLATES HAVE BEEN RENAMED SO AS NOT TO CONFLICT WITH 
+  (see `define "name-links"` below) TO THEIR BIOGRAPHIES ON THE CONTRIBUTOR PAGE. ALL OF THE TEMPLATES HAVE BEEN RENAMED SO AS NOT TO CONFLICT WITH
   THOSE IN THE ORIGINAL CONTRIBUTOR-LIST PARTIAL
-  
-  
+
+
   A simple partial to create a list of contributor names. Looks first for
   .full_name and otherwise combines first and last. Expects three values to be
   passed in:
@@ -139,9 +139,9 @@
 
 {{- define "name-links" -}}
   {{- if .full_name -}}
-    <a href="/contributors/#{{ replaceRE " " "-" .full_name }}">{{ .full_name }}</a>
+    <a href="/contributors/#{{ anchorize .full_name }}">{{ .full_name }}</a>
   {{- else -}}
-    <a href="/contributors/#{{ printf "%s-%s" .first_name .last_name | replaceRE " " "-" }}">{{ .first_name }} {{ .last_name }}</a>
+    <a href="/contributors/#{{ printf "%s %s" .first_name .last_name | anchorize }}">{{ .first_name }} {{ .last_name }}</a>
   {{- end -}}
 {{- end -}}
 
