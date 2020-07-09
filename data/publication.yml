@@ -25,7 +25,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2020-08-11 # YYYY-MM-DD
+pub_date: 2020-08-25 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -126,7 +126,7 @@ subject:
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date: 2020-08-11
+  - date: 2020-08-25
     summary:
       - First edition
 
