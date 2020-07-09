@@ -473,9 +473,13 @@
 @media print {
   .quire-page__content .container .content ul li:before {
     font-size: 5pt;
-    margin-top: .4rem;
+    /* margin-top: 1.4rem; */
+    padding-top: .15em;
     margin-left: -1rem;
   }
+}
+.quire-page__content .container .content ul li:before {
+  margin-top: .3rem;
 }
 
 
