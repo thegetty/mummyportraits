@@ -29,7 +29,7 @@ http://www.getty.edu/publications/mummyportraits/
 
 Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/mummyportraits/](https://github.com/thegetty/mummyportraits/), where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
 
-### August 11, 2020
+### August 25, 2020
 
   - First edition
 

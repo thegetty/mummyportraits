@@ -1309,6 +1309,7 @@ figure_list:
     media_type: table
     label: "Expand"
     src: tables/6-1.html
+    static: tables/6-1.png
     caption: ""
     credit: ""
 
@@ -1316,6 +1317,7 @@ figure_list:
     media_type: table
     label: "Expand"
     src: tables/6-2.html
+    static: tables/6-2.png
     caption: ""
     credit: ""
 
