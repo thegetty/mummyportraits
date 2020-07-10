@@ -76,20 +76,25 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF
+    name: PDF (7.1 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/output.pdf
+    url: /downloads/SvobodaCartwright_MummyPortraits.pdf
   - type: other-format
-    name: EPUB
+    name: EPUB (54.7 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/output.epub
+    url: /downloads/SvobodaCartwright_MummyPortraits.epub
   - type: other-format
-    name: Kindle/MOBI
+    name: Kindle/MOBI (129.6 MB)
     media_type: vnd.amazon.mobi8-ebook
     link_relation: alternate
-    url: /downloads/output.mobi
+    url: /downloads/SvobodaCartwright_MummyPortraits.mobi
+  - type: other-format
+    name: Paperback
+    media_type: print
+    link_relation: alternate
+    url: https://shop.getty.edu/products/mummy-portraits-of-roman-egypt-emerging-research-from-the-appear-project-978-1606066546
   - type: footer-link
     name: About
     link_relation: about
