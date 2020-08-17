@@ -35,9 +35,10 @@ Any revisions or corrections made to this publication after the first edition da
 
 ## Other Formats
 
-  - [PDF](/downloads/output.pdf)
-  - [EPUB](/downloads/output.epub)
-  - [MOBI](/downloads/oputput.mobi)
+  - [PDF (7.1 MB)](/downloads/SvobodaCartwright_MummyPortraits.pdf)
+  - [EPUB (54.7 MB)](/downloads/SvobodaCartwright_MummyPortraits.epub)
+  - [Kindle/MOBI (129.6 MB)](/downloads/SvobodaCartwright_MummyPortraits.mobi)
+  - [Paperback](https://shop.getty.edu/products/mummy-portraits-of-roman-egypt-emerging-research-from-the-appear-project-978-1606066546)
 
 ## Copyright
 
