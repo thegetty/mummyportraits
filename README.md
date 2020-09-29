@@ -1,110 +1,49 @@
-# Quire Starter
-_A Digital Publishing Framework from Getty Publications_
+This is the repository for “Mummy Portraits of Roman Egypt: Emerging Research from the APPEAR Project,” edited by Marie Svoboda and Caroline R. Cartwright. This digital book was first published August 25, 2020, by the J. Paul Getty Museum. It is available online at [http://www.getty.edu/publications/mummyportraits/](http://www.getty.edu/publications/mummyportraits/) and may be downloaded free of charge in multiple formats.
 
-This is the starter template for
-[Quire](http://www.getty.edu/publications/digital/platforms-tools.html), an
-open-source multi-format publishing framework built on
-[Hugo](https://github.com/gohugoio/hugo). Quire consists of:
+## About the Book
 
-- [quire-cli](https://github.com/gettypubs/quire-cli)
-- [quire-starter](https://github.com/gettypubs/quire-starter)
-- [quire-starter-theme](https://github.com/gettypubs/quire-starter-theme)
-- [quire-docs](https://github.com/gettypubs/quire-starter)
+Once interred with mummified remains, nearly a thousand funerary portraits from Roman Egypt survive today in museums and galleries around the world, bringing viewers face-to-face with people who lived two thousand years ago. Until recently, few of these paintings had undergone in-depth study to determine how they were made.
 
-## Getting Started
+An international collaboration known as APPEAR (Ancient Panel Paintings: Examination, Analysis, and Research) was launched in 2013 to promote the study of these objects and to gather scientific and historical findings into a shared database. The first phase of the project was marked with a two-day conference at the Getty Villa. Conservators, scientists, and curators presented new research on topics such as provenance and collecting, comparisons of works across institutions, and scientific studies of pigments, binders, and supports. The papers and poster presentations from the conference are collected in this publication, which offers the most up-to-date information available about these fascinating remnants of the ancient world.
 
-### Quire-CLI
+## Using this Repository
 
-There are two ways to get started using this template for your own projects. If
-you are using the [quire-cli](https://github.com/gettypubs/quire-cli), this
-template is what you will see after running the `quire new` command in a
-terminal session.
+This is one in series of multiformat publications using [Quire](http://www.getty.edu/publications/digital/platforms-tools.html), Getty’s new publishing framework. Quire is currently in private beta, with the goal of it being released as free and open source software in the future. In the meantime, users are encouraged to request access at http://bit.ly/quire-beta. This repository can also be run locally to build the online site (but not the PDF or ebook formats) with [Hugo](https://gohugo.io/), the [static site generator](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/) at the core of Quire.
 
-To start development on your own project, navigate into your project directory
-and run `quire preview` to see changes locally, and `quire build` output static
-files. The `quire pdf` and `quire epub` commands are also available if you are
-generating other formats for your publication.
+We are dedicated to maintaining this publication for years to come at the permanent URL, [http://www.getty.edu/publications/mummyportraits/](http://www.getty.edu/publications/mummyportraits/), and in its various formats and incarnations. For any updates to the book, we will be following something between an app and traditional book publication model. Updates will only be made in regulated chunks as formal revisions and new editions and will always be thoroughly documented here in the repository, as well as in the revision history included with each of the book’s many formats.
 
-### Manual setup
+The primary content pieces of the book can be found in the `data` and `content` directories. The master branch represents the current, published edition at all times, and the revisions branch, when present, will show changes currently under consideration. We invite you to submit suggestions or corrections via pull request on the revisions branch, by posting an issue, or by emailing us at [pubsinfo@getty.edu](mailto:pubsinfo@getty.edu).
 
-Alternatively, you can clone this repository and begin using it directly. In
-that case you will probably want to "flatten" the starter kit and it's
-accompanying theme into a single repository so you can keep track of your work
-in your own Git repository. You only need to follow these steps if you *are not*
-using the `quire` command-line tool (it will take care of that for you).
+## Development Notes
 
-1. Clone the kit and its theme submodule: 
-   `git clone --recursive https://github.com/gettypubs/quire-starter.git`
-2. Change into the kit directory and remove the submodule from the repo's tree: 
-   `git rm --cached themes/quire-starter-theme`
-3. Remove the `.gitmodules` file: `rm .gitmodules`
-4. Add the contents of the theme directory to the repo and commit them: 
-   `git add themes/quire-starter-theme`
-5. Make sure you have a new remote set up to push changes to as you make them.
+This project was last built with the following software versions:
 
-Quire is built on top of Hugo, so even without the Quire CLI tool you can still
-preview or build your project the same as you would in any other Hugo website
-(`hugo server`, etc.). In order to see any changes you've made to the theme
-files however, you will also need to run Webpack in the
-`themes/quire-starter-theme` subfolder (make sure to install the necessary
-dependencies there first!). To simulate the `quire preview` experience you will
-need to run `hugo server` in the project root and 
-`./node_modules/.bin/webpack --watch` in the `themes/quire-starter-theme`
-subfolder.
+- Quire 0.18.0
+- Node 12.18.3 / npm 6.14.6
+- Hugo 0.72
+- PrinceXML 13.5
+- Pandoc 2.10.1
 
-## Deployment
+While v0.18.0 of the core Quire Starter Theme was used, a number of customizations were made:
 
-At some point you will probably want to publish what you have built so that it
-can be shared with the wider world. Quire currently supports two methods of
-deployment: Netlify and Github Pages. Both of these services are fast, free, and
-fairly easy to setup. 
+- Include custom, four-quadrant cover animation
+- Remove page-level bibliography
+- Add page-level copyright notice using a `copyright` attribute in the page yaml
+- Link contributor names on individual pages to their biographies on the Contributors page
+- Add custom pop-up definition and glossary shortcodes
 
-### Deploying to Netlify
+Within the theme itself, changes were made to the `source/css/variables.scss` and `source/css/print.scss` files. Outside of the theme, customizations can be found in the project’s `layouts` directory, and in `static/css/custom.css`.
 
-Assuming you have created a repository for this project on GitHub, sign up or
-log in to [Netlify](https://www.netlify.com/) using your GitHub account.
+### Images Submodule
 
-1. Click the big button labeled *new site from Git*
-2. Select your repository
-3. Configure the basic build settings: choose appropriate branch (`master` by
-   default)
-4. You can set the default build command to `hugo` and the publish directory to
-   `public/`, but this is not necessare since the `netlify.toml` file has all the
-   information pre-configured.
-5. Netlify will auto-generate a site URL for you, or you can set it yourself.
-   The default example uses `http://quire-demo.netlify.com`. Set this as your
-   `baseURL` in `config.build.yml`, and set `relativeURLs: true`
-6. Now, every time you push up a commit to `master` on GitHub, Netlify will
-   automatically rebuild your site using the settings in `netlify.toml`.
-   Pretty cool!
+Many of figure images for *Mummy Portraits* are licensed from third parties for use exclusively in this publication. As such, they are kept in a separate, private repository, https://github.com/thegetty/mummyportraits-images/, which is linked to this main publication repository as a submodule in `static/img/figures/`. When cloning this repo for further development, you’ll permissions for the private repository and will need to clone recursively in order to clone both the main repo and the submodule.
 
-### Deploying to GitHub Pages
+```
+git clone --recursive https://github.com/thegetty/mummyportraits.git
+```
 
-If you don't need all the features of Netlify, Quire has limited support for
-GitHub pages as well, but there are a few caveats. Unlike Netlify, GitHub Pages
-does not support continuous deployment for Hugo/Quire websites. This means you
-will need to manually deploy the site by running a script provided in
-`bin/deploy.sh` in the project folder.
+## License
 
-In `config.build.yml`, comment out the Netlify lines and uncomment the GH Pages
-settings. Your `baseURL` will need to be in the format that GitHub Pages expects
-(https://yourusername.github.io/projectname for most sites). Setting 
-`canonifyURLs: true` will help to avoid broken links.
+© 2020 J. Paul Getty Trust
 
-Finally, you will need to remove the `public/` directory from your `.gitignore`
-file so that you can check built files into version control.
-
-At this point you can run `bin/deploy.sh` and everything will be pushed up to
-GitHub on the `gh-pages` branch. It may take a few moments for everything to
-become visible online.
-
-If you get git errors when deploying because of upstream changes, you can always
-delete the `gh-pages` branch on GitHub and re-run the deploy script.
-
-### Deploying Elsewhere
-
-Any web server capable of hosting static files will work (S3, FTP server, etc.),
-but you will likely need to customize the values in `config.build.yml` to suit
-your needs.
-
-
+The text of this work and figs. 4.2–3, 4.10, 4.13, 8.3–4, 11.2–5, and 17.4a are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). All other images are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
