@@ -1,12 +1,20 @@
 ---
-title: Acknowledgments
+title: Acknowledgments A “Lofty” Retrospective
 weight: 5
 type: page
 ---
 
-The APPEAR conference could not have happened without the generous support of James Cuno and the J. Paul Getty Trust, whose encouragement and funding, respectively, provided the foundation on which the project was able to develop and grow; its sustained progression is credited to the wonderful project participants, the forty-seven institutions and their teams who joined the APPEAR project. Through their gracious collaboration, they continue to support the mission of expanding our understanding of the materials and technology used in ancient panel painting and have contributed immeasurably to APPEAR's development and success. Additional praise is due to the many presenters at the conference and the authors within this volume, who have shared their research as well as enthusiasm and passion for the subject; we express our sincere gratitude and appreciation for your participation.
+## Heading Here
 
-Within the Getty we gratefully acknowledge Timothy Potts, Robin Weissberger, Mary Louise Hart, Giacomo Chiari, Molly Callender, Jack Ludden, Mark Sealy, Nick Hulea, Patrick Skidmore, Amelia Wong, Jeffrey Maish, Susanne Gänsicke, Joy Mazurek, Monica Ganio, and Karen Trentelman for making this project materialize and Danielle Freeman, Ashley Hayes, Heather Leisy, Lisa Guzzetta, Cherie Chen, Mikka Gee Conway, Samantha Monarch, Michael DeHart, and John Giurini for helping to pull all the details together.
+The APPEAR conference could not have happened without the generous support of *James Cuno and the J. Paul Getty Trust*, whose encouragement and funding, respectively, provided the foundation on which the project was able to develop and grow; its sustained progress
+
+- List
+- List also
+- List third
+
+ion is credited to the wonderful project participants, the forty-seven institutions and their teams who joined the APPEAR project. Through their gracious collaboration, they continue to support the mission of expanding our understanding of the materials and technology used in ancient panel painting and have contributed immeasurably to **APPEAR's development** and success. Additional praise is due to the many presenters at the conference and the authors within this volume, who have shared their research as well as enthusiasm and passion for the subject; we express our sincere gratitude and appreciation for your participation.
+
+> Within the Getty we gratefully acknowledge Timothy Potts, Robin Weissberger, Mary Louise Hart, Giacomo Chiari, Molly Callender, Jack Ludden, Mark Sealy, Nick Hulea, Patrick Skidmore, Amelia Wong, Jeffrey Maish, Susanne Gänsicke, Joy Mazurek, Monica Ganio, and Karen Trentelman for making this project materialize and Danielle Freeman, Ashley Hayes, Heather Leisy, Lisa Guzzetta, Cherie Chen, Mikka Gee Conway, Samantha Monarch, Michael DeHart, and John Giurini for helping to pull all the details together.
 
 Farther afield, we thank our colleagues who have always been ready to offer assistance and guidance: Sylvana Barrett, Yosi Pozeilov, David Saunders, Barbara Borg, Richard Newman, Glenn Gates, Rachel Sabino, Ken Sutherland, Dan Kushel, and colleagues at the UCLA/Getty Program in Archaeological and Ethnographic Conservation.
 
