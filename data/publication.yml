@@ -135,6 +135,10 @@ revision_history:
     summary:
       - First edition
 
+  - date: 2025-08-18
+    summary: 
+      - Minor reference updates 
+
 repository_url: https://github.com/thegetty/mummyportraits/
 
 # ------------------------------------------------------------------------------
