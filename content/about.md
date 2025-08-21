@@ -33,6 +33,10 @@ Any revisions or corrections made to this publication after the first edition da
 
   - First edition
 
+### August 18, 2025
+
+   - Minor reference updates
+
 ## Other Formats
 
   - [PDF (7.1 MB)](/downloads/SvobodaCartwright_MummyPortraits.pdf)

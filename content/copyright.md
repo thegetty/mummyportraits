@@ -17,6 +17,7 @@ The free online edition of this publication is available at [getty.edu/publicati
 The text of this work and figs. 4.2–3, 4.10, 4.13, 8.3–4, 11.2–5, and 17.4a are licensed under a Creative Commons Attribution 4.0 International License. To view a copy of this license, visit [creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/). All other images are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
 First edition, 2020<br />
+Last updated, August 18, 2025<br />
 [github.com/thegetty/mummyportraits/](https://github.com/thegetty/mummyportraits/)
 
 **Published by the J. Paul Getty Museum, Los Angeles**<br />
